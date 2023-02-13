@@ -1,0 +1,677 @@
+mesh_code,mesh_tree,tree1,tree_lbl
+D000367,N05.715.350.075,N," Age, gender, racial group, geog."
+D000367,N06.850.490.250,N," Age, gender, racial group, geog."
+D005783,F01.393.446.250,F," Age, gender, racial group, geog."
+D005783,F01.752.747.385.200,F," Age, gender, racial group, geog."
+D005783,F01.752.747.722.200,F," Age, gender, racial group, geog."
+D005783,F02.739.794.793.200,F," Age, gender, racial group, geog."
+D009203,C14.280.647.500,C,C: Diseases
+D009203,C14.907.585.500,C,C: Diseases
+D009203,C23.550.513.355.750,C,C: Diseases
+D009203,C23.550.717.489.750,C,C: Diseases
+D001835,C23.888.144,C,C: Diseases
+D001835,E01.370.600.115.100.160.120,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D001835,E05.041.124.160.750,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D001835,G07.100.100.160.120,G,Other
+D001835,G07.345.249.314.120,G,Other
+D008074,D10.532,D,D: Chemicals and Drugs
+D008074,D12.776.521,D,D: Chemicals and Drugs
+D006973,C14.907.489,C,C: Diseases
+D000073865,F01.145.805.375.750,F,Other
+D000073865,F01.145.958.875.750,F,Other
+D003920,C18.452.394.750,C,C: Diseases
+D003920,C19.246,C,C: Diseases
+D008487,E01.370.510,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D000787,C14.280.647.187,C,C: Diseases
+D000787,C14.907.585.187,C,C: Diseases
+D000787,C23.888.592.612.233.500,C,C: Diseases
+D001241,D02.455.426.559.389.657.410.595.176,D,D: Chemicals and Drugs
+D000319,D000319,D,D: Chemicals and Drugs
+D000319,D27.505.519.625.050.200.200,D,D: Chemicals and Drugs
+D000319,D27.505.696.577.050.200.200,D,D: Chemicals and Drugs
+D044469,M01.686.508,M," Age, gender, racial group, geog."
+D054058,C14.280.647.124,C,C: Diseases
+D054058,C14.907.585.124,C,C: Diseases
+D005343,D005343,D,D: Chemicals and Drugs
+D005343,D27.505.519.421.750,D,D: Chemicals and Drugs
+D005343,D27.505.954.411.320,D,D: Chemicals and Drugs
+D005343,D27.505.954.502.427,D,D: Chemicals and Drugs
+D015607,E07.695.750,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D005842,Z01,Z," Age, gender, racial group, geog."
+D015914,E02.319.452.150,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D000806,D000806,D,D: Chemicals and Drugs
+D000806,D27.505.519.389.745.085,D,D: Chemicals and Drugs
+D003704,C10.228.140.380,C,C: Diseases
+D003704,F03.615.400,F,Other
+D007328,D06.472.699.587.200.500.625,D,D: Chemicals and Drugs
+D007328,D12.644.548.586.200.500.625,D,D: Chemicals and Drugs
+D019851,C15.378.925,C,C: Diseases
+D054556,C14.907.355.590.700,C,C: Diseases
+D000925,D000925,D,D: Chemicals and Drugs
+D000925,D27.505.954.502.119,D,D: Chemicals and Drugs
+D006442,D09.400.430.937,D,D: Chemicals and Drugs
+D006442,D12.776.124.400.405.440,D,D: Chemicals and Drugs
+D006442,D12.776.395.381,D,D: Chemicals and Drugs
+D006442,D12.776.422.316.762.380.440,D,D: Chemicals and Drugs
+D014652,C14.907,C,C: Diseases
+D006937,C18.452.584.500.500.396,C,C: Diseases
+D006333,C14.280.434,C,C: Diseases
+D017379,C14.280.195.400,C,C: Diseases
+D017379,C23.300.775.250.400,C,C: Diseases
+D009204,E04.100.376.719,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D009204,E04.928.220.520,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D003324,C14.280.647.250.260,C,C: Diseases
+D003324,C14.907.137.126.339,C,C: Diseases
+D003324,C14.907.585.250.260,C,C: Diseases
+D000428,F01.145.317.269,F,Other
+D015992,E01.370.600.115.100.125,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D015992,E05.041.124.125,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D015992,G07.100.100.125,G,Other
+D015992,N06.850.505.200.100.175,N,Other
+D001794,E01.370.600.875.249,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D001794,G09.330.380.076,G,Other
+D015444,G11.427.410.698.277,G,Other
+D015444,I03.350,I,Other
+D000419,C12.050.351.968.934.734.269,C,C: Diseases
+D000419,C12.200.777.934.734.269,C,C: Diseases
+D000419,C12.950.934.734.269,C,C: Diseases
+D000419,C23.888.942.750.269,C,C: Diseases
+D020521,C10.228.140.300.775,C,C: Diseases
+D020521,C14.907.253.855,C,C: Diseases
+D011058,A18.024.249.500.249.500,A,A: Anatomy
+D002097,D12.776.034.145,D,D: Chemicals and Drugs
+D002097,D12.776.124.050.120,D,D: Chemicals and Drugs
+D002097,D12.776.124.486.157,D,D: Chemicals and Drugs
+D062645,E04.100.814.529.968,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D062645,E04.502.382.968,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D013927,C14.907.355.830,C,C: Diseases
+D014336,D05.500.945,D,D: Chemicals and Drugs
+D014336,D05.750.078.730.825,D,D: Chemicals and Drugs
+D014336,D12.776.210.500.910,D,D: Chemicals and Drugs
+D014336,D12.776.220.525.825,D,D: Chemicals and Drugs
+D000072657,C14.280.647.500.875,C,C: Diseases
+D000072657,C14.907.585.500.875,C,C: Diseases
+D000072657,C23.550.513.355.750.875,C,C: Diseases
+D000072657,C23.550.717.489.750.875,C,C: Diseases
+D008659,C18.452,C,C: Diseases
+D051437,C12.050.351.968.419.780,C,C: Diseases
+D051437,C12.200.777.419.780,C,C: Diseases
+D051437,C12.950.419.780,C,C: Diseases
+D013318,E01.370.370.380.150.700,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D013318,G09.330.380.124.882,G,Other
+D008593,G08.686.157.500,G,Other
+D008593,G08.686.841.249.500,G,Other
+D000073867,F01.145.805.063.500,F,Other
+D007238,C23.550.513.355,C,C: Diseases
+D007238,C23.550.717.489,C,C: Diseases
+D006495,D09.698.373.400.300,D,D: Chemicals and Drugs
+D005337,D12.776.124.270,D,D: Chemicals and Drugs
+D005919,E01.370.390.400.300,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D005919,G08.852.357,G,Other
+D000069059,D03.383.129.578.075,D,D: Chemicals and Drugs
+D000069059,D10.251.450.200,D,D: Chemicals and Drugs
+D009369,C04,C,C: Diseases
+D000073868,F01.145.805.063,F,Other
+D002318,C14,C,C: Diseases
+D006666,K01.400.552,K,Other
+D006348,E04.100.376,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D006348,E04.928.220,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D010146,C23.888.592.612,C,C: Diseases
+D010146,F02.830.816.444,F,Other
+D010146,G11.561.790.444,G,Other
+D001799,E01.370.225.625.125,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D001799,E05.200.625.125,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D001172,C05.550.114.154,C,C: Diseases
+D001172,C05.799.114,C,C: Diseases
+D001172,C17.300.775.099,C,C: Diseases
+D001172,C20.111.199,C,C: Diseases
+D010975,D010975,D,D: Chemicals and Drugs
+D010975,D27.505.954.502.780,D,D: Chemicals and Drugs
+D006268,N02.278,N,Other
+D000960,D000960,D,D: Chemicals and Drugs
+D000960,D27.505.519.186.071,D,D: Chemicals and Drugs
+D000960,D27.505.954.557.500,D,D: Chemicals and Drugs
+D024821,C18.452.394.968.500.570,C,C: Diseases
+D024821,C18.452.625,C,C: Diseases
+D019161,D019161,D,D: Chemicals and Drugs
+D019161,D27.505.519.186.071.202.370,D,D: Chemicals and Drugs
+D019161,D27.505.519.389.370,D,D: Chemicals and Drugs
+D019161,D27.505.954.557.500.202.370,D,D: Chemicals and Drugs
+D001691,E02.095,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D003524,D04.345.566.235,D,D: Chemicals and Drugs
+D003524,D12.644.641.235,D,D: Chemicals and Drugs
+D007166,D007166,D,D: Chemicals and Drugs
+D007166,D27.505.696.477.656,D,D: Chemicals and Drugs
+D011701,E02.774.945.500,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D014467,E02.774.945,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D001830,E01.370.600.115.100.231,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D001830,E05.041.124.231,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D001830,G07.100.100.231,G,Other
+D011565,C17.800.859.675,C,C: Diseases
+D010003,C05.550.114.606,C,C: Diseases
+D010003,C05.799.613,C,C: Diseases
+D005947,D09.947.875.359.448,D,D: Chemicals and Drugs
+D055105,E01.370.600.115.100.160.560,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D055105,E05.041.124.160.875,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D055105,G07.100.100.160.560,G,Other
+D054328,D054328,D,D: Chemicals and Drugs
+D054328,D27.505.519.389.848,D,D: Chemicals and Drugs
+D005765,D005765,D,D: Chemicals and Drugs
+D005765,D27.505.954.483,D,D: Chemicals and Drugs
+D013256,D04.210.500,D,D: Chemicals and Drugs
+D020097,D06.472.699.584.625,D,D: Chemicals and Drugs
+D020097,D12.644.548.585.625,D,D: Chemicals and Drugs
+D020097,D12.776.631.590,D,D: Chemicals and Drugs
+D004417,C08.618.326,C,C: Diseases
+D004417,C23.888.852.371,C,C: Diseases
+D007511,C23.550.513,C,C: Diseases
+D000081029,C08.381.423.847,C,C: Diseases
+D012964,D01.268.549.750,D,D: Chemicals and Drugs
+D012964,D01.268.557.650,D,D: Chemicals and Drugs
+D012964,D01.552.528.850,D,D: Chemicals and Drugs
+D012964,D01.552.547.725,D,D: Chemicals and Drugs
+D001806,E01.370.225.124.100.115,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D001806,E01.370.390.400.100,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D001806,E05.200.124.100.115,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D001127,D06.472.699.631.692.781.100,D,D: Chemicals and Drugs
+D001127,D12.644.400.900.100,D,D: Chemicals and Drugs
+D001127,D12.644.456.925.100,D,D: Chemicals and Drugs
+D001127,D12.644.548.691.692.781.100,D,D: Chemicals and Drugs
+D001127,D12.776.631.650.937.100,D,D: Chemicals and Drugs
+D029424,C08.381.495.389,C,C: Diseases
+D029424,C23.550.291.500.875,C,C: Diseases
+D000079424,D000079424,D,D: Chemicals and Drugs
+D000079424,D27.505.954.158.757,D,D: Chemicals and Drugs
+D016632,D10.532.091.200.100,D,D: Chemicals and Drugs
+D016632,D12.776.070.400.200.100,D,D: Chemicals and Drugs
+D016632,D12.776.521.120.200.100,D,D: Chemicals and Drugs
+D055806,A07.015.461,A,A: Anatomy
+D000959,D000959,D,D: Chemicals and Drugs
+D000959,D27.505.954.411.162,D,D: Chemicals and Drugs
+D001145,C14.280.067,C,C: Diseases
+D001145,C23.550.073,C,C: Diseases
+D006325,A07.541.358,A,A: Anatomy
+D000638,D03.633.100.127.075,D,D: Chemicals and Drugs
+D000889,D000889,D,D: Chemicals and Drugs
+D000889,D27.505.954.411.097,D,D: Chemicals and Drugs
+D006349,C14.280.484,C,C: Diseases
+D007004,D007004,D,D: Chemicals and Drugs
+D007004,D27.505.696.422,D,D: Chemicals and Drugs
+D001281,C14.280.067.198,C,C: Diseases
+D001281,C23.550.073.198,C,C: Diseases
+D006339,E01.370.600.875.500,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D006339,G09.330.380.500,G,Other
+D006454,D12.776.124.400,D,D: Chemicals and Drugs
+D006454,D12.776.422.316.762,D,D: Chemicals and Drugs
+D000076610,G05.346.500,G,Other
+D001249,C08.127.108,C,C: Diseases
+D001249,C08.381.495.108,C,C: Diseases
+D001249,C08.674.095,C,C: Diseases
+D001249,C20.543.480.680.095,C,C: Diseases
+D014810,D03.383.663.283.909,D,D: Chemicals and Drugs
+D014810,D03.633.100.150.909,D,D: Chemicals and Drugs
+D013575,C10.597.606.358.800.600,C,C: Diseases
+D013575,C23.888.592.604.359.800.600,C,C: Diseases
+D000767,E03.155.086.131,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D013514,E04,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D000082742,E05.318.740.600.800.725.500,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D000082742,N05.715.350.200.700.500,N,Other
+D000082742,N05.715.360.750.625.700.700.500,N,Other
+D000082742,N06.850.490.625.750.500,N,Other
+D000082742,N06.850.520.830.600.800.725.500,N,Other
+D019637,E02.718,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D019637,E04.555,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D000758,E03.155,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D014656,E04.100.814,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D012123,E01.370.386.700.660,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D012123,G09.772.650,G,Other
+D011788,I01.800,I,Other
+D011788,K01.752.400.750,K,Other
+D011788,N06.850.505.400.425.837,N,Other
+D050197,C14.907.137.126.307,C,C: Diseases
+D002561,C10.228.140.300,C,C: Diseases
+D002561,C14.907.253,C,C: Diseases
+D009765,C18.654.726.750.500,C,C: Diseases
+D009765,C23.888.144.699.500,C,C: Diseases
+D057911,D057911,D,D: Chemicals and Drugs
+D057911,D27.505.519.162,D,D: Chemicals and Drugs
+D005767,C06.405,C,C: Diseases
+D018680,D018680,D,D: Chemicals and Drugs
+D018680,D27.505.519.625.120.200,D,D: Chemicals and Drugs
+D018680,D27.505.696.577.120.200,D,D: Chemicals and Drugs
+D058666,D058666,D,D: Chemicals and Drugs
+D058666,D27.505.519.625.050.100.200.200,D,D: Chemicals and Drugs
+D058666,D27.505.696.577.050.100.200.200,D,D: Chemicals and Drugs
+D002096,D06.472.699.587.200.500.250,D,D: Chemicals and Drugs
+D002096,D12.644.548.586.200.500.250,D,D: Chemicals and Drugs
+D011384,D06.472.699.587.200.500,D,D: Chemicals and Drugs
+D011384,D12.644.548.586.200.500,D,D: Chemicals and Drugs
+D011384,D12.776.811.706,D,D: Chemicals and Drugs
+D007333,C18.452.394.968.500,C,C: Diseases
+D007333,G07.690.773.984.617,G,Other
+D000900,D000900,D,D: Chemicals and Drugs
+D000900,D27.505.954.122.085,D,D: Chemicals and Drugs
+D006470,C23.550.414,C,C: Diseases
+D011470,C12.100.500.565.500,C,C: Diseases
+D011470,C12.200.294.565.500,C,C: Diseases
+D011469,C12.100.500.565,C,C: Diseases
+D011469,C12.200.294.565,C,C: Diseases
+D000317,D000317,D,D: Chemicals and Drugs
+D000317,D27.505.519.625.050.200.100,D,D: Chemicals and Drugs
+D000317,D27.505.696.577.050.200.100,D,D: Chemicals and Drugs
+D007172,C12.100.500.214,C,C: Diseases
+D007172,C12.100.875.486,C,C: Diseases
+D007172,C12.200.294.214,C,C: Diseases
+D007172,F03.835.400,F,Other
+D017430,D08.811.277.656.300.760.442.750,D,D: Chemicals and Drugs
+D017430,D08.811.277.656.959.350.442.750,D,D: Chemicals and Drugs
+D017430,D12.776.866.249.500,D,D: Chemicals and Drugs
+D017430,D23.050.285.625,D,D: Chemicals and Drugs
+D017430,D23.101.140.625,D,D: Chemicals and Drugs
+D018149,C18.452.394.952.500,C,C: Diseases
+D018376,C14.240,C,C: Diseases
+D018376,C16.131.240,C,C: Diseases
+D010024,C05.116.198.579,C,C: Diseases
+D010024,C18.452.104.579,C,C: Diseases
+D000073216,F04.711.513.603,F,Other
+D013043,H02.403.810,H,Other
+D015906,E02.148.050.060.100,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D015906,E04.100.376.719.100,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D015906,E04.100.814.529.124.060.100,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D015906,E04.100.814.529.968.050,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D015906,E04.502.382.124.060.100,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D015906,E04.502.382.968.050,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D015906,E04.928.220.520.100,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D015906,E05.157.016.060.100,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D060050,C14.280.647.187.362,C,C: Diseases
+D060050,C14.907.585.187.362,C,C: Diseases
+D060050,C23.888.592.612.233.500.575,C,C: Diseases
+D011655,C08.381.746,C,C: Diseases
+D011655,C14.907.355.350.700,C,C: Diseases
+D017023,E01.370.350.130.625,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D017023,E01.370.350.700.060.200,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D017023,E01.370.370.050.200,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D017023,E01.370.370.380.200,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D058226,C23.300.823,C,C: Diseases
+D013131,A02.835.232.834,A,A: Anatomy
+D014527,D03.132.960.877,D,D: Chemicals and Drugs
+D014527,D03.633.100.759.758.824.877,D,D: Chemicals and Drugs
+D033461,C23.550.449,C,C: Diseases
+D000069465,D02.886.675.274,D,D: Chemicals and Drugs
+D000069465,D03.383.129.708.274,D,D: Chemicals and Drugs
+D003424,C06.405.205.731.500,C,C: Diseases
+D003424,C06.405.469.432.500,C,C: Diseases
+D016491,C14.907.617,C,C: Diseases
+D058017,E04.100.814.868,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D016480,B03.440.500.550,B,Other
+D016480,B03.660.150.235.500.250.550,B,Other
+D000893,D000893,D,D: Chemicals and Drugs
+D000893,D27.505.954.158,D,D: Chemicals and Drugs
+D012307,E05.318.740.600.800.725,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D012307,N05.715.350.200.700,N,Other
+D012307,N05.715.360.750.625.700.700,N,Other
+D012307,N06.850.490.625.750,N,Other
+D012307,N06.850.520.830.600.800.725,N,Other
+D001569,D03.633.100.079.080,D,D: Chemicals and Drugs
+D004232,D004232,D,D: Chemicals and Drugs
+D004232,D27.505.696.560.500,D,D: Chemicals and Drugs
+D012217,D12.776.124.486.485.114.323.732,D,D: Chemicals and Drugs
+D012217,D12.776.124.790.651.114.323.732,D,D: Chemicals and Drugs
+D012217,D12.776.377.715.548.114.323.732,D,D: Chemicals and Drugs
+D008660,G03,G,Other
+D010641,G05.695,G,Other
+D020246,C14.907.355.830.925,C,C: Diseases
+D003092,C06.405.205.265,C,C: Diseases
+D003092,C06.405.469.158.188,C,C: Diseases
+D007167,E02.095.465.425,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D003093,C06.405.205.265.231,C,C: Diseases
+D003093,C06.405.205.731.249,C,C: Diseases
+D003093,C06.405.469.158.188.231,C,C: Diseases
+D003093,C06.405.469.432.249,C,C: Diseases
+D053448,C23.888.942.343.600,C,C: Diseases
+D014563,G08.852.898,G,Other
+D005951,E01.370.225.124.100.355,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D005951,E01.370.374.355,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D005951,E05.200.124.100.355,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D008881,C10.228.140.546.399.750,C,C: Diseases
+C522181,@257732,@,Other
+D001026,E04.100.376.719.332,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D001026,E04.100.814.868.750,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D001026,E04.928.220.520.220,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D059411,C23.888.942.343,C,C: Diseases
+D019821,D02.455.426.559.847.638.400.900,D,D: Chemicals and Drugs
+D019821,D04.615.638.400.900,D,D: Chemicals and Drugs
+D009525,D03.066.515.475,D,D: Chemicals and Drugs
+D009525,D03.383.725.547.475,D,D: Chemicals and Drugs
+D001993,D001993,D,D: Chemicals and Drugs
+D001993,D27.505.696.663.050.110,D,D: Chemicals and Drugs
+D001993,D27.505.954.796.050.100,D,D: Chemicals and Drugs
+D049629,E01.370.600.115.100.960,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D049629,E05.041.124.946,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D049629,G07.100.100.960,G,Other
+D007003,C18.452.394.984,C,C: Diseases
+D058924,D02.886.778.823,D,D: Chemicals and Drugs
+D058924,D03.383.725.849,D,D: Chemicals and Drugs
+D058924,D03.383.903.830,D,D: Chemicals and Drugs
+D058924,D03.633.100.928,D,D: Chemicals and Drugs
+D009367,E01.789.625,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D001323,D12.776.124.486.485.114.323,D,D: Chemicals and Drugs
+D001323,D12.776.124.790.651.114.323,D,D: Chemicals and Drugs
+D001323,D12.776.377.715.548.114.323,D,D: Chemicals and Drugs
+D000962,D000962,D,D: Chemicals and Drugs
+D000962,D27.505.954.122.250.100.085,D,D: Chemicals and Drugs
+D012216,C05.799,C,C: Diseases
+D012216,C17.300.775,C,C: Diseases
+D015525,D10.212.302.380.410,D,D: Chemicals and Drugs
+D015525,D10.251.355.337,D,D: Chemicals and Drugs
+D015525,D10.627.430.450,D,D: Chemicals and Drugs
+D000075422,D12.776.124.486.485.114.323.095,D,D: Chemicals and Drugs
+D000075422,D12.776.124.790.651.114.323.095,D,D: Chemicals and Drugs
+D000075422,D12.776.377.715.548.114.323.095,D,D: Chemicals and Drugs
+D018501,D018501,D,D: Chemicals and Drugs
+D018501,D27.505.954.329,D,D: Chemicals and Drugs
+D007674,C12.050.351.968.419,C,C: Diseases
+D007674,C12.200.777.419,C,C: Diseases
+D007674,C12.950.419,C,C: Diseases
+D006350,E07.695.310,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D005227,D10.251,D,D: Chemicals and Drugs
+D000078504,D12.776.256.159.313.250,D,D: Chemicals and Drugs
+D000078504,D12.776.325.250,D,D: Chemicals and Drugs
+D000078504,G07.203.300.428.159.313.250,G,Other
+D000078504,G07.203.300.600.625.250,G,Other
+D000078504,G07.203.300.600.875.550,G,Other
+D000078504,J02.500.428.159.375.250,J,Other
+D000078504,J02.500.600.625.250,J,Other
+D000078504,J02.500.600.875.550,J,Other
+Q000209,Y05,Y,Other
+D020517,A07.541.358.100,A,A: Anatomy
+D015535,C05.116.900.853.625.800.424,C,C: Diseases
+D015535,C05.550.114.145,C,C: Diseases
+D015535,C05.550.114.865.800.424,C,C: Diseases
+D015535,C17.800.859.675.175,C,C: Diseases
+D004802,C15.378.553.231,C,C: Diseases
+C512835,@125252,@,Other
+D017130,E02.148.050,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D017130,E04.100.814.529.124,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D017130,E04.502.382.124,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D017130,E05.157.016,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D007262,E02.319.267.082.500,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D007262,E02.319.267.510.590,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D001808,A07.015,A,A: Anatomy
+D002546,C10.228.140.300.150.836,C,C: Diseases
+D002546,C14.907.253.092.836,C,C: Diseases
+D054855,E07.695.750.500,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D002317,D002317,D,D: Chemicals and Drugs
+D002317,D27.505.954.411,D,D: Chemicals and Drugs
+D059168,E01.370.350.850.150,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D059168,E01.370.370.180,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D059168,G09.330.210,G,Other
+D003863,F01.145.126.350,F,Other
+D003863,F01.470.282,F,Other
+D018737,E01.370.600.425.500,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D018737,G11.427.560.500,G,Other
+D000073496,C23.550.359,C,C: Diseases
+D003071,F02.463.188,F,Other
+D003094,D05.750.078.280,D,D: Chemicals and Drugs
+D003094,D12.776.860.300.250,D,D: Chemicals and Drugs
+D003095,C17.300.200,C,C: Diseases
+D003096,E04.928.600.220,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D002121,D002121,D,D: Chemicals and Drugs
+D002121,D27.505.519.562.249,D,D: Chemicals and Drugs
+D002121,D27.505.696.260.500,D,D: Chemicals and Drugs
+D002121,D27.505.954.411.192,D,D: Chemicals and Drugs
+D058186,C12.050.351.968.419.780.050,C,C: Diseases
+D058186,C12.200.777.419.780.050,C,C: Diseases
+D058186,C12.950.419.780.050,C,C: Diseases
+D003331,A07.015.114.269,A,A: Anatomy
+D003331,A07.015.908.194,A,A: Anatomy
+D012078,C12.050.351.968.419.775,C,C: Diseases
+D012078,C12.200.777.419.775,C,C: Diseases
+D012078,C12.950.419.775,C,C: Diseases
+D012078,C14.907.137.727,C,C: Diseases
+D016903,E01.370.520.200,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D006400,E01.370.225.625.400,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D006400,E05.200.625.400,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D006400,G09.188.370.374,G,Other
+D010300,C10.228.140.079.862.500,C,C: Diseases
+D010300,C10.228.662.600.400,C,C: Diseases
+D010300,C10.574.928.750,C,C: Diseases
+D005346,D12.644.276.624,D,D: Chemicals and Drugs
+D005346,D12.776.467.624,D,D: Chemicals and Drugs
+D005346,D23.529.624,D,D: Chemicals and Drugs
+D015424,E04.100.700,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D015424,E05.680.730,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D015415,D23.101,D,D: Chemicals and Drugs
+D000067251,C23.550.291.937.500,C,C: Diseases
+D006934,C18.452.174.451,C,C: Diseases
+D006934,C18.452.950.340,C,C: Diseases
+D015897,N05.715.350.225,N,Other
+D015897,N06.850.490.687,N,Other
+D050723,C26.404,C,C: Diseases
+D050724,C26.411,C,C: Diseases
+D050725,D12.776.624.664.520.420,D,D: Chemicals and Drugs
+D050177,C18.654.726.750,C,C: Diseases
+D050177,C23.888.144.699,C,C: Diseases
+D050177,G07.100.100.160.120.699,G,Other
+D004522,N01.824.196,N,Other
+D000085002,E02.491,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D014581,C17.800.862.945,C,C: Diseases
+D014581,C20.543.480.904,C,C: Diseases
+D011537,C17.800.685,C,C: Diseases
+D011537,C23.888.885.625,C,C: Diseases
+D000799,C14.907.079,C,C: Diseases
+D000799,C17.800.862.945.066,C,C: Diseases
+D000799,C20.543.480.904.066,C,C: Diseases
+D006633,D006633,D,D: Chemicals and Drugs
+D006633,D27.505.519.625.375.425,D,D: Chemicals and Drugs
+D006633,D27.505.696.577.375.425,D,D: Chemicals and Drugs
+D000700,D000700,D,D: Chemicals and Drugs
+D000700,D27.505.696.663.850.014,D,D: Chemicals and Drugs
+D000700,D27.505.954.427.040,D,D: Chemicals and Drugs
+D011014,C01.748.610,C,C: Diseases
+D011014,C08.381.677,C,C: Diseases
+D011014,C08.730.610,C,C: Diseases
+D013505,E04.210,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D015212,C06.405.205.731,C,C: Diseases
+D015212,C06.405.469.432,C,C: Diseases
+D010343,E02.760.400.600,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D010343,N02.421.585.400.600,N,Other
+D000740,C15.378.071,C,C: Diseases
+D001158,A07.015.114,A,A: Anatomy
+D006472,C07.465.625,C,C: Diseases
+D006472,C23.550.414.922,C,C: Diseases
+D006472,C23.888.619.500,C,C: Diseases
+D006475,C15.378.100.920.360,C,C: Diseases
+D006475,C15.378.463.841.464,C,C: Diseases
+D006475,C16.614.940,C,C: Diseases
+D006475,C18.654.422.360,C,C: Diseases
+D006475,C18.654.521.500.133.912.360,C,C: Diseases
+D050171,C18.452.584.500,C,C: Diseases
+D023921,C14.280.647.250.285,C,C: Diseases
+D023921,C14.907.585.250.285,C,C: Diseases
+D020782,D08.811.277.656.300.480.525,D,D: Chemicals and Drugs
+D020782,D08.811.277.656.675.374.525,D,D: Chemicals and Drugs
+D005338,D12.776.124.270.300,D,D: Chemicals and Drugs
+D005338,D12.776.811.300.290,D,D: Chemicals and Drugs
+D018497,C14.280.945.910,C,C: Diseases
+D019934,E01.370.225.625.115.320,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D019934,E05.200.625.115.320,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D003330,C14.240.400.210,C,C: Diseases
+D003330,C14.280.400.210,C,C: Diseases
+D003330,C16.131.240.400.210,C,C: Diseases
+D000927,D000927,D,D: Chemicals and Drugs
+D000927,D27.505.954.427.080,D,D: Chemicals and Drugs
+D003251,C23.300.287,C,C: Diseases
+D003240,C17.300,C,C: Diseases
+D011236,C18.452.394.750.774,C,C: Diseases
+D011236,C19.246.774,C,C: Diseases
+D013166,C01.160.762,C,C: Diseases
+D013166,C05.116.165.762,C,C: Diseases
+D013166,C05.116.900.853,C,C: Diseases
+D001171,C05.550.114.122,C,C: Diseases
+D001171,C05.799.056,C,C: Diseases
+D001171,C17.300.775.049,C,C: Diseases
+D001171,C20.111.198,C,C: Diseases
+D000081206,E02.760.287,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D000081206,N02.421.585.287,N,Other
+D019918,E04.100.376.485,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D019918,E04.650.410,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D019918,E04.928.220.410,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D006742,N02.278.306.472,N,Other
+D061665,E02.760.928,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D061665,N02.421.585.928,N,Other
+D006967,C20.543,C,C: Diseases
+D007136,D12.776.124.486.485,D,D: Chemicals and Drugs
+D007136,D12.776.124.790.651,D,D: Chemicals and Drugs
+D007136,D12.776.377.715.548,D,D: Chemicals and Drugs
+D009298,C08.460.572,C,C: Diseases
+D009298,C09.603.557,C,C: Diseases
+D009298,C23.300.825.557,C,C: Diseases
+D007073,D12.776.124.486.485.114.619.312,D,D: Chemicals and Drugs
+D007073,D12.776.124.790.651.114.619.312,D,D: Chemicals and Drugs
+D007073,D12.776.377.715.548.114.619.312,D,D: Chemicals and Drugs
+D043484,D08.811.277.656.837,D,D: Chemicals and Drugs
+D014797,E01.370.386.700.485.750.900,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D014797,G09.772.850.970,G,Other
+D002319,A07,A,A: Anatomy
+D000451,D000451,D,D: Chemicals and Drugs
+D000451,D06.347.700,D,D: Chemicals and Drugs
+D000451,D27.505.696.399.450.600,D,D: Chemicals and Drugs
+D000451,D27.505.696.560.500.726.249,D,D: Chemicals and Drugs
+D004967,D004967,D,D: Chemicals and Drugs
+D004967,D27.505.696.399.472.277,D,D: Chemicals and Drugs
+D041981,A03.556,A,A: Anatomy
+D003106,A03.556.124.526.356,A,A: Anatomy
+D003106,A03.556.249.249.356,A,A: Anatomy
+D007082,A03.556.124.684.249,A,A: Anatomy
+D007082,A03.556.249.124,A,A: Anatomy
+D054850,C05.116.540.310.800,C,C: Diseases
+D008180,C17.300.480,C,C: Diseases
+D008180,C20.111.590,C,C: Diseases
+D015850,D12.644.276.374.465.224,D,D: Chemicals and Drugs
+D015850,D12.776.467.374.465.202,D,D: Chemicals and Drugs
+D015850,D23.529.374.465.224,D,D: Chemicals and Drugs
+D001991,C01.748.099,C,C: Diseases
+D001991,C08.127.446,C,C: Diseases
+D001991,C08.381.495.146,C,C: Diseases
+D001991,C08.730.099,C,C: Diseases
+D011656,C08.381.495.389.750,C,C: Diseases
+D011656,C23.550.291.500.875.875,C,C: Diseases
+D011657,C08.381.750,C,C: Diseases
+D011657,C15.378.553.231.549.750,C,C: Diseases
+D011658,C08.381.483.652,C,C: Diseases
+D011658,C23.550.355.644,C,C: Diseases
+D011659,E01.370.386.700.650,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D011659,G03.143.775.602,G,Other
+D011659,G09.772.705.760.602,G,Other
+D013352,C23.550.325.500,C,C: Diseases
+D000671,E04.555.080,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D011507,C12.050.351.968.934.734,C,C: Diseases
+D011507,C12.200.777.934.734,C,C: Diseases
+D011507,C12.950.934.734,C,C: Diseases
+D011507,C23.888.942.750,C,C: Diseases
+D054092,C14.240.400.560.375.258,C,C: Diseases
+D054092,C14.280.400.560.375.258,C,C: Diseases
+D054092,C16.131.240.400.560.375.258,C,C: Diseases
+D020969,C23.550.291,C,C: Diseases
+D003928,C12.050.351.968.419.192,C,C: Diseases
+D003928,C12.200.777.419.192,C,C: Diseases
+D003928,C12.950.419.192,C,C: Diseases
+D003928,C19.246.099.875,C,C: Diseases
+D001037,C10.597.606.150.500.800.100,C,C: Diseases
+D001037,C23.888.592.604.150.500.800.100,C,C: Diseases
+D055109,E01.370.370.140.049,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D000071756,D08.811.520.650.600.750,D,D: Chemicals and Drugs
+D000071756,D12.776.476.350.500,D,D: Chemicals and Drugs
+D004724,E01.370.388.250,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D004724,E04.502.250,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+C000719275,@317211,@,Other
+D000544,C10.228.140.380.100,C,C: Diseases
+D000544,C10.574.945.249,C,C: Diseases
+D000544,F03.615.400.100,F,Other
+D059347,C12.050.351.968.419.780.400,C,C: Diseases
+D059347,C12.200.777.419.780.400,C,C: Diseases
+D059347,C12.950.419.780.400,C,C: Diseases
+D059347,C14.280.434.156,C,C: Diseases
+D000991,D000991,D,D: Chemicals and Drugs
+D000991,D27.505.519.389.745.800.449,D,D: Chemicals and Drugs
+D000991,D27.505.954.502.119.500,D,D: Chemicals and Drugs
+D002637,C23.888.592.612.233,C,C: Diseases
+D003402,D08.811.913.696.640.150,D,D: Chemicals and Drugs
+D006023,D09.400.430,D,D: Chemicals and Drugs
+D006023,D12.776.395,D,D: Chemicals and Drugs
+D006356,C23.888.821.525,C,C: Diseases
+D006551,C23.300.707.960.500.467,C,C: Diseases
+D017706,D12.644.456.345.600,D,D: Chemicals and Drugs
+D019808,D02.455.426.559.389.185.475,D,D: Chemicals and Drugs
+D019808,D03.383.129.308.507,D,D: Chemicals and Drugs
+D019808,D03.383.129.617.467,D,D: Chemicals and Drugs
+D008181,C12.050.351.968.419.570.363.680,C,C: Diseases
+D008181,C12.200.777.419.570.363.680,C,C: Diseases
+D008181,C12.950.419.570.363.680,C,C: Diseases
+D008181,C17.300.480.680,C,C: Diseases
+D008181,C20.111.590.560,C,C: Diseases
+D010435,D08.622.509,D,D: Chemicals and Drugs
+D010435,D12.776.811.243.509,D,D: Chemicals and Drugs
+D012164,C11.768,C,C: Diseases
+D012770,C14.280.647.500.750,C,C: Diseases
+D012770,C14.907.585.500.750,C,C: Diseases
+D012770,C23.550.513.355.750.750,C,C: Diseases
+D012770,C23.550.717.489.750.750,C,C: Diseases
+D012770,C23.550.835.550,C,C: Diseases
+D000068677,D02.065.884.675,D,D: Chemicals and Drugs
+D000068677,D02.886.590.700.675,D,D: Chemicals and Drugs
+D000068677,D03.383.606.854,D,D: Chemicals and Drugs
+D000068677,D03.633.100.759.824,D,D: Chemicals and Drugs
+D008269,C11.768.585.439.245,C,C: Diseases
+D004562,E01.370.370.380.240,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D004562,E01.370.405.240,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D003520,D02.455.526.728.650.730.243,D,D: Chemicals and Drugs
+D003520,D02.705.672.500.243,D,D: Chemicals and Drugs
+D019386,D02.705.429.500.100,D,D: Chemicals and Drugs
+D014665,D014665,D,D: Chemicals and Drugs
+D014665,D27.505.954.411.918,D,D: Chemicals and Drugs
+D013257,D04.210.500.875,D,D: Chemicals and Drugs
+D000305,D06.472.040,D,D: Chemicals and Drugs
+D009103,C10.114.375.500,C,C: Diseases
+D009103,C10.314.350.500,C,C: Diseases
+D009103,C20.111.258.250.500,C,C: Diseases
+D020108,D02.583.575,D,D: Chemicals and Drugs
+D020108,D03.066.515.530.498,D,D: Chemicals and Drugs
+D020108,D03.383.725.547.530.498,D,D: Chemicals and Drugs
+D003710,I01.240,I,Other
+D003710,N01.224,N,Other
+D003710,N06.850.505.400,N,Other
+D000089183,C05.116.900.853.625.800.744,C,C: Diseases
+D000089183,C05.550.069.340,C,C: Diseases
+D000089183,C05.550.114.865.800.744,C,C: Diseases
+D001745,C12.050.351.968.829,C,C: Diseases
+D001745,C12.200.777.829,C,C: Diseases
+D001745,C12.950.829,C,C: Diseases
+D003097,G09.330.100.248,G,Other
+D005682,D01.268.558.362.484,D,D: Chemicals and Drugs
+D005682,D01.552.550.399.484,D,D: Chemicals and Drugs
+D053580,E01.370.600.425,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D053580,G11.427.560,G,Other
+D017147,E07.305.250.159.175,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D017147,E07.305.250.319.175,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D017147,E07.695.202.175,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D007008,C18.452.950.565,C,C: Diseases
+D000069604,D03.383.725.192,D,D: Chemicals and Drugs
+D000069604,D03.633.100.103.280,D,D: Chemicals and Drugs
+D013739,D04.210.500.054.079.429.824,D,D: Chemicals and Drugs
+D013739,D06.472.334.851.968.984,D,D: Chemicals and Drugs
+D000553,E02.760.106,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D000553,N02.421.585.106,N,Other
+D001157,C14.907.137,C,C: Diseases
+D002315,E04.292.413,E,"E: Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+D013585,C05.550.870,C,C: Diseases
+D000077409,D02.065.884.863,D,D: Chemicals and Drugs
+D000077409,D02.886.590.700.863,D,D: Chemicals and Drugs
+D000077213,D03.383.931.480,D,D: Chemicals and Drugs
+D053158,C23.888.942.343.550,C,C: Diseases
+D010000,C05.116.680,C,C: Diseases
+D005402,C23.300.575,C,C: Diseases
+D001168,C05.550.114,C,C: Diseases
+D000077236,D09.947.875.359.250.500,D,D: Chemicals and Drugs
+D000077236,D09.947.875.465.354.500,D,D: Chemicals and Drugs

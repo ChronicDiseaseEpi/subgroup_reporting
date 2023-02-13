@@ -1,0 +1,2527 @@
+nct_id,condition_preferred,mesh_broad,mesh_broad_label
+NCT00031837,Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00045955,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00048581,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00062582,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00071266,Intermittent Claudication,C14.907.137.126.669,Intermittent Claudication
+NCT00093886,Hypertension,C14.907.489,Hypertension
+NCT00095082,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT00096954,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00097357,Pulmonary Embolism,C14.907.355,Embolism and Thrombosis
+NCT00097357,Venous Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT00100620,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00138515,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00153660,Arthritis,C05.550.114,Arthritis
+NCT00165737,"Dementia, Vascular",C10.228.140.380,Dementia
+NCT00174785,Atrial Flutter,C14.280.067,"Arrhythmias, Cardiac"
+NCT00174785,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT00182143,Venous Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT00200434,Hypertension,C14.907.489,Hypertension
+NCT00206154,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00219076,Hypertension,C14.907.489,Hypertension
+NCT00224146,Urinary Incontinence,C23.888.942.343.800,Urinary Incontinence
+NCT00225264,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00236717,Seizures,C10.228.140.490,Epilepsy
+NCT00251927,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT00251966,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT00259428,Atrial Flutter,C14.280.067,"Arrhythmias, Cardiac"
+NCT00259428,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT00264849,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00274053,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00279201,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00294723,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00297115,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00306644,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00311753,Embolism,C14.907.355,Embolism and Thrombosis
+NCT00311818,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00324363,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00326053,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00331851,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00336336,Heart Failure,C14.280.434,Heart Failure
+NCT00338260,Hypertension,C14.907.489,Hypertension
+NCT00397631,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00398931,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00425997,Hypertension,C14.907.489,Hypertension
+NCT00434967,Hypertension,C14.907.489,Hypertension
+NCT00462748,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00468546,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00488267,Osteoarthritis,C05.550.114,Arthritis
+NCT00500604,Hypertension,C14.907.489,Hypertension
+NCT00523991,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00542724,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT00547300,Hypertension,C14.907.489,Hypertension
+NCT00549757,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00550953,Hypertension,C14.907.489,Hypertension
+NCT00614120,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00625547,Restless Legs Syndrome,C10.803,Restless Legs Syndrome
+NCT00652106,Ocular Hypertension,C11.525,Ocular Hypertension
+NCT00666718,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00694382,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00714597,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00716547,Osteoarthritis,C05.550.114,Arthritis
+NCT00717236,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00771394,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT00806026,Restless Legs Syndrome,C10.803,Restless Legs Syndrome
+NCT00856622,Ocular Hypertension,C11.525,Ocular Hypertension
+NCT00863304,Osteoarthritis,C05.550.114,Arthritis
+NCT00911534,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT00923091,Hypertension,C14.907.489,Hypertension
+NCT00957047,Epilepsy,C10.228.140.490,Epilepsy
+NCT00968708,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00968708,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01034137,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01045447,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01053988,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01059773,Psoriasis,C17.800.859.675,Psoriasis
+NCT01070784,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01094457,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT01134042,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01147848,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01206972,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT01218100,Hypertension,C14.907.489,Hypertension
+NCT01257451,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01346865,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT01350804,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01358175,"Spondylitis, Ankylosing",C05.550.114,Arthritis
+NCT01368081,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01371994,Urinary Incontinence,C23.888.942.343.800,Urinary Incontinence
+NCT01396395,Angina Pectoris,C14.280.647Y,"Myocardial Ischemia, chronic"
+NCT01422434,Psoriasis,C17.800.859.675,Psoriasis
+NCT01437995,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01455129,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01493557,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT01541943,Hypertension,C14.907.489,Hypertension
+NCT01627327,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01638000,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT01644175,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT01694771,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01707134,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT01885208,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01917656,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01970488,Psoriasis,C17.800.859.675,Psoriasis
+NCT01989754,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02098395,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT02240680,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02343458,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02390375,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT02467452,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02471404,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02546323,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT02648204,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02739984,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT02863328,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT03015220,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00007683,Heart Failure,C14.280.434,Heart Failure
+NCT00047424,Hypertension,C14.907.489,Hypertension
+NCT00047424,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00047424,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT00048425,Heart Failure,C14.280.434,Heart Failure
+NCT00048568,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00062556,Intermittent Claudication,C14.907.137.126.669,Intermittent Claudication
+NCT00069784,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00082381,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00092157,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00094302,Heart Failure,C14.280.434,Heart Failure
+NCT00095238,Heart Failure,C14.280.434,Heart Failure
+NCT00099216,"Dementia, Vascular",C10.228.140.380,Dementia
+NCT00102765,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00106132,Retinal Vein Occlusion,C14.907.355,Embolism and Thrombosis
+NCT00123903,Heart Failure,C14.280.434,Heart Failure
+NCT00130039,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT00130039,Cerebral Infarction,C14.907.253.855,Stroke
+NCT00134147,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00134979,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00145301,Osteoarthritis,C05.550.114,Arthritis
+NCT00153023,Hypertension,C14.907.489,Hypertension
+NCT00153023,Diabetic Nephropathies,C19.246.099.875,Diabetic Nephropathies
+NCT00154219,Osteoarthritis,C05.550.114,Arthritis
+NCT00163319,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00185133,Hypertension,C14.907.489,Hypertension
+NCT00185159,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00203580,Venous Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT00203580,Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00219154,Hypertension,C14.907.489,Hypertension
+NCT00239408,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00242606,Epilepsy,C10.228.140.490,Epilepsy
+NCT00250445,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00250445,Osteoarthritis,C05.550.114,Arthritis
+NCT00264901,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00267969,Psoriasis,C17.800.859.675,Psoriasis
+NCT00268697,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00286442,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00286455,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00290030,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT00296218,Hypertension,C14.907.489,Hypertension
+NCT00312013,Venous Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT00329225,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00331149,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT00333112,Urinary Incontinence,C23.888.942.343.800,Urinary Incontinence
+NCT00350168,Hypertension,C14.907.489,Hypertension
+NCT00354458,Heart Failure,C14.280.434,Heart Failure
+NCT00355667,Heart Failure,C14.280.434,Heart Failure
+NCT00361335,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00379067,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT00383552,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00385593,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00385736,"Colitis, Ulcerative",C06.405.469.432,Inflammatory Bowel Diseases
+NCT00390728,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT00392002,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT00398606,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00408512,Hypertension,C14.907.489,Hypertension
+NCT00439725,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00440193,Venous Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT00449605,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00463567,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00472199,Restless Legs Syndrome,C10.803,Restless Legs Syndrome
+NCT00487240,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT00504881,Epilepsy,C10.228.140.490,Epilepsy
+NCT00513630,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00519142,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00558064,Hypertension,C14.907.489,Hypertension
+NCT00563381,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00624286,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00630929,Osteoarthritis,C05.550.114,Arthritis
+NCT00634114,Esophagitis,C06.405.117,Esophageal Diseases
+NCT00665431,Osteoarthritis,C05.550.114,Arthritis
+NCT00688688,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT00696384,Hypertension,C14.907.489,Hypertension
+NCT00700856,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00755287,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00760266,Hypertension,C14.907.489,Hypertension
+NCT00763815,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00781391,Embolism,C14.907.355,Embolism and Thrombosis
+NCT00781391,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT00781391,Stroke,C14.907.253.855,Stroke
+NCT00783263,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00793624,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00798161,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00801944,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT00860262,Hypertension,C14.907.489,Hypertension
+NCT00891462,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00902304,Hypertension,C14.907.489,Hypertension
+NCT00927394,Hypertension,C14.907.489,Hypertension
+NCT00971165,Hypertension,C14.907.489,Hypertension
+NCT01066676,Osteoarthritis,C05.550.114,Arthritis
+NCT01072448,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01075698,Hypertension,C14.907.489,Hypertension
+NCT01130025,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT01191268,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01281787,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT01289119,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01316380,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01316887,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01364220,Stroke,C14.907.253.855,Stroke
+NCT01381900,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01444430,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01445951,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT01472185,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01475721,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01475825,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT01477983,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT01494532,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT01543555,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT01558271,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01583218,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT01604343,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01706328,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01709305,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01729754,Psoriasis,C17.800.859.675,Psoriasis
+NCT01836523,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT01866163,Psoriasis,C17.800.859.675,Psoriasis
+NCT01926782,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT01958671,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02181985,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT02203916,Hypertension,C14.907.489,Hypertension
+NCT02236611,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02616497,Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT02709538,Rhinitis,C08.460.799,Rhinitis
+NCT02791490,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT03049085,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00029822,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT00064389,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00085644,"Spondylitis, Ankylosing",C05.550.114,Arthritis
+NCT00089791,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00092040,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00092079,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00092560,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00092664,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00092742,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00093912,Hypertension,C14.907.489,Hypertension
+NCT00099905,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00109668,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00147654,Urinary Incontinence,C23.888.942.343.800,Urinary Incontinence
+NCT00163241,Osteoarthritis,C05.550.114,Arthritis
+NCT00168805,Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00171366,Hypertension,C14.907.489,Hypertension
+NCT00174642,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00174733,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00200460,Hypertension,C14.907.489,Hypertension
+NCT00213135,Multiple Sclerosis,C10.314.350.500,Multiple Sclerosis
+NCT00219167,Hypertension,C14.907.489,Hypertension
+NCT00227318,Hypertension,C14.907.489,Hypertension
+NCT00234065,Cerebral Infarction,C14.907.253.855,Stroke
+NCT00235755,Seizures,C10.228.140.490,Epilepsy
+NCT00239421,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00242307,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00251706,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT00251758,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT00256139,Psoriasis,C17.800.859.675,Psoriasis
+NCT00272454,Cerebral Infarction,C14.907.253.855,Stroke
+NCT00277472,Hypertension,C14.907.489,Hypertension
+NCT00280046,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00280059,Epilepsy,C10.228.140.490,Epilepsy
+NCT00280540,Hypertension,C14.907.489,Hypertension
+NCT00286429,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00290264,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00299546,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00303459,"Hypertension, Pulmonary",C08.381.423,"Hypertension, Pulmonary"
+NCT00313001,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00318461,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00329628,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00333151,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00387088,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00391872,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00410384,"Lupus Erythematosus, Systemic",C20.111.590,"Lupus Erythematosus, Systemic"
+NCT00413413,Hypertension,C14.907.489,Hypertension
+NCT00434954,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00489424,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00501020,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00509262,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00540891,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT00542789,Osteoarthritis,C05.550.114,Arthritis
+NCT00542789,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00557921,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00557921,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00557921,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00562952,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00562952,Heart Failure,C14.280.434,Heart Failure
+NCT00562952,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00570739,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00570739,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00622284,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00646542,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00647491,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00659503,Rhinitis,C08.460.799,Rhinitis
+NCT00678704,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00689104,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT00712673,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00713830,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00720382,Rhinitis,C08.460.799,Rhinitis
+NCT00729430,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00778921,Hypertension,C14.907.489,Hypertension
+NCT00784550,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00789737,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00798434,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT00839527,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00841672,Hypertension,C14.907.489,Hypertension
+NCT00863707,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00901368,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00920543,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00957060,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00977938,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT01006291,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01106625,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01131676,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01144338,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01154166,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT01169779,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01172821,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01216072,Multiple Sclerosis,C10.314.350.500,Multiple Sclerosis
+NCT01232569,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01316913,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01336608,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01342913,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01356602,"Arthritis, Gouty",C05.550.114,Arthritis
+NCT01358578,Psoriasis,C17.800.859.675,Psoriasis
+NCT01365455,Psoriasis,C17.800.859.675,Psoriasis
+NCT01425853,Osteoarthritis,C05.550.114,Arthritis
+NCT01512108,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01518855,Hypertension,C14.907.489,Hypertension
+NCT01583374,"Spondylitis, Ankylosing",C05.550.114,Arthritis
+NCT01687283,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01854645,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01868061,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01986881,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02008682,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02009865,Hyperlipidemias,C18.452.584.500.500,Hyperlipidemias
+NCT02082769,Gout,C05.550.114,Arthritis
+NCT02132767,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT02200640,Hypertension,C14.907.489,Hypertension
+NCT02308163,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT02452190,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT02473198,Osteoarthritis,C05.550.114,Arthritis
+NCT02477865,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02738151,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02738879,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02746380,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT02777580,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT02788474,Idiopathic Interstitial Pneumonias,C08.381.483.487,Idiopathic Interstitial Pneumonias
+NCT00000556,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT00067093,Venous Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT00076089,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00089895,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00091793,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00092352,Osteoarthritis,C05.550.114,Arthritis
+NCT00092573,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00104182,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00106522,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00106574,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00110422,Hypertension,C14.907.489,Hypertension
+NCT00116831,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT00127179,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT00129545,Stroke,C14.907.253.855,Stroke
+NCT00129545,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT00135226,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00141778,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT00144339,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00150410,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00163423,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00163436,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00170924,Hypertension,C14.907.489,Hypertension
+NCT00170963,Hypertension,C14.907.489,Hypertension
+NCT00174720,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00200356,Cerebral Infarction,C14.907.253.855,Stroke
+NCT00200473,Hypertension,C14.907.489,Hypertension
+NCT00206310,Heart Failure,C14.280.434,Heart Failure
+NCT00208312,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00219024,Hypertension,C14.907.489,Hypertension
+NCT00219063,Hypertension,C14.907.489,Hypertension
+NCT00231530,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00251576,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00251719,Esophagitis,C06.405.117,Esophageal Diseases
+NCT00253227,Alzheimer Disease,C10.228.140.380,Dementia
+NCT00254956,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00262600,Stroke,C14.907.253.855,Stroke
+NCT00262600,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT00279045,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00281580,Hypertension,C14.907.489,Hypertension
+NCT00290927,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00309751,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00311896,Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT00313209,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00338143,Psoriasis,C17.800.859.675,Psoriasis
+NCT00349531,Restless Legs Syndrome,C10.803,Restless Legs Syndrome
+NCT00351884,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00362232,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00362960,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00389779,Hypertension,C14.907.489,Hypertension
+NCT00407537,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00407537,Hypertension,C14.907.489,Hypertension
+NCT00419744,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00424476,"Lupus Erythematosus, Systemic",C20.111.590,"Lupus Erythematosus, Systemic"
+NCT00454584,Psoriasis,C17.800.859.675,Psoriasis
+NCT00463606,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00482729,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00521742,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00532935,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00558428,Hypertension,C14.907.489,Hypertension
+NCT00570986,Psoriasis,C17.800.859.675,Psoriasis
+NCT00604396,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00624052,Hypertension,C14.907.489,Hypertension
+NCT00627016,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT00628862,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00633893,Venous Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT00634712,Heart Failure,C14.280.434,Heart Failure
+NCT00641043,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00642096,Hypertension,C14.907.489,Hypertension
+NCT00654173,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00667407,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00679432,"Colitis, Ulcerative",C06.405.469.432,Inflammatory Bowel Diseases
+NCT00696436,Hypertension,C14.907.489,Hypertension
+NCT00698646,Hypertension,C14.907.489,Hypertension
+NCT00699998,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00727857,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00728351,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00760214,Hypertension,C14.907.489,Hypertension
+NCT00768300,Idiopathic Interstitial Pneumonias,C08.381.483.487,Idiopathic Interstitial Pneumonias
+NCT00772538,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00830960,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00838916,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00845728,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00847626,Hypertension,C14.907.489,Hypertension
+NCT00853827,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT00853827,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00860288,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00887250,Hypertension,C14.907.489,Hypertension
+NCT00966004,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT01018173,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01028391,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01069289,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01076088,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01106690,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01131182,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01159912,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01174693,Cerebral Infarction,C14.907.253.855,Stroke
+NCT01323634,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01425359,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01425359,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT01425359,Angina Pectoris,C14.280.647Y,"Myocardial Ischemia, chronic"
+NCT01516879,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT01538446,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT01573143,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT01574651,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01603082,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT01623115,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT01697696,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01711359,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01719003,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01764997,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01792518,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01845025,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01869491,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT01870804,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT01917331,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01928771,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01930188,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01970878,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02000336,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT02105948,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02132936,Psoriasis,C17.800.859.675,Psoriasis
+NCT02138916,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02177435,Hypertension,C14.907.489,Hypertension
+NCT02182479,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT02207244,Psoriasis,C17.800.859.675,Psoriasis
+NCT02207491,Ocular Hypertension,C11.525,Ocular Hypertension
+NCT02207829,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02229396,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT02375724,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02558374,Ocular Hypertension,C11.525,Ocular Hypertension
+NCT02597049,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02607306,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02870205,Rhinitis,C08.460.799,Rhinitis
+NCT00000479,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00000542,Heart Failure,C14.280.434,Heart Failure
+NCT00000542,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00000542,Hypertension,C14.907.489,Hypertension
+NCT00000542,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00000542,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00035451,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT00039026,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00064415,"Bronchitis, Chronic",C08.381.495,"Lung Diseases, Obstructive"
+NCT00064415,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00092066,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00092144,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00092365,Osteoarthritis,C05.550.114,Arthritis
+NCT00094757,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00095394,Hypertension,C14.907.489,Hypertension
+NCT00120900,Osteoarthritis,C05.550.114,Arthritis
+NCT00121966,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00129805,Cerebral Infarction,C14.907.253.855,Stroke
+NCT00132418,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00136799,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00141141,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00145236,Hypertension,C14.907.489,Hypertension
+NCT00154271,Hypertension,C14.907.489,Hypertension
+NCT00168831,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00174330,Hypertension,C14.907.489,Hypertension
+NCT00184600,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00195663,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00219037,Hypertension,C14.907.489,Hypertension
+NCT00240448,Hypertension,C14.907.489,Hypertension
+NCT00251745,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT00252863,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00255151,Esophagitis,C06.405.117,Esophageal Diseases
+NCT00264550,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00268632,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00274274,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00274599,Hypertension,C14.907.489,Hypertension
+NCT00299130,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00361894,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00366938,Osteoarthritis,C05.550.114,Arthritis
+NCT00367211,"Spondylitis, Ankylosing",C05.550.114,Arthritis
+NCT00367211,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00367211,Osteoarthritis,C05.550.114,Arthritis
+NCT00381472,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT00383929,Hypertension,C14.907.489,Hypertension
+NCT00386139,Hypertension,C14.907.489,Hypertension
+NCT00393705,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00393952,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00395343,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00403767,Embolism,C14.907.355,Embolism and Thrombosis
+NCT00403767,Stroke,C14.907.253.855,Stroke
+NCT00403767,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT00408187,Psoriasis,C17.800.859.675,Psoriasis
+NCT00439855,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00452530,Pulmonary Embolism,C14.907.355,Embolism and Thrombosis
+NCT00452530,Venous Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT00466167,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT00479362,Embolism,C14.907.355,Embolism and Thrombosis
+NCT00479362,Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT00497237,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00510952,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00518882,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00541489,Osteoarthritis,C05.550.114,Arthritis
+NCT00549549,"Arthritis, Gouty",C05.550.114,Arthritis
+NCT00558259,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00591773,Hypertension,C14.907.489,Hypertension
+NCT00634400,Heart Failure,C14.280.434,Heart Failure
+NCT00635505,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00640991,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00651651,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00654225,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00654407,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00657150,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00658528,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT00670501,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00679484,Heart Failure,C14.280.434,Heart Failure
+NCT00683111,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00683111,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00697099,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00699192,Hypertension,C14.907.489,Hypertension
+NCT00705575,Hypertension,C14.907.489,Hypertension
+NCT00747110,"Colitis, Ulcerative",C06.405.469.432,Inflammatory Bowel Diseases
+NCT00764725,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00782210,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00783237,Rhinitis,C08.460.799,Rhinitis
+NCT00792818,Osteoarthritis,C05.550.114,Arthritis
+NCT00827411,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00827411,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00838903,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00862641,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00862641,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00862641,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00894387,Heart Failure,C14.280.434,Heart Failure
+NCT01018186,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01030081,Hypertension,C14.907.489,Hypertension
+NCT01043666,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT01057251,Hypertension,C14.907.489,Hypertension
+NCT01077362,"Arthritis, Psoriatic",C05.550.114,Arthritis
+NCT01081834,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01120691,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01121224,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT01137812,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01142726,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01175824,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01183013,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01204294,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01235130,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT01277822,Hypertension,C14.907.489,Hypertension
+NCT01313676,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01318083,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01340768,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01392326,Psoriasis,C17.800.859.675,Psoriasis
+NCT01456611,Osteoarthritis,C05.550.114,Arthritis
+NCT01474369,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT01507831,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT01512446,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT01520818,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01520818,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT01646073,Psoriasis,C17.800.859.675,Psoriasis
+NCT01708629,Psoriasis,C17.800.859.675,Psoriasis
+NCT01733758,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01749930,Ocular Hypertension,C11.525,Ocular Hypertension
+NCT01777269,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT01855789,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01899742,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02017171,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT02017171,Diabetic Nephropathies,C19.246.099.875,Diabetic Nephropathies
+NCT02024646,Psoriasis,C17.800.859.675,Psoriasis
+NCT02029495,Psoriasis,C17.800.859.675,Psoriasis
+NCT02033889,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02036515,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02072434,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT02139046,Gout,C05.550.114,Arthritis
+NCT02159053,"Spondylitis, Ankylosing",C05.550.114,Arthritis
+NCT02177253,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02257385,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02269176,Hypertension,C14.907.489,Hypertension
+NCT02347774,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02357459,Osteoarthritis,C05.550.114,Arthritis
+NCT02388724,Esophagitis,C06.405.117,Esophageal Diseases
+NCT02460978,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT02694523,Psoriasis,C17.800.859.675,Psoriasis
+NCT00000620,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00000620,Hypertension,C14.907.489,Hypertension
+NCT00000620,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00000620,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT00032890,Osteoarthritis,C05.550.114,Arthritis
+NCT00039013,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00042068,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00053599,Alzheimer Disease,C10.228.140.380,Dementia
+NCT00063687,Heart Failure,C14.280.434,Heart Failure
+NCT00064402,"Bronchitis, Chronic",C08.381.495,"Lung Diseases, Obstructive"
+NCT00064402,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00069823,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00073177,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00077792,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00092118,Rhinitis,C08.460.799,Rhinitis
+NCT00092599,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00092612,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00092703,Osteoarthritis,C05.550.114,Arthritis
+NCT00095550,Hypertension,C14.907.489,Hypertension
+NCT00105027,Retinal Vein Occlusion,C14.907.355,Embolism and Thrombosis
+NCT00115622,Rhinitis,C08.460.799,Rhinitis
+NCT00121667,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00127647,Rhinitis,C08.460.799,Rhinitis
+NCT00144911,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00152386,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00171093,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00171093,Hypertension,C14.907.489,Hypertension
+NCT00174824,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00191464,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00195507,Psoriasis,C17.800.859.675,Psoriasis
+NCT00219193,Hypertension,C14.907.489,Hypertension
+NCT00221156,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00239369,Hypertension,C14.907.489,Hypertension
+NCT00240474,Hypertension,C14.907.489,Hypertension
+NCT00241605,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00251901,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT00269191,Osteoarthritis,C05.550.114,Arthritis
+NCT00272805,Heart Failure,C14.280.434,Heart Failure
+NCT00281593,Hypertension,C14.907.489,Hypertension
+NCT00283751,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00289198,Rhinitis,C08.460.799,Rhinitis
+NCT00297102,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00299104,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00314574,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00321984,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT00343252,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00355849,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00358436,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00359788,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00385931,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00385931,Hypertension,C14.907.489,Hypertension
+NCT00399711,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00411554,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00413972,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00418834,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00445770,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00476034,Osteoarthritis,C05.550.114,Arthritis
+NCT00479739,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00484926,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00502775,Rhinitis,C08.460.799,Rhinitis
+NCT00503113,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00521599,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00521820,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00525512,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00529451,Hypertension,C14.907.489,Hypertension
+NCT00538486,Hypertension,C14.907.489,Hypertension
+NCT00552370,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00568295,Osteoarthritis,C05.550.114,Arthritis
+NCT00573508,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT00591253,Hypertension,C14.907.489,Hypertension
+NCT00605020,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00631917,Hypertension,C14.907.489,Hypertension
+NCT00643799,Osteoarthritis,C05.550.114,Arthritis
+NCT00653965,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00654381,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00659750,Rhinitis,C08.460.799,Rhinitis
+NCT00664560,Osteoarthritis,C05.550.114,Arthritis
+NCT00692913,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00701090,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00772577,Hypertension,C14.907.489,Hypertension
+NCT00792636,Migraine Disorders,C10.228.140.546.399.750,Migraine Disorders
+NCT00810693,"Hypertension, Pulmonary",C08.381.423,"Hypertension, Pulmonary"
+NCT00819741,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00843154,Heart Failure,C14.280.434,Heart Failure
+NCT00843492,Venous Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT00846365,Hypertension,C14.907.489,Hypertension
+NCT00848354,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00853658,Heart Failure,C14.280.434,Heart Failure
+NCT00877929,Hypertension,C14.907.489,Hypertension
+NCT01005901,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01046110,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01047501,Hyperlipidemias,C18.452.584.500.500,Hyperlipidemias
+NCT01089725,Osteoarthritis,C05.550.114,Arthritis
+NCT01106677,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01110200,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01128894,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01156571,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT01156571,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT01176968,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT01177813,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01208181,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01225562,Stroke,C14.907.253.855,Stroke
+NCT01225562,Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT01225562,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT01324362,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01329029,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01331837,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01335464,Idiopathic Interstitial Pneumonias,C08.381.483.487,Idiopathic Interstitial Pneumonias
+NCT01366209,Idiopathic Interstitial Pneumonias,C08.381.483.487,Idiopathic Interstitial Pneumonias
+NCT01392677,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01443845,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01460342,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT01474512,Psoriasis,C17.800.859.675,Psoriasis
+NCT01522521,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT01528254,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01532648,"Colitis, Ulcerative",C06.405.469.432,Inflammatory Bowel Diseases
+NCT01584232,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01597245,Psoriasis,C17.800.859.675,Psoriasis
+NCT01615198,Hypertension,C14.907.489,Hypertension
+NCT01617434,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01646177,Psoriasis,C17.800.859.675,Psoriasis
+NCT01661322,Stroke,C14.907.253.855,Stroke
+NCT01682863,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01721057,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01727141,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01908140,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01930682,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT02064868,Heart Failure,C14.280.434,Heart Failure
+NCT02065791,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02079727,Osteoarthritis,C05.550.114,Arthritis
+NCT02175355,Hypertension,C14.907.489,Hypertension
+NCT02229383,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT02296138,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02345161,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02477969,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02681094,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02906917,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00038077,Heart Failure,C14.280.434,Heart Failure
+NCT00086502,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00092755,Osteoarthritis,C05.550.114,Arthritis
+NCT00092781,Osteoarthritis,C05.550.114,Arthritis
+NCT00099242,Alzheimer Disease,C10.228.140.380,Dementia
+NCT00109382,Stroke,C14.907.253.855,Stroke
+NCT00109382,"Ischemic Attack, Transient",C14.907.253.092,Brain Ischemia
+NCT00120289,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00120289,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT00128024,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00131664,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00131846,Hypertension,C14.907.489,Hypertension
+NCT00141453,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00145925,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00146341,Hypertension,C14.907.489,Hypertension
+NCT00160602,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00161070,"Ischemic Attack, Transient",C14.907.253.092,Brain Ischemia
+NCT00169819,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00197080,Restless Legs Syndrome,C10.803,Restless Legs Syndrome
+NCT00219102,Hypertension,C14.907.489,Hypertension
+NCT00219128,Hypertension,C14.907.489,Hypertension
+NCT00235014,Hypertension,C14.907.489,Hypertension
+NCT00236431,Alzheimer Disease,C10.228.140.380,Dementia
+NCT00239538,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00239538,Hypertension,C14.907.489,Hypertension
+NCT00262054,Angina Pectoris,C14.280.647Y,"Myocardial Ischemia, chronic"
+NCT00272012,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00272701,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT00274547,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00274560,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00333489,Hypertension,C14.907.489,Hypertension
+NCT00348712,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00359112,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00363857,Restless Legs Syndrome,C10.803,Restless Legs Syndrome
+NCT00370565,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00381485,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00388882,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00393471,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00402233,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT00409643,Hypertension,C14.907.489,Hypertension
+NCT00409851,Hypertension,C14.907.489,Hypertension
+NCT00420927,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00424333,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT00452348,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00457002,Pulmonary Embolism,C14.907.355,Embolism and Thrombosis
+NCT00457002,Venous Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT00473655,Hyperlipidemias,C18.452.584.500.500,Hyperlipidemias
+NCT00479713,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00490958,Heart Failure,C14.280.434,Heart Failure
+NCT00494312,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00494871,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT00536731,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00548808,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00591578,Hypertension,C14.907.489,Hypertension
+NCT00651118,Rhinitis,C08.460.799,Rhinitis
+NCT00658775,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT00696631,Heart Failure,C14.280.434,Heart Failure
+NCT00710580,Psoriasis,C17.800.859.675,Psoriasis
+NCT00733902,Osteoarthritis,C05.550.114,Arthritis
+NCT00734474,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00790907,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00822211,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00822536,Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT00822536,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00830063,Osteoarthritis,C05.550.114,Arthritis
+NCT00849056,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00861926,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00862394,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00872586,Hypertension,C14.907.489,Hypertension
+NCT00894868,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00894868,Heart Failure,C14.280.434,Heart Failure
+NCT00953147,Rhinitis,C08.460.799,Rhinitis
+NCT00956644,Hypertension,C14.907.489,Hypertension
+NCT00963599,Rhinitis,C08.460.799,Rhinitis
+NCT00984659,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00986154,Venous Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT00986154,Pulmonary Embolism,C14.907.355,Embolism and Thrombosis
+NCT00986154,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT01006603,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01063920,Osteoarthritis,C05.550.114,Arthritis
+NCT01107886,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01139762,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT01147250,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT01172808,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01182441,Stroke,C14.907.253.855,Stroke
+NCT01182441,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT01186146,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT01188928,Psoriasis,C17.800.859.675,Psoriasis
+NCT01205932,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT01214239,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01215097,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01336023,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01371058,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT01437540,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01438814,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01451203,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01471340,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01508026,Hypertension,C14.907.489,Hypertension
+NCT01590797,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01602003,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01691521,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01782326,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01787188,Osteoarthritis,C05.550.114,Arthritis
+NCT01808118,"Spondylitis, Ankylosing",C05.550.114,Arthritis
+NCT01879410,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01928628,Hypertension,C14.907.489,Hypertension
+NCT02006732,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02007720,Heart Failure,C14.280.434,Heart Failure
+NCT02058368,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT02141854,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT02149199,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT02164513,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02172586,Hypertension,C14.907.489,Hypertension
+NCT02173782,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02276222,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02414958,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT02483169,Brain Ischemia,C14.907.253.092,Brain Ischemia
+NCT02489968,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02528201,"Spondylitis, Ankylosing",C05.550.114,Arthritis
+NCT02706847,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT02706951,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT02761252,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT02808767,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00000539,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00046228,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00060918,Hypertension,C14.907.489,Hypertension
+NCT00071331,Heart Failure,C14.280.434,Heart Failure
+NCT00080275,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00082407,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00090168,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00092989,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00094770,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00110474,Osteoarthritis,C05.550.114,Arthritis
+NCT00121446,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00141960,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT00152984,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00152984,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00163202,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00168857,Diabetic Nephropathies,C19.246.099.875,Diabetic Nephropathies
+NCT00168857,Hypertension,C14.907.489,Hypertension
+NCT00182403,Pulmonary Embolism,C14.907.355,Embolism and Thrombosis
+NCT00182403,Venous Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT00182403,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00208299,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00234871,Hypertension,C14.907.489,Hypertension
+NCT00251134,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00251693,Esophagitis,C06.405.117,Esophageal Diseases
+NCT00259376,Atrial Flutter,C14.280.067,"Arrhythmias, Cardiac"
+NCT00259376,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT00262236,Hypertension,C14.907.489,Hypertension
+NCT00266227,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00287729,Idiopathic Interstitial Pneumonias,C08.381.483.487,Idiopathic Interstitial Pneumonias
+NCT00296530,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00301392,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00316095,Hypertension,C14.907.489,Hypertension
+NCT00329459,Migraine Disorders,C10.228.140.546.399.750,Migraine Disorders
+NCT00356096,Restless Legs Syndrome,C10.803,Restless Legs Syndrome
+NCT00359762,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00363896,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00365352,Restless Legs Syndrome,C10.803,Restless Legs Syndrome
+NCT00375284,Restless Legs Syndrome,C10.803,Restless Legs Syndrome
+NCT00384085,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00391443,Idiopathic Interstitial Pneumonias,C08.381.483.487,Idiopathic Interstitial Pneumonias
+NCT00399724,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00410410,"Colitis, Ulcerative",C06.405.469.432,Inflammatory Bowel Diseases
+NCT00414973,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00418548,"Spondylitis, Ankylosing",C05.550.114,Arthritis
+NCT00430677,"Lupus Erythematosus, Systemic",C20.111.590,"Lupus Erythematosus, Systemic"
+NCT00432796,Stroke,C14.907.253.855,Stroke
+NCT00435448,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT00467376,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00469092,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00479401,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT00496470,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00568984,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00623623,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00637949,Osteoarthritis,C05.550.114,Arthritis
+NCT00647270,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00649389,Hypertension,C14.907.489,Hypertension
+NCT00650455,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00702325,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00717457,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00736879,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00739596,Hypertension,C14.907.489,Hypertension
+NCT00740883,Pulmonary Embolism,C14.907.355,Embolism and Thrombosis
+NCT00751114,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00809926,Hypertension,C14.907.489,Hypertension
+NCT00814268,Stroke,C14.907.253.855,Stroke
+NCT00814307,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00827242,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT00839800,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00861757,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT00864097,Osteoarthritis,C05.550.114,Arthritis
+NCT00879970,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00883168,Rhinitis,C08.460.799,Rhinitis
+NCT00925600,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00936897,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00949884,Hypertension,C14.907.489,Hypertension
+NCT00957554,Hypertension,C14.907.489,Hypertension
+NCT00986050,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT01010971,Rhinitis,C08.460.799,Rhinitis
+NCT01033825,Rhinitis,C08.460.799,Rhinitis
+NCT01059812,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01064687,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01069003,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT01074268,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT01089127,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01164501,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01167010,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01218009,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01302691,Hypertension,C14.907.489,Hypertension
+NCT01313637,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01347580,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT01392573,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01461369,Osteoarthritis,C05.550.114,Arthritis
+NCT01467323,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01467323,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT01494987,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01498679,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01498822,Epilepsy,C10.228.140.490,Epilepsy
+NCT01521923,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01555138,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01623596,Multiple Sclerosis,C10.314.350.500,Multiple Sclerosis
+NCT01644188,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT01696058,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01722331,Psoriasis,C17.800.859.675,Psoriasis
+NCT01729559,Pulmonary Embolism,C14.907.355,Embolism and Thrombosis
+NCT01729559,Venous Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT01734785,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01758380,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01772134,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01809327,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01860976,Psoriasis,C17.800.859.675,Psoriasis
+NCT01957163,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01959451,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT01970475,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT02031640,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT02128932,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02139644,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT02183064,Osteoarthritis,C05.550.114,Arthritis
+NCT02203032,Psoriasis,C17.800.859.675,Psoriasis
+NCT02207231,Psoriasis,C17.800.859.675,Psoriasis
+NCT02207374,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02242318,Hypertension,C14.907.489,Hypertension
+NCT02305381,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02550288,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT02666664,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT02684370,Psoriasis,C17.800.859.675,Psoriasis
+NCT02749994,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT02916602,Hypertension,C14.907.489,Hypertension
+NCT02967224,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00007670,Seizures,C10.228.140.490,Epilepsy
+NCT00060931,Hypertension,C14.907.489,Hypertension
+NCT00073827,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00077753,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00081731,Hypertension,C14.907.489,Hypertension
+NCT00081731,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT00087516,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00091949,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00091949,Stroke,C14.907.253.855,Stroke
+NCT00092027,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00092885,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00092885,Rhinitis,C08.460.799,Rhinitis
+NCT00094458,Crohn Disease,C06.405.469.432,Inflammatory Bowel Diseases
+NCT00099944,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00106366,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00111449,Psoriasis,C17.800.859.675,Psoriasis
+NCT00122382,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00136045,Restless Legs Syndrome,C10.803,Restless Legs Syndrome
+NCT00148408,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00153088,Diabetic Nephropathies,C19.246.099.875,Diabetic Nephropathies
+NCT00163475,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00174915,Gout,C05.550.114,Arthritis
+NCT00187408,Pulmonary Embolism,C14.907.355,Embolism and Thrombosis
+NCT00187408,Venous Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT00191425,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00216593,Alzheimer Disease,C10.228.140.380,Dementia
+NCT00224120,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT00230698,Seizures,C10.228.140.490,Epilepsy
+NCT00232596,Seizures,C10.228.140.490,Epilepsy
+NCT00242775,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00243178,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT00244426,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT00249249,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00252785,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00259610,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00270374,Heart Failure,C14.280.434,Heart Failure
+NCT00274079,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00325403,"Hypertension, Pulmonary",C08.381.423,"Hypertension, Pulmonary"
+NCT00329602,Restless Legs Syndrome,C10.803,Restless Legs Syndrome
+NCT00335699,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00377637,Lupus Nephritis,C20.111.590,"Lupus Erythematosus, Systemic"
+NCT00383435,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00383578,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00386100,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00387517,Hypertension,C14.907.489,Hypertension
+NCT00400153,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00401596,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00403910,Heart Failure,C14.280.434,Heart Failure
+NCT00405418,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00419952,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00448461,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00476268,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00486343,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00496769,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT00500955,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00538902,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00546754,Hypertension,C14.907.489,Hypertension
+NCT00546832,Osteoarthritis,C05.550.114,Arthritis
+NCT00552058,Crohn Disease,C06.405.469.432,Inflammatory Bowel Diseases
+NCT00638807,Osteoarthritis,C05.550.114,Arthritis
+NCT00659594,Rhinitis,C08.460.799,Rhinitis
+NCT00659841,Rhinitis,C08.460.799,Rhinitis
+NCT00660179,"Hypertension, Pulmonary",C08.381.423,"Hypertension, Pulmonary"
+NCT00691964,Psoriasis,C17.800.859.675,Psoriasis
+NCT00721760,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00731692,Multiple Sclerosis,C10.314.350.500,Multiple Sclerosis
+NCT00739973,Hypertension,C14.907.489,Hypertension
+NCT00744471,Osteoarthritis,C05.550.114,Arthritis
+NCT00754988,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00763451,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00787605,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00787605,Hypertension,C14.907.489,Hypertension
+NCT00797316,Hypertension,C14.907.489,Hypertension
+NCT00819104,Hypertension,C14.907.489,Hypertension
+NCT00853385,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00859898,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00912964,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT00968812,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00996281,Hypertension,C14.907.489,Hypertension
+NCT01001494,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01045707,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01071122,Hypertension,C14.907.489,Hypertension
+NCT01076647,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01106534,Coronary Restenosis,C14.280.647,Myocardial Ischemia
+NCT01106534,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT01119859,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01120717,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01165138,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01181102,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT01194882,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT01208207,"Spondylitis, Ankylosing",C05.550.114,Arthritis
+NCT01264939,Urticaria,C17.800.862.945,Urticaria
+NCT01302054,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT01321255,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT01397890,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01413958,Rhinitis,C08.460.799,Rhinitis
+NCT01415518,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01430260,Rhinitis,C08.460.799,Rhinitis
+NCT01431287,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01472757,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01500278,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01525290,Stroke,C14.907.253.855,Stroke
+NCT01618162,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01632163,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01661634,Heart Failure,C14.280.434,Heart Failure
+NCT01668667,Restless Legs Syndrome,C10.803,Restless Legs Syndrome
+NCT01674647,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT01696110,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT01709864,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01709903,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01749904,Ocular Hypertension,C11.525,Ocular Hypertension
+NCT01767519,Urinary Incontinence,C23.888.942.343.800,Urinary Incontinence
+NCT01769378,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01778049,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01817764,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01849289,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01946620,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01964352,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01999218,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02014467,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT02064439,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT02064439,Venous Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT02064439,Pulmonary Embolism,C14.907.355,Embolism and Thrombosis
+NCT02094963,Angina Pectoris,C14.280.647Y,"Myocardial Ischemia, chronic"
+NCT02094963,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT02100228,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT02105974,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02145468,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT02152371,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02175771,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT02200653,Hypertension,C14.907.489,Hypertension
+NCT02205606,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT02294227,"Arthritis, Psoriatic",C05.550.114,Arthritis
+NCT02463071,Hyperlipidemias,C18.452.584.500.500,Hyperlipidemias
+NCT02498509,Rhinitis,C08.460.799,Rhinitis
+NCT02504268,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT02580591,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT02631551,Rhinitis,C08.460.799,Rhinitis
+NCT00000558,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00035984,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00048932,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00051558,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00071721,Alzheimer Disease,C10.228.140.380,Dementia
+NCT00092014,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00092209,Hypertension,C14.907.489,Hypertension
+NCT00092716,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00099918,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00102882,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00115492,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00134160,Hypertension,C14.907.489,Hypertension
+NCT00135993,Restless Legs Syndrome,C10.803,Restless Legs Syndrome
+NCT00138619,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00168779,Hypertension,C14.907.489,Hypertension
+NCT00170989,Hypertension,C14.907.489,Hypertension
+NCT00171275,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00174993,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00191282,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00191282,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00202566,Angina Pectoris,C14.280.647Y,"Myocardial Ischemia, chronic"
+NCT00222573,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00236665,Hypertension,C14.907.489,Hypertension
+NCT00242294,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00242944,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00249873,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT00260923,Hypertension,C14.907.489,Hypertension
+NCT00263393,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00263393,Angina Pectoris,C14.280.647Y,"Myocardial Ischemia, chronic"
+NCT00263393,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00265096,"Arthritis, Psoriatic",C05.550.114,Arthritis
+NCT00267176,Hypertension,C14.907.489,Hypertension
+NCT00267176,Osteoarthritis,C05.550.114,Arthritis
+NCT00268216,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00271557,Heart Failure,C14.280.434,Heart Failure
+NCT00274573,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00274638,Hypertension,C14.907.489,Hypertension
+NCT00296387,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00296491,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00297063,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00306696,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00311740,Hypertension,C14.907.489,Hypertension
+NCT00319995,Rhinitis,C08.460.799,Rhinitis
+NCT00325442,"Hypertension, Pulmonary",C08.381.423,"Hypertension, Pulmonary"
+NCT00330460,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00335166,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT00343551,Hypertension,C14.907.489,Hypertension
+NCT00347100,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00361959,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00368134,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00373451,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00377819,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00382096,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00383721,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00404820,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00423319,Pulmonary Embolism,C14.907.355,Embolism and Thrombosis
+NCT00423319,Venous Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT00439647,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00439777,Pulmonary Embolism,C14.907.355,Embolism and Thrombosis
+NCT00441350,Hypertension,C14.907.489,Hypertension
+NCT00449930,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00542633,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00567996,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00589927,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00600626,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00616772,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00621140,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00626197,Lupus Nephritis,C20.111.590,"Lupus Erythematosus, Systemic"
+NCT00642187,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00652002,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00657943,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT00660517,Rhinitis,C08.460.799,Rhinitis
+NCT00679731,Psoriasis,C17.800.859.675,Psoriasis
+NCT00715624,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00722371,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00725036,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT00765674,Hypertension,C14.907.489,Hypertension
+NCT00813995,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00849095,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00866658,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00882440,Hypertension,C14.907.489,Hypertension
+NCT00900731,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00922480,Hypertension,C14.907.489,Hypertension
+NCT00929110,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00963469,Rhinitis,C08.460.799,Rhinitis
+NCT00965549,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00978627,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT00985621,Osteoarthritis,C05.550.114,Arthritis
+NCT01009463,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01017952,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01033071,Hypertension,C14.907.489,Hypertension
+NCT01042392,Hypertension,C14.907.489,Hypertension
+NCT01042977,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01061671,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01079130,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01098539,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01167153,Hypertension,C14.907.489,Hypertension
+NCT01233622,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01237223,Hypertension,C14.907.489,Hypertension
+NCT01243424,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01287039,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01294592,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT01316900,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01345253,"Lupus Erythematosus, Systemic",C20.111.590,"Lupus Erythematosus, Systemic"
+NCT01357642,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01377012,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01431274,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01436110,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01498653,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01502774,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT01508936,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01510769,Gout,C05.550.114,Arthritis
+NCT01519674,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01519791,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01524289,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT01525615,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01555164,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01648582,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01695239,Psoriasis,C17.800.859.675,Psoriasis
+NCT01703221,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01709110,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT01710358,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01720446,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01752634,Psoriasis,C17.800.859.675,Psoriasis
+NCT01813435,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT01876368,Hypertension,C14.907.489,Hypertension
+NCT01959529,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01991795,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01994226,Gout,C05.550.114,Arthritis
+NCT02019472,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT02119286,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02155660,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02243176,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02294279,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT02301975,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT02346240,Psoriasis,C17.800.859.675,Psoriasis
+NCT02384941,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT02414854,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT02467920,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02501161,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02630706,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02675426,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT02849080,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00000614,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00041938,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00041938,Stroke,C14.907.253.855,Stroke
+NCT00086515,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00092586,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00093158,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00093158,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00102440,Gout,C05.550.114,Arthritis
+NCT00106535,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00117780,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT00126516,Hypertension,C14.907.489,Hypertension
+NCT00126516,Brain Infarction,C14.907.253.855,Stroke
+NCT00133198,Restless Legs Syndrome,C10.803,Restless Legs Syndrome
+NCT00133250,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00138541,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00141102,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00141102,Osteoarthritis,C05.550.114,Arthritis
+NCT00184561,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00207766,Crohn Disease,C06.405.469.432,Inflammatory Bowel Diseases
+NCT00220220,Hypertension,C14.907.489,Hypertension
+NCT00221104,Stroke,C14.907.253.855,Stroke
+NCT00231556,Seizures,C10.228.140.490,Epilepsy
+NCT00237237,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00264537,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00265083,"Spondylitis, Ankylosing",C05.550.114,Arthritis
+NCT00269893,Angina Pectoris,C14.280.647Y,"Myocardial Ischemia, chronic"
+NCT00286468,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00287716,Idiopathic Interstitial Pneumonias,C08.381.483.487,Idiopathic Interstitial Pneumonias
+NCT00311363,Restless Legs Syndrome,C10.803,Restless Legs Syndrome
+NCT00329355,Migraine Disorders,C10.228.140.546.399.750,Migraine Disorders
+NCT00359905,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT00379288,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00389740,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00397657,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT00399464,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT00413049,Hypertension,C14.907.489,Hypertension
+NCT00447915,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00451360,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00453063,Rhinitis,C08.460.799,Rhinitis
+NCT00504127,Osteoarthritis,C05.550.114,Arthritis
+NCT00525824,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT00525824,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00526474,Peripheral Arterial Disease,C14.907.617,Peripheral Vascular Diseases
+NCT00526474,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00526474,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT00527943,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00527943,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT00541450,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00552097,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00552097,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT00626535,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT00654537,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00663260,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00679380,"Colitis, Ulcerative",C06.405.469.432,Inflammatory Bowel Diseases
+NCT00679588,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00700817,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00707031,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00718224,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00751751,Hypertension,C14.907.489,Hypertension
+NCT00776984,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00782509,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00783718,"Colitis, Ulcerative",C06.405.469.432,Inflammatory Bowel Diseases
+NCT00790023,Rhinitis,C08.460.799,Rhinitis
+NCT00791999,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00792805,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00812955,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00855582,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT00864812,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00888355,Hypertension,C14.907.489,Hypertension
+NCT00909480,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00930670,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00942994,Hypertension,C14.907.489,Hypertension
+NCT00958269,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00974571,Rhinitis,C08.460.799,Rhinitis
+NCT00982228,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT00982644,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01001208,Psoriasis,C17.800.859.675,Psoriasis
+NCT01018511,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT01032629,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01059136,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT01068665,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01126580,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01151137,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT01167881,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01178073,"Hypertension, Pulmonary",C08.381.423,"Hypertension, Pulmonary"
+NCT01241591,Psoriasis,C17.800.859.675,Psoriasis
+NCT01242527,Hyperlipidemias,C18.452.584.500.500,Hyperlipidemias
+NCT01318135,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01335477,Idiopathic Interstitial Pneumonias,C08.381.483.487,Idiopathic Interstitial Pneumonias
+NCT01343004,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT01408303,Hyperlipidemias,C18.452.584.500.500,Hyperlipidemias
+NCT01427751,Retinal Vein Occlusion,C14.907.355,Embolism and Thrombosis
+NCT01442038,Angina Pectoris,C14.280.647Y,"Myocardial Ischemia, chronic"
+NCT01442038,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT01458574,"Colitis, Ulcerative",C06.405.469.432,Inflammatory Bowel Diseases
+NCT01484496,"Lupus Erythematosus, Systemic",C20.111.590,"Lupus Erythematosus, Systemic"
+NCT01499368,Esophagitis,C06.405.117,Esophageal Diseases
+NCT01545388,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01577082,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01599104,Hypertension,C14.907.489,Hypertension
+NCT01606761,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01664247,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01709513,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT01877668,Psoriasis,C17.800.859.675,Psoriasis
+NCT01907854,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01969708,Retinal Vein Occlusion,C14.907.355,Embolism and Thrombosis
+NCT02177396,Hypertension,C14.907.489,Hypertension
+NCT02183688,Migraine Disorders,C10.228.140.546.399.750,Migraine Disorders
+NCT02349295,Psoriasis,C17.800.859.675,Psoriasis
+NCT02376790,Psoriasis,C17.800.859.675,Psoriasis
+NCT02494284,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT02531035,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT02607865,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02796677,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02835534,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT02937701,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00000476,Heart Failure,C14.280.434,Heart Failure
+NCT00036439,"Colitis, Ulcerative",C06.405.469.432,Inflammatory Bowel Diseases
+NCT00038961,Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00064428,Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00087529,Multiple Sclerosis,C10.314.350.500,Multiple Sclerosis
+NCT00090103,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT00092638,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00092768,Osteoarthritis,C05.550.114,Arthritis
+NCT00096980,Psoriasis,C17.800.859.675,Psoriasis
+NCT00097084,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00099866,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00099892,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00101751,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00101803,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00102388,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00103857,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00110240,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00120003,Stroke,C14.907.253.855,Stroke
+NCT00125918,"Hypertension, Pulmonary",C08.381.423,"Hypertension, Pulmonary"
+NCT00138567,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00138580,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00139386,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00139386,Hypertension,C14.907.489,Hypertension
+NCT00145327,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00151827,Hypertension,C14.907.489,Hypertension
+NCT00168792,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00174668,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00175032,Osteoarthritis,C05.550.114,Arthritis
+NCT00186901,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00195494,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00195702,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00207662,Crohn Disease,C06.405.469.432,Inflammatory Bowel Diseases
+NCT00212667,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00220233,Hypertension,C14.907.489,Hypertension
+NCT00222261,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT00222261,Angina Pectoris,C14.280.647Y,"Myocardial Ischemia, chronic"
+NCT00229424,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT00232050,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00242411,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00249795,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT00250679,Bronchitis,C08.381.495,"Lung Diseases, Obstructive"
+NCT00252668,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00253188,Alzheimer Disease,C10.228.140.380,Dementia
+NCT00257686,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00273299,Hypertension,C14.907.489,Hypertension
+NCT00274014,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00277394,Venous Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT00285519,Hypertension,C14.907.489,Hypertension
+NCT00289848,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00309738,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00309777,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00318422,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00322257,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT00327145,Hypertension,C14.907.489,Hypertension
+NCT00327418,Angina Pectoris,C14.280.647Y,"Myocardial Ischemia, chronic"
+NCT00332020,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00353912,Hypertension,C14.907.489,Hypertension
+NCT00365950,Venous Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT00365950,Pulmonary Embolism,C14.907.355,Embolism and Thrombosis
+NCT00376272,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT00379249,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00383240,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00385138,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00385138,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT00395512,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00396227,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00406419,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00414609,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00430729,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00451412,Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00452699,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00463866,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00480805,Hypertension,C14.907.489,Hypertension
+NCT00480805,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00542087,Osteoarthritis,C05.550.114,Arthritis
+NCT00553267,Hypertension,C14.907.489,Hypertension
+NCT00624338,"Lupus Erythematosus, Systemic",C20.111.590,"Lupus Erythematosus, Systemic"
+NCT00628342,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT00641056,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00641914,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00687973,Hypertension,C14.907.489,Hypertension
+NCT00696241,Hypertension,C14.907.489,Hypertension
+NCT00754403,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00783224,Rhinitis,C08.460.799,Rhinitis
+NCT00810199,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00831441,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00859183,Coronary Restenosis,C14.280.647,Myocardial Ischemia
+NCT00862420,Peripheral Arterial Disease,C14.907.617,Peripheral Vascular Diseases
+NCT00917254,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00931710,Hypertension,C14.907.489,Hypertension
+NCT00954447,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00960661,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00979589,"Ischemic Attack, Transient",C14.907.253.092,Brain Ischemia
+NCT00979589,Stroke,C14.907.253.855,Stroke
+NCT01045161,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01068600,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01068678,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01087723,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT01106014,"Hypertension, Pulmonary",C08.381.423,"Hypertension, Pulmonary"
+NCT01106651,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01114880,"Spondylitis, Ankylosing",C05.550.114,Arthritis
+NCT01118312,Rhinitis,C08.460.799,Rhinitis
+NCT01118312,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01130246,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT01209702,"Spondylitis, Ankylosing",C05.550.114,Arthritis
+NCT01212770,Psoriasis,C17.800.859.675,Psoriasis
+NCT01296412,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01306214,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01318070,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01345916,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01376245,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01422876,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01462942,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01470053,Rhinitis,C08.460.799,Rhinitis
+NCT01493531,Gout,C05.550.114,Arthritis
+NCT01566604,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01663402,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT01708603,Psoriasis,C17.800.859.675,Psoriasis
+NCT01714817,Lupus Nephritis,C20.111.590,"Lupus Erythematosus, Systemic"
+NCT01730534,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01774474,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT01850615,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01854658,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01860729,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT01870778,Heart Failure,C14.280.434,Heart Failure
+NCT01914757,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01986855,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02074982,Psoriasis,C17.800.859.675,Psoriasis
+NCT02085161,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02094937,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT02164864,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT02172573,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT02177500,Hypertension,C14.907.489,Hypertension
+NCT02181998,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT02194205,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02227550,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT02229227,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02244229,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT02343926,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02420262,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02741245,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00043784,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00043784,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00049829,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00073372,Brain Ischemia,C14.907.253.092,Brain Ischemia
+NCT00076076,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00092625,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00092651,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00118703,Rhinitis,C08.460.799,Rhinitis
+NCT00121641,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00129233,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00129233,Hypertension,C14.907.489,Hypertension
+NCT00133692,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00133692,Hypertension,C14.907.489,Hypertension
+NCT00139815,Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00143481,Urinary Incontinence,C23.888.942.343.800,Urinary Incontinence
+NCT00144508,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00145210,Hypertension,C14.907.489,Hypertension
+NCT00163358,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00168844,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00174681,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00175903,Epilepsy,C10.228.140.490,Epilepsy
+NCT00184665,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT00185172,Hypertension,C14.907.489,Hypertension
+NCT00202020,Cerebral Infarction,C14.907.253.855,Stroke
+NCT00216892,Psoriasis,C17.800.859.675,Psoriasis
+NCT00219089,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00219089,Hypertension,C14.907.489,Hypertension
+NCT00224107,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT00233441,Atrial Flutter,C14.280.067,"Arrhythmias, Cardiac"
+NCT00233441,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT00236574,Alzheimer Disease,C10.228.140.380,Dementia
+NCT00244556,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00246909,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT00247962,"Spondylitis, Ankylosing",C05.550.114,Arthritis
+NCT00259792,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00261573,"Dementia, Vascular",C10.228.140.380,Dementia
+NCT00261573,Alzheimer Disease,C10.228.140.380,Dementia
+NCT00267215,Osteoarthritis,C05.550.114,Arthritis
+NCT00294710,Hypertension,C14.907.489,Hypertension
+NCT00299013,"Colitis, Ulcerative",C06.405.469.432,Inflammatory Bowel Diseases
+NCT00301574,Alzheimer Disease,C10.228.140.380,Dementia
+NCT00307437,Psoriasis,C17.800.859.675,Psoriasis
+NCT00312104,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT00314158,Ocular Hypertension,C11.525,Ocular Hypertension
+NCT00325676,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT00328627,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00358176,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00365170,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT00371683,Pulmonary Embolism,C14.907.355,Embolism and Thrombosis
+NCT00371683,Venous Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT00372216,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00383136,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00394199,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00422227,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00423995,Rhinitis,C08.460.799,Rhinitis
+NCT00476996,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00485589,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00499707,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00531817,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00546507,Osteoarthritis,C05.550.114,Arthritis
+NCT00560417,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00571649,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00591266,Hypertension,C14.907.489,Hypertension
+NCT00602472,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00604253,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00620542,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT00646594,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00649025,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00664534,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00751829,Hypertension,C14.907.489,Hypertension
+NCT00766545,Cerebral Infarction,C14.907.253.855,Stroke
+NCT00777946,Hypertension,C14.907.489,Hypertension
+NCT00789750,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00792727,Osteoarthritis,C05.550.114,Arthritis
+NCT00821977,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00823992,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00846586,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00849017,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00856206,Gout,C05.550.114,Arthritis
+NCT00872001,Stroke,C14.907.253.855,Stroke
+NCT00872001,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00885352,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00902538,Hypertension,C14.907.489,Hypertension
+NCT00911547,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00926289,Hypertension,C14.907.489,Hypertension
+NCT00929864,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00935532,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00970489,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT00970632,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT00972283,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00976391,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00993109,Hypertension,C14.907.489,Hypertension
+NCT01009086,"Arthritis, Psoriatic",C05.550.114,Arthritis
+NCT01021735,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01031680,Hypertension,C14.907.489,Hypertension
+NCT01031680,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01051011,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01054885,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01059799,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01075282,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01076075,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01121835,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01175811,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01181167,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT01181895,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01290874,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01462266,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01462929,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01486940,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT01499953,Venous Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT01519518,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT01556997,Hypertension,C14.907.489,Hypertension
+NCT01610037,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01633112,Multiple Sclerosis,C10.314.350.500,Multiple Sclerosis
+NCT01712516,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01717300,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT01732770,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT01758198,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01777334,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01822808,Heart Failure,C14.280.434,Heart Failure
+NCT01880216,Venous Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT01882439,Psoriasis,C17.800.859.675,Psoriasis
+NCT01966107,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01976208,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT02099110,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02104674,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT02105961,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02121613,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT02177461,Hypertension,C14.907.489,Hypertension
+NCT02254291,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02281318,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT02453685,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02584855,Psoriasis,C17.800.859.675,Psoriasis
+NCT02672852,Psoriasis,C17.800.859.675,Psoriasis
+NCT02730377,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02738632,Hypertension,C14.907.489,Hypertension
+NCT02906930,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT03021187,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00000609,Heart Failure,C14.280.434,Heart Failure
+NCT00034840,Hypertension,C14.907.489,Hypertension
+NCT00046748,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00059306,Hypertension,C14.907.489,Hypertension
+NCT00079638,Stroke,C14.907.253.855,Stroke
+NCT00079638,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT00089804,Lupus Nephritis,C20.111.590,"Lupus Erythematosus, Systemic"
+NCT00092690,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00093899,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00097786,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00099853,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00102466,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00106340,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00109408,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00110435,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00110435,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00153062,Stroke,C14.907.253.855,Stroke
+NCT00163527,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00166530,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT00175019,Gout,C05.550.114,Arthritis
+NCT00202878,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00202878,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00203658,Venous Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT00203658,Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00206167,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00219115,Hypertension,C14.907.489,Hypertension
+NCT00219141,Hypertension,C14.907.489,Hypertension
+NCT00219180,Hypertension,C14.907.489,Hypertension
+NCT00237887,Psoriasis,C17.800.859.675,Psoriasis
+NCT00238784,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00252824,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00271817,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00274612,Hypertension,C14.907.489,Hypertension
+NCT00276484,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00295633,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00314860,Restless Legs Syndrome,C10.803,Restless Legs Syndrome
+NCT00328692,Heart Failure,C14.280.434,Heart Failure
+NCT00343980,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00346216,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00347360,Hypertension,C14.907.489,Hypertension
+NCT00361530,Stroke,C14.907.253.855,Stroke
+NCT00373685,Osteoarthritis,C05.550.114,Arthritis
+NCT00375388,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00377858,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00382889,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00384215,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00384930,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT00405717,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00408629,"Colitis, Ulcerative",C06.405.469.432,Inflammatory Bowel Diseases
+NCT00412984,Atrial Flutter,C14.280.067,"Arrhythmias, Cardiac"
+NCT00412984,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT00424268,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00433966,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00442546,Osteoarthritis,C05.550.114,Arthritis
+NCT00445276,Osteoarthritis,C05.550.114,Arthritis
+NCT00477295,Epilepsy,C10.228.140.490,Epilepsy
+NCT00494013,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00545324,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00590174,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00614380,Hypertension,C14.907.489,Hypertension
+NCT00620867,Osteoarthritis,C05.550.114,Arthritis
+NCT00624065,Hypertension,C14.907.489,Hypertension
+NCT00628758,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00641602,Esophagitis,C06.405.117,Esophageal Diseases
+NCT00641680,Rhinitis,C08.460.799,Rhinitis
+NCT00643201,Venous Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT00654498,Restless Legs Syndrome,C10.803,Restless Legs Syndrome
+NCT00658632,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT00667797,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00697151,Stroke,C14.907.253.855,Stroke
+NCT00707993,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00714961,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00734318,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00740792,Rhinitis,C08.460.799,Rhinitis
+NCT00770653,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00772174,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00796653,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00802373,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT00821093,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00829660,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00829660,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00848081,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT00856544,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00856986,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00870467,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00877383,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00909597,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00909779,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00913120,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00919711,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00949442,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00950794,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00975286,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01009580,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01029886,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01035255,Heart Failure,C14.280.434,Heart Failure
+NCT01068652,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01123980,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01154036,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT01185938,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT01197534,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01197755,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01202903,Rhinitis,C08.460.799,Rhinitis
+NCT01210001,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01270464,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01388361,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01394952,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01395745,"Lupus Erythematosus, Systemic",C20.111.590,"Lupus Erythematosus, Systemic"
+NCT01437397,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01510158,Gout,C05.550.114,Arthritis
+NCT01548001,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01576419,Osteoarthritis,C05.550.114,Arthritis
+NCT01578850,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01590771,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01698320,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01715298,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01730053,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT01772147,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01785472,Hypertension,C14.907.489,Hypertension
+NCT01822899,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01867125,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01911364,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01973231,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02049814,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02054897,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02072330,Hypertension,C14.907.489,Hypertension
+NCT02104804,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02168842,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT02172287,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02173691,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02183701,Hypertension,C14.907.489,Hypertension
+NCT02224157,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT02244255,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT02246920,Rhinitis,C08.460.799,Rhinitis
+NCT02311231,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT02438787,"Spondylitis, Ankylosing",C05.550.114,Arthritis
+NCT02441218,Heart Failure,C14.280.434,Heart Failure
+NCT02561806,Psoriasis,C17.800.859.675,Psoriasis
+NCT02565173,Ocular Hypertension,C11.525,Ocular Hypertension
+NCT02684357,Psoriasis,C17.800.859.675,Psoriasis
+NCT02836873,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02860624,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT02890173,Hypertension,C14.907.489,Hypertension
+NCT00000425,Osteoarthritis,C05.550.114,Arthritis
+NCT00000569,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00006305,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00027066,Stroke,C14.907.253.855,Stroke
+NCT00046254,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00090298,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00106847,Parapsoriasis,C17.800.859.575,Parapsoriasis
+NCT00106847,Psoriasis,C17.800.859.675,Psoriasis
+NCT00109317,Psoriasis,C17.800.859.675,Psoriasis
+NCT00132717,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00135096,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00135876,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00140946,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00143377,Urinary Incontinence,C23.888.942.343.800,Urinary Incontinence
+NCT00145730,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00145730,Osteoarthritis,C05.550.114,Arthritis
+NCT00149227,Stroke,C14.907.253.855,Stroke
+NCT00149227,Heart Failure,C14.280.434,Heart Failure
+NCT00149227,Hypertension,C14.907.489,Hypertension
+NCT00170378,Venous Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT00172081,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00190580,Hypertension,C14.907.489,Hypertension
+NCT00234897,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00235248,Embolism,C14.907.355,Embolism and Thrombosis
+NCT00235248,"Ischemic Attack, Transient",C14.907.253.092,Brain Ischemia
+NCT00235248,Brain Infarction,C14.907.253.855,Stroke
+NCT00236392,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT00241488,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00251641,Psoriasis,C17.800.859.675,Psoriasis
+NCT00251823,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00253214,Alzheimer Disease,C10.228.140.380,Dementia
+NCT00255164,Esophagitis,C06.405.117,Esophageal Diseases
+NCT00259766,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00264212,Hypertension,C14.907.489,Hypertension
+NCT00269906,Angina Pectoris,C14.280.647Y,"Myocardial Ischemia, chronic"
+NCT00277264,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00321737,Esophagitis,C06.405.117,Esophageal Diseases
+NCT00325806,Hypertension,C14.907.489,Hypertension
+NCT00334386,Hypertension,C14.907.489,Hypertension
+NCT00348504,Heart Failure,C14.280.434,Heart Failure
+NCT00354939,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00361699,Stroke,C14.907.253.855,Stroke
+NCT00379769,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00393458,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00393991,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00396357,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00404547,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00419757,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00421122,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00435461,Rhinitis,C08.460.799,Rhinitis
+NCT00438451,Epilepsy,C10.228.140.490,Epilepsy
+NCT00439244,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00439738,Hypertension,C14.907.489,Hypertension
+NCT00447759,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00447759,Osteoarthritis,C05.550.114,Arthritis
+NCT00454896,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT00481364,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT00562289,Stroke,C14.907.253.855,Stroke
+NCT00637273,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00641537,Multiple Sclerosis,C10.314.350.500,Multiple Sclerosis
+NCT00644735,Esophagitis,C06.405.117,Esophageal Diseases
+NCT00652392,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00653744,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00662909,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT00680953,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00688701,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00740714,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT00741715,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00750113,Hypertension,C14.907.489,Hypertension
+NCT00783744,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00790205,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00809965,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00809965,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00818883,Hypertension,C14.907.489,Hypertension
+NCT00853957,Hypertension,C14.907.489,Hypertension
+NCT00856284,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00960141,Rhinitis,C08.460.799,Rhinitis
+NCT00979901,Rhinitis,C08.460.799,Rhinitis
+NCT01001572,Hypertension,C14.907.489,Hypertension
+NCT01022762,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01023581,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01038427,Rhinitis,C08.460.799,Rhinitis
+NCT01117350,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01155466,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT01177384,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01189890,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01197521,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01202188,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01243177,Epilepsy,C10.228.140.490,Epilepsy
+NCT01263925,Intermittent Claudication,C14.907.137.126.669,Intermittent Claudication
+NCT01293097,Angina Pectoris,C14.280.647Y,"Myocardial Ischemia, chronic"
+NCT01293097,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT01293097,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT01294462,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT01315249,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01327846,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT01349777,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT01368536,Hypertension,C14.907.489,Hypertension
+NCT01370005,Hypertension,C14.907.489,Hypertension
+NCT01370005,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01458951,"Colitis, Ulcerative",C06.405.469.432,Inflammatory Bowel Diseases
+NCT01459367,Esophagitis,C06.405.117,Esophageal Diseases
+NCT01483560,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT01498003,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT01512979,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01513460,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01613326,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01636713,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01676116,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01721044,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01730040,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT01890122,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT01947491,Psoriasis,C17.800.859.675,Psoriasis
+NCT01989468,Psoriasis,C17.800.859.675,Psoriasis
+NCT02022930,Osteoarthritis,C05.550.114,Arthritis
+NCT02152605,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02177409,Hypertension,C14.907.489,Hypertension
+NCT02348723,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT02396732,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT02413398,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02421510,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT02446990,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT02552212,"Spondylitis, Ankylosing",C05.550.114,Arthritis
+NCT02579850,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02762578,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00000173,Alzheimer Disease,C10.228.140.380,Dementia
+NCT00035256,Osteoporosis,C05.116.198.579,Osteoporosis
+NCT00051285,Heart Failure,C14.280.434,Heart Failure
+NCT00091598,"Hypertension, Pulmonary",C08.381.423,"Hypertension, Pulmonary"
+NCT00093925,Hypertension,C14.907.489,Hypertension
+NCT00095147,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00096603,Psoriasis,C17.800.859.675,Psoriasis
+NCT00097591,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00108823,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00133003,Angina Pectoris,C14.280.647Y,"Myocardial Ischemia, chronic"
+NCT00142584,Hypertension,C14.907.489,Hypertension
+NCT00170950,Hypertension,C14.907.489,Hypertension
+NCT00171002,Hypertension,C14.907.489,Hypertension
+NCT00219973,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00231738,Angina Pectoris,C14.280.647Y,"Myocardial Ischemia, chronic"
+NCT00231738,"Death, Sudden, Cardiac",C14.280.383.220,"Death, Sudden, Cardiac"
+NCT00231738,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00231738,Peripheral Arterial Disease,C14.907.617,Peripheral Vascular Diseases
+NCT00231738,Stroke,C14.907.253.855,Stroke
+NCT00243724,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT00244387,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT00244842,Psoriasis,C17.800.859.675,Psoriasis
+NCT00269867,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00272090,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT00273026,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00273052,Hypertension,C14.907.489,Hypertension
+NCT00305162,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00305162,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00331604,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00344110,Hypertension,C14.907.489,Hypertension
+NCT00367315,Osteoarthritis,C05.550.114,Arthritis
+NCT00368277,Hypertension,C14.907.489,Hypertension
+NCT00368979,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT00377676,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00393718,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00395603,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00400777,Hypertension,C14.907.489,Hypertension
+NCT00409760,Hypertension,C14.907.489,Hypertension
+NCT00417222,Heart Failure,C14.280.434,Heart Failure
+NCT00424437,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT00425373,Hypertension,C14.907.489,Hypertension
+NCT00430248,Gout,C05.550.114,Arthritis
+NCT00443690,Heart Failure,C14.280.434,Heart Failure
+NCT00454662,Hypertension,C14.907.489,Hypertension
+NCT00474045,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT00484198,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00487539,"Colitis, Ulcerative",C06.405.469.432,Inflammatory Bowel Diseases
+NCT00489736,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT00529529,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT00535405,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00541697,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00542555,Osteoarthritis,C05.550.114,Arthritis
+NCT00565409,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00580840,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00604344,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT00633932,Esophagitis,C06.405.117,Esophageal Diseases
+NCT00634309,Heart Failure,C14.280.434,Heart Failure
+NCT00640627,Osteoarthritis,C05.550.114,Arthritis
+NCT00645268,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00648141,"Spondylitis, Ankylosing",C05.550.114,Arthritis
+NCT00653341,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00673790,Hypertension,C14.907.489,Hypertension
+NCT00673920,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT00676338,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00683618,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00706134,Hypertension,C14.907.489,Hypertension
+NCT00722852,Osteoarthritis,C05.550.114,Arthritis
+NCT00734630,Hypertension,C14.907.489,Hypertension
+NCT00744926,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00765830,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00794157,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00809354,Osteoarthritis,C05.550.114,Arthritis
+NCT00821834,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00821834,Angina Pectoris,C14.280.647Y,"Myocardial Ischemia, chronic"
+NCT00862251,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00865020,Hypertension,C14.907.489,Hypertension
+NCT00887978,"Hypertension, Pulmonary",C08.381.423,"Hypertension, Pulmonary"
+NCT00900146,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00929851,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00953212,Atrial Flutter,C14.280.067,"Arrhythmias, Cardiac"
+NCT00953212,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT00972738,Rhinitis,C08.460.799,Rhinitis
+NCT01007435,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01013532,Brain Ischemia,C14.907.253.092,Brain Ischemia
+NCT01021696,Dementia,C10.228.140.380,Dementia
+NCT01039688,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT01079234,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT01086384,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01087788,"Arthritis, Psoriatic",C05.550.114,Arthritis
+NCT01101009,Hypertension,C14.907.489,Hypertension
+NCT01159600,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01179048,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01192724,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT01224366,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01285323,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01287117,Urticaria,C17.800.862.945,Urticaria
+NCT01292473,Urticaria,C17.800.862.945,Urticaria
+NCT01323621,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01342081,Ocular Hypertension,C11.525,Ocular Hypertension
+NCT01459809,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01465763,"Colitis, Ulcerative",C06.405.469.432,Inflammatory Bowel Diseases
+NCT01572792,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01604278,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01644500,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01706198,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01787396,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01813422,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT01838850,Hypertension,C14.907.489,Hypertension
+NCT01897532,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01952145,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01975246,Hypertension,C14.907.489,Hypertension
+NCT02068443,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02072226,Stroke,C14.907.253.855,Stroke
+NCT02151851,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT02177344,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02178137,Osteoarthritis,C05.550.114,Arthritis
+NCT02183220,Migraine Disorders,C10.228.140.546.399.750,Migraine Disorders
+NCT02207621,Ocular Hypertension,C11.525,Ocular Hypertension
+NCT02245672,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT02268214,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT02273050,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02305849,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT02446912,"Lupus Erythematosus, Systemic",C20.111.590,"Lupus Erythematosus, Systemic"
+NCT02495324,Hypertension,C14.907.489,Hypertension
+NCT02513160,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT02532855,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02551575,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT02551874,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02629159,"Arthritis, Rheumatoid",C05.550.114,Arthritis
+NCT02967211,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT03220425,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT00000478,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00000479,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00000480,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00000530,Raynaud Disease,C14.907.617.812,Raynaud Disease
+NCT00000542,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00000558,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00000614,Peripheral Arterial Disease,C14.907.617,Peripheral Vascular Diseases
+NCT00000620,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00004817,Seizures,C10.228.140.490,Epilepsy
+NCT00006305,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00032786,Crohn Disease,C06.405.469.432,Inflammatory Bowel Diseases
+NCT00032799,Crohn Disease,C06.405.469.432,Inflammatory Bowel Diseases
+NCT00041938,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00043784,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00043784,Angina Pectoris,C14.280.647Y,"Myocardial Ischemia, chronic"
+NCT00059306,Stroke,C14.907.253.855,Stroke
+NCT00060918,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00060931,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00062556,Peripheral Arterial Disease,C14.907.617,Peripheral Vascular Diseases
+NCT00064428,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00069823,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT00071266,Peripheral Arterial Disease,C14.907.617,Peripheral Vascular Diseases
+NCT00073372,Stroke,C14.907.253.855,Stroke
+NCT00074542,Crohn Disease,C06.405.469.432,Inflammatory Bowel Diseases
+NCT00077779,Crohn Disease,C06.405.469.432,Inflammatory Bowel Diseases
+NCT00077805,Cerebral Infarction,C14.907.253.855,Stroke
+NCT00077805,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00078611,Crohn Disease,C06.405.469.432,Inflammatory Bowel Diseases
+NCT00079638,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00089895,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00090116,Alzheimer Disease,C10.228.140.380,Dementia
+NCT00090168,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00091429,Angina Pectoris,C14.280.647Y,"Myocardial Ischemia, chronic"
+NCT00091598,Hypertension,C14.907.489,Hypertension
+NCT00092599,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00092612,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00092625,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00092638,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00093158,Angina Pectoris,C14.280.647Y,"Myocardial Ischemia, chronic"
+NCT00097591,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00099268,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT00099788,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00099788,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00105300,Crohn Disease,C06.405.469.432,Inflammatory Bowel Diseases
+NCT00120289,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00120289,Stroke,C14.907.253.855,Stroke
+NCT00120328,Diabetic Nephropathies,C19.246.099.875,Diabetic Nephropathies
+NCT00123903,Hypertension,C14.907.489,Hypertension
+NCT00125918,Hypertension,C14.907.489,Hypertension
+NCT00130208,Diabetic Nephropathies,C19.246.099.875,Diabetic Nephropathies
+NCT00133003,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00136019,Seizures,C10.228.140.490,Epilepsy
+NCT00136773,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00138723,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT00139815,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00141232,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00141453,Diabetic Nephropathies,C19.246.099.875,Diabetic Nephropathies
+NCT00143221,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT00143377,Enuresis,C12.777.934.284,Enuresis
+NCT00143377,Enuresis,C13.351.968.934.252,Enuresis
+NCT00143481,Enuresis,C12.777.934.284,Enuresis
+NCT00143481,Enuresis,C13.351.968.934.252,Enuresis
+NCT00143481,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT00143507,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00143520,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00147654,Enuresis,C12.777.934.284,Enuresis
+NCT00147654,Enuresis,C13.351.968.934.252,Enuresis
+NCT00147719,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00147758,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00149227,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00151502,Alzheimer Disease,C10.228.140.380,Dementia
+NCT00152425,Crohn Disease,C06.405.469.432,Inflammatory Bowel Diseases
+NCT00152490,Crohn Disease,C06.405.469.432,Inflammatory Bowel Diseases
+NCT00152971,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00153036,Stroke,C14.907.253.855,Stroke
+NCT00157586,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00162084,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00163202,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00166530,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00168818,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00171145,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT00171184,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT00171275,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00171275,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00171496,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00174759,Peripheral Arterial Disease,C14.907.617,Peripheral Vascular Diseases
+NCT00182143,Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00202878,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00203034,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT00203060,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT00210496,Migraine Disorders,C10.228.140.546.399.750,Migraine Disorders
+NCT00210821,Migraine Disorders,C10.228.140.546.399.750,Migraine Disorders
+NCT00210912,Migraine Disorders,C10.228.140.546.399.750,Migraine Disorders
+NCT00211705,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00212732,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT00212810,Migraine Disorders,C10.228.140.546.399.750,Migraine Disorders
+NCT00215436,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00216619,Migraine Disorders,C10.228.140.546.399.750,Migraine Disorders
+NCT00220363,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT00220415,Seizures,C10.228.140.490,Epilepsy
+NCT00220961,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00222261,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00224146,Enuresis,C12.777.934.284,Enuresis
+NCT00224146,Enuresis,C13.351.968.934.252,Enuresis
+NCT00224146,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT00225277,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00225589,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00229424,Esophagitis,C06.405.117,Esophageal Diseases
+NCT00231595,Migraine Disorders,C10.228.140.546.399.750,Migraine Disorders
+NCT00235716,Alzheimer Disease,C10.228.140.380,Dementia
+NCT00236509,Migraine Disorders,C10.228.140.546.399.750,Migraine Disorders
+NCT00236561,Migraine Disorders,C10.228.140.546.399.750,Migraine Disorders
+NCT00239330,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00242320,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00242944,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00242944,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00244426,Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00247247,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT00250679,Pulmonary Emphysema,C08.381.495,"Lung Diseases, Obstructive"
+NCT00256204,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT00262054,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00263393,Stroke,C14.907.253.855,Stroke
+NCT00270374,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00280371,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00280696,Seizures,C10.228.140.490,Epilepsy
+NCT00282932,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT00283335,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00286494,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00286897,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT00291330,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00296218,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00296218,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00296491,Rhinitis,C08.460.799,Rhinitis
+NCT00296530,Rhinitis,C08.460.799,Rhinitis
+NCT00300118,Crohn Disease,C06.405.469.432,Inflammatory Bowel Diseases
+NCT00300196,Brain Ischemia,C14.907.253.092,Brain Ischemia
+NCT00300196,Cerebral Infarction,C14.907.253.855,Stroke
+NCT00300430,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00300456,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00300469,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00300482,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00303459,Hypertension,C14.907.489,Hypertension
+NCT00308347,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00309244,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00311402,Stroke,C14.907.253.855,Stroke
+NCT00313313,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00314158,Hypertension,C14.907.489,Hypertension
+NCT00316082,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00322153,Alzheimer Disease,C10.228.140.380,Dementia
+NCT00325390,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00325403,Hypertension,C14.907.489,Hypertension
+NCT00325442,Hypertension,C14.907.489,Hypertension
+NCT00327015,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00327418,Stroke,C14.907.253.855,Stroke
+NCT00327418,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00327691,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00327691,Stroke,C14.907.253.855,Stroke
+NCT00328523,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00329173,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00329238,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00330850,Migraine Disorders,C10.228.140.546.399.750,Migraine Disorders
+NCT00331487,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00333112,Enuresis,C12.777.934.284,Enuresis
+NCT00333112,Enuresis,C13.351.968.934.252,Enuresis
+NCT00334958,Seizures,C10.228.140.490,Epilepsy
+NCT00337558,Enuresis,C12.777.934.284,Enuresis
+NCT00337558,Enuresis,C13.351.968.934.252,Enuresis
+NCT00337558,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT00337558,"Urinary Incontinence, Urge",C23.888.942.343.800,Urinary Incontinence
+NCT00338117,Alzheimer Disease,C10.228.140.380,Dementia
+NCT00348140,Alzheimer Disease,C10.228.140.380,Dementia
+NCT00348452,Osteoarthritis,C05.550.114,Arthritis
+NCT00353587,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00360308,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT00362323,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00362960,Diabetic Nephropathies,C19.246.099.875,Diabetic Nephropathies
+NCT00366301,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00368108,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT00373451,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00379899,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00380939,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00387881,Migraine Disorders,C10.228.140.546.399.750,Migraine Disorders
+NCT00402363,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
+NCT00405717,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00423085,Alzheimer Disease,C10.228.140.380,Dementia
+NCT00426751,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00432276,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00432796,Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00433732,Migraine Disorders,C10.228.140.546.399.750,Migraine Disorders
+NCT00434083,Migraine Disorders,C10.228.140.546.399.750,Migraine Disorders
+NCT00439725,Pulmonary Embolism,C14.907.355,Embolism and Thrombosis
+NCT00439725,Venous Thrombosis,C14.907.355,Embolism and Thrombosis
+NCT00440050,Alzheimer Disease,C10.228.140.380,Dementia
+NCT00444925,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT00449787,Migraine Disorders,C10.228.140.546.399.750,Migraine Disorders
+NCT00451360,Osteoarthritis,C05.550.114,Arthritis
+NCT00464269,Seizures,C10.228.140.490,Epilepsy
+NCT00464308,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT00475852,Heart Failure,C14.280.434,Heart Failure
+NCT00490035,Seizures,C10.228.140.490,Epilepsy
+NCT00503152,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00513630,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00521820,Heart Failure,C14.280.434,Heart Failure
+NCT00522379,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT00525824,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00526474,Stroke,C14.907.253.855,Stroke
+NCT00527943,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00527943,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00528372,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00528879,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00535405,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00536484,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT00537238,Seizures,C10.228.140.490,Epilepsy
+NCT00537940,Seizures,C10.228.140.490,Epilepsy
+NCT00546637,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT00551447,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00555217,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00562289,Migraine Disorders,C10.228.140.546.399.750,Migraine Disorders
+NCT00562588,Stroke,C14.907.253.855,Stroke
+NCT00570739,Prediabetic State,C18.452.394.750,Diabetes Mellitus
+NCT00573443,Multiple Sclerosis,C10.314.350.500,Multiple Sclerosis
+NCT00575588,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00596752,Peripheral Arterial Disease,C14.907.617,Peripheral Vascular Diseases
+NCT00608881,Huntington Disease,C10.228.140.380,Dementia
+NCT00611026,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT00614939,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00620542,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00627640,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT00631189,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00633893,Pulmonary Embolism,C14.907.355,Embolism and Thrombosis
+NCT00633932,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT00634114,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT00639158,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00643201,Pulmonary Embolism,C14.907.355,Embolism and Thrombosis
+NCT00643851,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00652106,Hypertension,C14.907.489,Hypertension
+NCT00660179,Hypertension,C14.907.489,Hypertension
+NCT00660907,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00660998,"Diabetes Mellitus, Type 1",C18.452.394.750.124,"Diabetes Mellitus, Type 1"
+NCT00661362,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00663897,Gastritis,C06.405.205.697,Gastritis
+NCT00666458,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00667797,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00668005,Hypertension,C14.907.489,Hypertension
+NCT00668109,Hypertension,C14.907.489,Hypertension
+NCT00673231,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00677807,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00679627,Alzheimer Disease,C10.228.140.380,Dementia
+NCT00680186,Venous Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT00680745,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00683878,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00685776,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00685841,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT00698932,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00699582,Seizures,C10.228.140.490,Epilepsy
+NCT00699972,Seizures,C10.228.140.490,Epilepsy
+NCT00700310,Seizures,C10.228.140.490,Epilepsy
+NCT00714961,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00740623,Seizures,C10.228.140.490,Epilepsy
+NCT00757588,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00771394,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT00772603,Seizures,C10.228.140.490,Epilepsy
+NCT00783692,Crohn Disease,C06.405.469.432,Inflammatory Bowel Diseases
+NCT00790907,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT00809965,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00809965,Angina Pectoris,C14.280.647Y,"Myocardial Ischemia, chronic"
+NCT00810693,Hypertension,C14.907.489,Hypertension
+NCT00814801,Alzheimer Disease,C10.228.140.380,Dementia
+NCT00829660,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00856622,Hypertension,C14.907.489,Hypertension
+NCT00857649,Alzheimer Disease,C10.228.140.380,Dementia
+NCT00880620,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT00887978,Hypertension,C14.907.489,Hypertension
+NCT00911937,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT00927394,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00928070,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT00947843,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT00957684,Seizures,C10.228.140.490,Epilepsy
+NCT00979628,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00984867,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00988429,Seizures,C10.228.140.490,Epilepsy
+NCT01028586,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT01049984,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT01087762,Spondylarthropathies,C05.550.114,Arthritis
+NCT01089751,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT01093534,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT01095653,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01095666,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01099137,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT01106014,Hypertension,C14.907.489,Hypertension
+NCT01132638,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT01137474,Hypertension,C14.907.489,Hypertension
+NCT01137474,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01178073,Hypertension,C14.907.489,Hypertension
+NCT01187966,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT01188824,Cerebral Infarction,C14.907.253.855,Stroke
+NCT01188824,Peripheral Arterial Disease,C14.907.617,Peripheral Vascular Diseases
+NCT01195662,Hypertension,C14.907.489,Hypertension
+NCT01195662,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01202903,Asthma,C08.381.495,"Lung Diseases, Obstructive"
+NCT01212770,"Arthritis, Psoriatic",C05.550.114,Arthritis
+NCT01217892,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01224171,Crohn Disease,C06.405.469.432,Inflammatory Bowel Diseases
+NCT01227655,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT01228747,Seizures,C10.228.140.490,Epilepsy
+NCT01229735,Seizures,C10.228.140.490,Epilepsy
+NCT01248468,Migraine Disorders,C10.228.140.546.399.750,Migraine Disorders
+NCT01252056,Diabetic Nephropathies,C19.246.099.875,Diabetic Nephropathies
+NCT01252953,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT01261325,Seizures,C10.228.140.490,Epilepsy
+NCT01262677,Seizures,C10.228.140.490,Epilepsy
+NCT01263925,Peripheral Arterial Disease,C14.907.617,Peripheral Vascular Diseases
+NCT01272219,Prediabetic State,C18.452.394.750,Diabetes Mellitus
+NCT01283594,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT01284556,Seizures,C10.228.140.490,Epilepsy
+NCT01286935,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT01291641,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT01293097,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT01300819,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT01302067,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT01313494,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01327846,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
+NCT01342081,Hypertension,C14.907.489,Hypertension
+NCT01353235,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01368536,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT01369329,Crohn Disease,C06.405.469.432,Inflammatory Bowel Diseases
+NCT01369342,Crohn Disease,C06.405.469.432,Inflammatory Bowel Diseases
+NCT01369355,Crohn Disease,C06.405.469.432,Inflammatory Bowel Diseases
+NCT01371994,Enuresis,C12.777.934.284,Enuresis
+NCT01371994,Enuresis,C13.351.968.934.252,Enuresis
+NCT01392326,"Arthritis, Psoriatic",C05.550.114,Arthritis
+NCT01396395,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT01451398,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01455857,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01455870,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01455896,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01479530,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT01488019,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01492361,Hyperlipidemias,C18.452.584.500.500,Hyperlipidemias
+NCT01493557,Embolism,C14.907.355,Embolism and Thrombosis
+NCT01512004,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT01512004,"Urinary Incontinence, Urge",C23.888.942.343.800,Urinary Incontinence
+NCT01523301,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT01541956,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01543555,Peripheral Arterial Disease,C14.907.617,Peripheral Vascular Diseases
+NCT01568073,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT01606007,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01618695,Seizures,C10.228.140.490,Epilepsy
+NCT01619059,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01621178,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01624259,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01628926,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT01646255,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT01646320,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01652729,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01683331,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT01695239,"Arthritis, Psoriatic",C05.550.114,Arthritis
+NCT01710657,Seizures,C10.228.140.490,Epilepsy
+NCT01729559,Thromboembolism,C14.907.355,Embolism and Thrombosis
+NCT01732822,Peripheral Arterial Disease,C14.907.617,Peripheral Vascular Diseases
+NCT01741194,Alzheimer Disease,C10.228.140.380,Dementia
+NCT01749904,Hypertension,C14.907.489,Hypertension
+NCT01749930,Hypertension,C14.907.489,Hypertension
+NCT01752634,"Arthritis, Psoriatic",C05.550.114,Arthritis
+NCT01763866,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT01763918,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT01767519,Enuresis,C12.777.934.284,Enuresis
+NCT01767519,Enuresis,C13.351.968.934.252,Enuresis
+NCT01767519,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT01768559,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01776424,Peripheral Arterial Disease,C14.907.617,Peripheral Vascular Diseases
+NCT01777282,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01794143,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01798706,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT01860976,"Arthritis, Psoriatic",C05.550.114,Arthritis
+NCT01877668,"Arthritis, Psoriatic",C05.550.114,Arthritis
+NCT01882439,"Arthritis, Psoriatic",C05.550.114,Arthritis
+NCT01908829,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT01937871,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT01949948,Cerebral Infarction,C14.907.253.855,Stroke
+NCT01954121,Seizures,C10.228.140.490,Epilepsy
+NCT01955161,Alzheimer Disease,C10.228.140.380,Dementia
+NCT01963208,Seizures,C10.228.140.490,Epilepsy
+NCT01969123,Alzheimer Disease,C10.228.140.380,Dementia
+NCT01969136,Alzheimer Disease,C10.228.140.380,Dementia
+NCT01972841,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT01973205,Migraine Disorders,C10.228.140.546.399.750,Migraine Disorders
+NCT01985334,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT01989468,"Arthritis, Psoriatic",C05.550.114,Arthritis
+NCT01994720,Cerebral Infarction,C14.907.253.855,Stroke
+NCT01994720,"Ischemic Attack, Transient",C14.907.253.092,Brain Ischemia
+NCT02006641,Alzheimer Disease,C10.228.140.380,Dementia
+NCT02006654,Alzheimer Disease,C10.228.140.380,Dementia
+NCT02017340,Alzheimer Disease,C10.228.140.380,Dementia
+NCT02024646,"Arthritis, Psoriatic",C05.550.114,Arthritis
+NCT02029495,"Arthritis, Psoriatic",C05.550.114,Arthritis
+NCT02045862,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT02058147,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02058160,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02065791,Diabetic Nephropathies,C19.246.099.875,Diabetic Nephropathies
+NCT02080364,Alzheimer Disease,C10.228.140.380,Dementia
+NCT02094963,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
+NCT02104817,Hyperlipidemias,C18.452.584.500.500,Hyperlipidemias
+NCT02104817,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT02157935,"Lung Diseases, Obstructive",C08.381.495,"Lung Diseases, Obstructive"
+NCT02173457,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02207491,Hypertension,C14.907.489,Hypertension
+NCT02207621,Hypertension,C14.907.489,Hypertension
+NCT02284893,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02294396,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT02337738,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT02349295,"Arthritis, Psoriatic",C05.550.114,Arthritis
+NCT02352363,Parkinson Disease,C10.574.812,Parkinson Disease
+NCT02376790,"Arthritis, Psoriatic",C05.550.114,Arthritis
+NCT02390882,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT02419612,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT02446990,Heart Failure,C14.280.434,Heart Failure
+NCT02454491,Myocardial Ischemia,C14.280.647X,"Myocardial Ischemia, acute"
+NCT02465515,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02558374,Hypertension,C14.907.489,Hypertension
+NCT02565173,Hypertension,C14.907.489,Hypertension
+NCT02584855,"Arthritis, Psoriatic",C05.550.114,Arthritis
+NCT02585778,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT02623062,Gastroesophageal Reflux,C06.405.117,Esophageal Diseases
+NCT02656173,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
+NCT02656173,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
+NCT02666664,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT02739984,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT02963922,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT03006276,Migraine Disorders,C10.228.140.546.399.750,Migraine Disorders
+NCT03009019,Migraine Disorders,C10.228.140.546.399.750,Migraine Disorders
+NCT03021343,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
