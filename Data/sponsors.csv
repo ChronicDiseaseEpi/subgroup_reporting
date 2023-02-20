@@ -1,0 +1,2945 @@
+id,nct_id,agency_class,lead_or_collaborator,name
+2775053,NCT01776424,Industry,lead,Bayer
+3079800,NCT03021187,Industry,lead,Novo Nordisk A/S
+3080003,NCT02906917,Industry,lead,Novo Nordisk A/S
+3080145,NCT02788474,Industry,lead,Boehringer Ingelheim
+2869589,NCT00985621,Industry,lead,Pfizer
+3081302,NCT01794143,Other,lead,GRADE Study Group
+3081303,NCT01794143,NIH,collaborator,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
+3081304,NCT01794143,NIH,collaborator,"National Heart, Lung, and Blood Institute (NHLBI)"
+3081305,NCT01794143,Industry,collaborator,"Becton, Dickinson and Company"
+3081306,NCT01794143,Industry,collaborator,Bristol-Myers Squibb
+3081307,NCT01794143,Industry,collaborator,Merck Sharp & Dohme Corp.
+3081308,NCT01794143,Industry,collaborator,Novo Nordisk A/S
+3081309,NCT01794143,Industry,collaborator,Roche Diagnostics
+3081310,NCT01794143,Industry,collaborator,Sanofi
+2598004,NCT03220425,Industry,lead,Novo Nordisk A/S
+3083434,NCT02863328,Industry,lead,Novo Nordisk A/S
+3083560,NCT02738151,Industry,lead,Sanofi
+3083564,NCT02730377,Industry,lead,Novo Nordisk A/S
+3083673,NCT02629159,Industry,lead,AbbVie
+3083693,NCT02607865,Industry,lead,Novo Nordisk A/S
+3083837,NCT02446990,Industry,lead,Servier
+3083839,NCT02441218,Industry,lead,Servier
+3084100,NCT02099110,Industry,lead,Merck Sharp & Dohme Corp.
+3084101,NCT02099110,Industry,collaborator,Pfizer
+3084149,NCT01989754,Industry,lead,"Janssen Research & Development, LLC"
+3084150,NCT01989754,Other,collaborator,"The George Institute for Global Health, Australia"
+3084155,NCT01986855,Industry,lead,Merck Sharp & Dohme Corp.
+3084156,NCT01986855,Industry,collaborator,Pfizer
+2622969,NCT03021343,Other,lead,Jordan Collaborating Cardiology Group
+2623715,NCT03015220,Industry,lead,Novo Nordisk A/S
+3084606,NCT01032629,Industry,lead,"Janssen Research & Development, LLC"
+3084607,NCT01032629,Other,collaborator,"The George Institute for Global Health, Australia"
+3084815,NCT00143507,Other,lead,Institut de Recherches Internationales Servier
+2629769,NCT02967224,Industry,lead,Sanofi
+2629770,NCT02967211,Industry,lead,Sanofi
+2630182,NCT02963922,Industry,lead,Novo Nordisk A/S
+2633344,NCT02937701,Industry,lead,Amgen
+2635952,NCT02916602,Industry,lead,Hanmi Pharmaceutical Company Limited
+2639143,NCT02890173,Industry,lead,"Daiichi Sankyo Co., Ltd."
+2642727,NCT02860624,Industry,lead,Livzon Pharmaceutical Group Inc.
+2645662,NCT02836873,Industry,lead,Theracos
+2645838,NCT02835534,Industry,lead,"Guangzhou Recomgen Biotech Co., Ltd."
+2645839,NCT02835534,Other,collaborator,"Chinese Academy of Medical Sciences, Fuwai Hospital"
+2645840,NCT02835534,Other,collaborator,Peking University
+2648964,NCT02808767,Other,lead,Faculty Hospital Kralovske Vinohrady
+2650406,NCT02796677,Industry,lead,AstraZeneca
+2652772,NCT02777580,Other,lead,Katholieke Universiteit Leuven
+2652773,NCT02777580,Industry,collaborator,Boehringer Ingelheim
+2652774,NCT02777580,Other,collaborator,Life Sciences Research Partners
+2652775,NCT02777580,Other,collaborator,Fund for Clinical Cardiovascular Research at LRD
+2654832,NCT02761252,Industry,lead,Menarini International Operations Luxembourg SA
+2656223,NCT02749994,Industry,lead,IlDong Pharmaceutical Co Ltd
+2656657,NCT02746380,Industry,lead,LG Life Sciences
+2656658,NCT02746380,Industry,collaborator,"Mochida Pharmaceutical Company, Ltd."
+2657355,NCT02741245,Industry,lead,Merck Sharp & Dohme Corp.
+2657493,NCT02739984,Industry,lead,Amgen
+2657639,NCT02738632,Industry,lead,IlDong Pharmaceutical Co Ltd
+2662977,NCT02694523,Industry,lead,AbbVie
+2662978,NCT02694523,Industry,collaborator,Boehringer Ingelheim
+2664256,NCT02684370,Industry,lead,AbbVie
+2664257,NCT02684370,Industry,collaborator,Boehringer Ingelheim
+2664258,NCT02684357,Industry,lead,AbbVie
+2664259,NCT02684357,Industry,collaborator,Boehringer Ingelheim
+2664675,NCT02681094,Industry,lead,AstraZeneca
+2665345,NCT02675426,Industry,lead,AbbVie
+2665667,NCT02672852,Industry,lead,AbbVie
+2665668,NCT02672852,Industry,collaborator,Boehringer Ingelheim
+2666470,NCT02666664,Industry,lead,Esperion Therapeutics
+2667718,NCT02656173,Industry,lead,Astellas Pharma Inc
+2667719,NCT02656173,Industry,collaborator,Astellas Pharma Singapore Pte. Ltd.
+2668657,NCT02648204,Industry,lead,Novo Nordisk A/S
+2670767,NCT02630706,Industry,lead,Merck Sharp & Dohme Corp.
+2670768,NCT02630706,Industry,collaborator,Pfizer
+2671781,NCT02623062,Industry,lead,Reckitt Benckiser Healthcare (UK) Limited
+2672649,NCT02616497,Other,lead,University of Ioannina
+2673821,NCT02607306,Industry,lead,Novo Nordisk A/S
+2675124,NCT02597049,Industry,lead,Eli Lilly and Company
+2676492,NCT02585778,Industry,lead,Sanofi
+2676493,NCT02585778,Industry,collaborator,Regeneron Pharmaceuticals
+2676602,NCT02584855,Industry,lead,Eli Lilly and Company
+2677097,NCT02580591,Industry,lead,Boehringer Ingelheim
+2677098,NCT02580591,Industry,collaborator,Eli Lilly and Company
+2679342,NCT02561806,Industry,lead,Eli Lilly and Company
+2680566,NCT02552212,Industry,lead,UCB BIOSCIENCES GmbH
+2680567,NCT02552212,Industry,collaborator,PRA Health Sciences
+2680605,NCT02551874,Industry,lead,AstraZeneca
+2680646,NCT02551575,Other,lead,Guang'anmen Hospital of China Academy of Chinese Medical Sciences
+2680805,NCT02550288,Industry,lead,Merck Sharp & Dohme Corp.
+2682949,NCT02532855,Industry,lead,Merck Sharp & Dohme Corp.
+2683159,NCT02531035,Industry,lead,Sanofi
+2683160,NCT02531035,Industry,collaborator,Lexicon Pharmaceuticals
+2683483,NCT02528201,Industry,lead,Pfizer
+2685395,NCT02513160,Industry,lead,"Teva Branded Pharmaceutical Products, R&D Inc."
+2686559,NCT02504268,Industry,lead,Bristol-Myers Squibb
+2686972,NCT02501161,Industry,lead,Novo Nordisk A/S
+2687301,NCT02498509,Industry,lead,Chong Kun Dang Pharmaceutical
+2687659,NCT02495324,Industry,lead,"Boryung Pharmaceutical Co., Ltd"
+2687785,NCT02494284,Other,lead,"CHEOL WHAN LEE, M.D., Ph.D"
+2687786,NCT02494284,Other,collaborator,"CardioVascular Research Foundation, Korea"
+2687787,NCT02494284,Industry,collaborator,Medtronic
+2687788,NCT02494284,Industry,collaborator,Chong Kun Dang Pharmaceutical Corp.
+2688328,NCT02489968,Industry,lead,Boehringer Ingelheim
+2688329,NCT02489968,Industry,collaborator,Eli Lilly and Company
+2689183,NCT02483169,Other,lead,Asan Medical Center
+2689184,NCT02483169,Industry,collaborator,"Korea Otsuka Pharmaceutical Co., Ltd."
+2689841,NCT02477969,Industry,lead,"Jiangsu Hansoh Pharmaceutical Co., Ltd."
+2689851,NCT02477865,Industry,lead,"Jiangsu Hansoh Pharmaceutical Co., Ltd."
+2690409,NCT02473198,Other,lead,The New England Baptist Hospital
+2690616,NCT02471404,Industry,lead,AstraZeneca
+2691023,NCT02467920,Other,lead,Huazhong University of Science and Technology
+2691622,NCT02463071,Industry,lead,AstraZeneca
+2691892,NCT02460978,Industry,lead,AstraZeneca
+2691893,NCT02460978,Industry,collaborator,Bristol-Myers Squibb
+2692669,NCT02454491,Other,lead,University Hospital of Ferrara
+2692757,NCT02453685,Industry,lead,Novo Nordisk A/S
+2692929,NCT02452190,Industry,lead,"Teva Branded Pharmaceutical Products, R&D Inc."
+2692930,NCT02452190,Industry,collaborator,PPD
+2693588,NCT02446912,Industry,lead,AstraZeneca
+2693589,NCT02446912,Industry,collaborator,PRA Health Sciences
+2694647,NCT02438787,Industry,lead,"Janssen Research & Development, LLC"
+2696812,NCT02421510,Industry,lead,Sanofi
+2696813,NCT02421510,Industry,collaborator,Lexicon Pharmaceuticals
+2696969,NCT02420262,Industry,lead,Novo Nordisk A/S
+2697048,NCT02419612,Industry,lead,AstraZeneca
+2697661,NCT02414958,Industry,lead,Boehringer Ingelheim
+2697662,NCT02414958,Industry,collaborator,Eli Lilly and Company
+2697676,NCT02414854,Industry,lead,Sanofi
+2697677,NCT02414854,Industry,collaborator,Regeneron Pharmaceuticals
+2697851,NCT02413398,Industry,lead,AstraZeneca
+2699887,NCT02396732,Other,lead,University of Miami
+2700596,NCT02390882,Industry,lead,Hanmi Pharmaceutical Company Limited
+2700655,NCT02390375,Industry,lead,"Daewon Pharmaceutical Co., Ltd."
+2700866,NCT02388724,Industry,lead,Takeda
+2701384,NCT02384941,Industry,lead,Sanofi
+2701385,NCT02384941,Industry,collaborator,Lexicon Pharmaceuticals
+2702513,NCT02376790,Industry,lead,Amgen
+2702645,NCT02375724,Industry,lead,AstraZeneca
+2702646,NCT02375724,Industry,collaborator,Menarini Group
+2705535,NCT02352363,Industry,lead,Acorda Therapeutics
+2705933,NCT02349295,Industry,lead,Eli Lilly and Company
+2706108,NCT02347774,Industry,lead,Sunovion Respiratory Development Inc.
+2706297,NCT02346240,Industry,lead,UCB Biopharma S.P.R.L.
+2706426,NCT02345161,Industry,lead,GlaxoSmithKline
+2706593,NCT02343926,Industry,lead,Sanofi
+2706649,NCT02343458,Industry,lead,"Pearl Therapeutics, Inc."
+2707407,NCT02337738,Industry,lead,Takeda
+2710694,NCT02311231,Other,lead,Uppsala University
+2710695,NCT02311231,Other,collaborator,Lund University
+2711124,NCT02308163,Industry,lead,Astellas Pharma Inc
+2711397,NCT02305849,Industry,lead,Astellas Pharma Inc
+2711852,NCT02301975,Industry,lead,GlaxoSmithKline
+2712698,NCT02296138,Industry,lead,Boehringer Ingelheim
+2712922,NCT02294396,Industry,lead,Astellas Pharma Inc
+2712942,NCT02294279,Other,lead,Research in Real-Life Ltd
+2712943,NCT02294279,Industry,collaborator,Aerocrine AB
+2712950,NCT02294227,Industry,lead,Novartis Pharmaceuticals
+2714049,NCT02284893,Industry,lead,AstraZeneca
+2714480,NCT02281318,Industry,lead,GlaxoSmithKline
+2715100,NCT02276222,Industry,lead,Sunovion Respiratory Development Inc.
+2715972,NCT02269176,Industry,lead,Boehringer Ingelheim
+2716086,NCT02268214,Industry,lead,AstraZeneca
+2716087,NCT02268214,Industry,collaborator,Bristol-Myers Squibb
+2717389,NCT02257385,Industry,lead,GlaxoSmithKline
+2717742,NCT02254291,Industry,lead,Novo Nordisk A/S
+2718669,NCT02246920,Industry,lead,Teva Pharmaceuticals USA
+2718824,NCT02245672,Industry,lead,Mylan Inc.
+2718825,NCT02245672,Industry,collaborator,Mylan Pharmaceuticals
+2718988,NCT02244255,Industry,lead,Boehringer Ingelheim
+2718990,NCT02244229,Industry,lead,Boehringer Ingelheim
+2719114,NCT02243176,Industry,lead,AstraZeneca
+2719205,NCT02242318,Industry,lead,Boehringer Ingelheim
+2719452,NCT02240680,Industry,lead,Boehringer Ingelheim
+2719453,NCT02240680,Industry,collaborator,Eli Lilly and Company
+2719953,NCT02236611,Industry,lead,GlaxoSmithKline
+2720859,NCT02229383,Industry,lead,AstraZeneca
+2721083,NCT02227550,Other,lead,Atrial Fibrillation Network
+2721084,NCT02227550,Industry,collaborator,Bristol-Myers Squibb
+2721085,NCT02227550,Industry,collaborator,Pfizer
+2721086,NCT02227550,Other,collaborator,Deutsches Zentrum für Herz-Kreislauf-Forschung (DZHK)
+2721483,NCT02224157,Industry,lead,AstraZeneca
+2723399,NCT02207829,Industry,lead,GlaxoSmithKline
+2723453,NCT02207374,Industry,lead,Novo Nordisk A/S
+2723466,NCT02207231,Industry,lead,"Janssen Research & Development, LLC"
+2723684,NCT02205606,Industry,lead,Hanmi Pharmaceutical Company Limited
+2723866,NCT02203916,Industry,lead,Takeda
+2723984,NCT02203032,Industry,lead,"Janssen Research & Development, LLC"
+2724253,NCT02200653,Industry,lead,Boehringer Ingelheim
+2724254,NCT02200640,Industry,lead,Boehringer Ingelheim
+2724977,NCT02194205,Industry,lead,Boehringer Ingelheim
+2726279,NCT02183701,Industry,lead,Boehringer Ingelheim
+2726320,NCT02183220,Industry,lead,Boehringer Ingelheim
+2726333,NCT02183064,Industry,lead,Boehringer Ingelheim
+2726389,NCT02182479,Industry,lead,Boehringer Ingelheim
+2726437,NCT02181998,Industry,lead,Boehringer Ingelheim
+2726438,NCT02181985,Industry,lead,Boehringer Ingelheim
+2726899,NCT02178137,Other,lead,Indus Hospital
+2726975,NCT02177500,Industry,lead,Boehringer Ingelheim
+2726979,NCT02177461,Industry,lead,Boehringer Ingelheim
+2726981,NCT02177435,Industry,lead,Boehringer Ingelheim
+2726983,NCT02177409,Industry,lead,Boehringer Ingelheim
+2726984,NCT02177396,Industry,lead,Boehringer Ingelheim
+2726989,NCT02177344,Industry,lead,Boehringer Ingelheim
+2726997,NCT02177253,Industry,lead,Boehringer Ingelheim
+2727184,NCT02175771,Industry,lead,"Teva Branded Pharmaceutical Products, R&D Inc."
+2727232,NCT02175355,Industry,lead,Boehringer Ingelheim
+2727455,NCT02173782,Industry,lead,Boehringer Ingelheim
+2727463,NCT02173691,Industry,lead,Boehringer Ingelheim
+2727492,NCT02173457,Industry,lead,"Chipscreen Biosciences, Ltd."
+2727598,NCT02172586,Industry,lead,Boehringer Ingelheim
+2727599,NCT02172573,Industry,lead,Boehringer Ingelheim
+2727621,NCT02172287,Industry,lead,Boehringer Ingelheim
+2728014,NCT02168842,Other,lead,University of Rochester
+2728015,NCT02168842,NIH,collaborator,National Institute of Neurological Disorders and Stroke (NINDS)
+2728016,NCT02168842,Other,collaborator,Michael J. Fox Foundation for Parkinson's Research
+2728017,NCT02168842,Other,collaborator,The Parkinson Study Group
+2728548,NCT02164513,Industry,lead,GlaxoSmithKline
+2729162,NCT02159053,Industry,lead,Novartis Pharmaceuticals
+2729320,NCT02157935,Industry,lead,AstraZeneca
+2729590,NCT02155660,Industry,lead,AstraZeneca
+2729591,NCT02155660,Industry,collaborator,MedImmune LLC
+2729949,NCT02152605,Industry,lead,GlaxoSmithKline
+2729972,NCT02152371,Industry,lead,Eli Lilly and Company
+2730053,NCT02151851,Industry,lead,"UCB Pharma SA, Belgium"
+2730054,NCT02151851,Industry,collaborator,Parexel
+2730371,NCT02149199,Industry,lead,AstraZeneca
+2730838,NCT02145468,Industry,lead,GlaxoSmithKline
+2730839,NCT02145468,Other,collaborator,The TIMI Study Group
+2731256,NCT02141854,Industry,lead,"Teva Branded Pharmaceutical Products, R&D Inc."
+2731524,NCT02139644,Industry,lead,"Teva Branded Pharmaceutical Products, R&D Inc."
+2731592,NCT02139046,Industry,lead,Takeda
+2731612,NCT02138916,Industry,lead,AstraZeneca
+2731613,NCT02138916,Industry,collaborator,MedImmune LLC
+2732337,NCT02132936,Industry,lead,LEO Pharma
+2732356,NCT02132767,Other,lead,Icahn School of Medicine at Mount Sinai
+2732357,NCT02132767,NIH,collaborator,"National Heart, Lung, and Blood Institute (NHLBI)"
+2732358,NCT02132767,NIH,collaborator,National Institute of Neurological Disorders and Stroke (NINDS)
+2732359,NCT02132767,Other,collaborator,Canadian Institutes of Health Research (CIHR)
+2732813,NCT02128932,Industry,lead,Novo Nordisk A/S
+2733668,NCT02121613,Industry,lead,Pierre Fabre Medicament
+2733958,NCT02119286,Industry,lead,GlaxoSmithKline
+2735568,NCT02105974,Industry,lead,GlaxoSmithKline
+2735569,NCT02105961,Industry,lead,GlaxoSmithKline
+2735570,NCT02105948,Industry,lead,GlaxoSmithKline
+2735719,NCT02104804,Industry,lead,AstraZeneca
+2735736,NCT02104674,Industry,lead,Hoffmann-La Roche
+2736257,NCT02100228,Industry,lead,Pfizer
+2736258,NCT02100228,Industry,collaborator,Bristol-Myers Squibb
+2736508,NCT02098395,Industry,lead,Novo Nordisk A/S
+2736915,NCT02094963,Other,lead,Seung-Jung Park
+2736916,NCT02094963,Other,collaborator,"CardioVascular Research Foundation, Korea"
+2736918,NCT02094937,Industry,lead,GlaxoSmithKline
+2738123,NCT02085161,Industry,lead,Boehringer Ingelheim
+2738457,NCT02082769,Other,lead,Xijing Hospital
+2738458,NCT02082769,Industry,collaborator,"Qingdao Shengbang Pharmaceutical Co., Ltd."
+2738722,NCT02080364,Industry,lead,vTv Therapeutics
+2738799,NCT02079727,Industry,lead,IBSA Institut Biochimique SA
+2741462,NCT02058160,Industry,lead,Sanofi
+2739416,NCT02074982,Industry,lead,Novartis Pharmaceuticals
+2741463,NCT02058147,Industry,lead,Sanofi
+2739722,NCT02072434,Industry,lead,"Daiichi Sankyo, Inc."
+2739723,NCT02072434,Industry,collaborator,Covance
+2739724,NCT02072434,Industry,collaborator,"Quintiles, Inc."
+2739746,NCT02072330,Industry,lead,Takeda
+2739755,NCT02072226,Industry,lead,"Genentech, Inc."
+2740201,NCT02068443,Industry,lead,Takeda
+2740660,NCT02064868,Industry,lead,Novartis Pharmaceuticals
+2740701,NCT02064439,Industry,lead,Bayer
+2740702,NCT02064439,Industry,collaborator,"Janssen Scientific Affairs, LLC"
+2741436,NCT02058368,Industry,lead,GlaxoSmithKline
+2741877,NCT02054897,Industry,lead,Novo Nordisk A/S
+2742460,NCT02049814,Industry,lead,Takeda
+2742930,NCT02045862,Industry,lead,Astellas Pharma Europe B.V.
+2744102,NCT02036515,Industry,lead,Merck Sharp & Dohme Corp.
+2744103,NCT02036515,Industry,collaborator,Pfizer
+2744441,NCT02033889,Industry,lead,Merck Sharp & Dohme Corp.
+2744442,NCT02033889,Industry,collaborator,Pfizer
+2744955,NCT02029495,Industry,lead,"Valeant Pharmaceuticals International, Inc."
+2745493,NCT02024646,Industry,lead,Amgen
+2745697,NCT02022930,Industry,lead,"Carbylan Therapeutics, Inc."
+2746116,NCT02019472,Industry,lead,"Janssen Research & Development, LLC"
+2746117,NCT02019472,Industry,collaborator,GlaxoSmithKline
+2746387,NCT02017340,Other,lead,Prof Brian Lawlor
+2746388,NCT02017340,Other,collaborator,"University of Dublin, Trinity College"
+2746389,NCT02017340,Other,collaborator,Molecular Medicine Ireland LBG
+2746390,NCT02017340,Other,collaborator,Alzheimer Europe
+2746391,NCT02017340,Industry,collaborator,"Archer Pharmaceuticals, Inc."
+2746392,NCT02017340,Other,collaborator,E-Search Limited
+2746393,NCT02017340,Other,collaborator,University College Dublin
+2746394,NCT02017340,Other,collaborator,King's College London
+2746395,NCT02017340,Other,collaborator,Istituto Di Ricerche Farmacologiche Mario Negri
+2746396,NCT02017340,Other,collaborator,"University Hospital, Lille"
+2746397,NCT02017340,Other,collaborator,University of Ulm
+2746398,NCT02017340,Other,collaborator,Szeged University
+2746399,NCT02017340,Other,collaborator,Goeteborgs Universitet
+2746400,NCT02017340,Other,collaborator,University College Cork
+2746401,NCT02017340,Other,collaborator,Aristotle University Of Thessaloniki
+2746402,NCT02017340,Other,collaborator,Stichting Katholieke Universiteit
+2746424,NCT02017171,Other,lead,Alessandro Doria
+2746425,NCT02017171,NIH,collaborator,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
+2746426,NCT02017171,Other,collaborator,Juvenile Diabetes Research Foundation
+2746427,NCT02017171,Other,collaborator,Joslin Diabetes Center
+2746428,NCT02017171,Other,collaborator,University of Minnesota - Clinical and Translational Science Institute
+2746429,NCT02017171,Other,collaborator,"University of Colorado, Denver"
+2746430,NCT02017171,Other,collaborator,University of Michigan
+2746431,NCT02017171,Other,collaborator,University of Toronto
+2746432,NCT02017171,Other,collaborator,"Feinberg School of Medicine, Northwestern University"
+2746433,NCT02017171,Other,collaborator,"Albert Einstein College of Medicine, Inc."
+2746434,NCT02017171,Other,collaborator,Steno Diabetes Center
+2746435,NCT02017171,Other,collaborator,Washington University School of Medicine
+2746436,NCT02017171,Other,collaborator,University of Washington
+2746437,NCT02017171,Other,collaborator,Emory University
+2746438,NCT02017171,Other,collaborator,University of Calgary
+2746439,NCT02017171,Other,collaborator,University of Alberta
+2746440,NCT02017171,Other,collaborator,University of Texas Southwestern Medical Center
+2746441,NCT02017171,Other,collaborator,BCDiabetes.Ca
+2746752,NCT02014467,Industry,lead,GlaxoSmithKline
+2747309,NCT02009865,Industry,lead,AstraZeneca
+2747466,NCT02008682,Industry,lead,Novo Nordisk A/S
+2747608,NCT02007720,Industry,lead,Novartis Pharmaceuticals
+2747711,NCT02006732,Industry,lead,Boehringer Ingelheim
+2748451,NCT02000336,Other,lead,Prof. Dr. rer. nat. H.J. Trampisch
+2748452,NCT02000336,Other,collaborator,Ruhr University of Bochum
+2748581,NCT01999218,Industry,lead,Merck Sharp & Dohme Corp.
+2748582,NCT01999218,Industry,collaborator,Pfizer
+2749094,NCT01994720,Industry,lead,AstraZeneca
+2749680,NCT01989468,Industry,lead,Novartis Pharmaceuticals
+2749960,NCT01986881,Industry,lead,Merck Sharp & Dohme Corp.
+2749961,NCT01986881,Industry,collaborator,Pfizer
+2750134,NCT01985334,Industry,lead,Novartis Pharmaceuticals
+2751159,NCT01976208,Industry,lead,Shanghai Zhangjiang Biotechnology Limited Company
+2751270,NCT01975246,Industry,lead,Boehringer Ingelheim
+2751503,NCT01973231,Industry,lead,Novo Nordisk A/S
+2751543,NCT01972841,Industry,lead,Astellas Pharma Europe B.V.
+2751755,NCT01970878,Industry,lead,"Pearl Therapeutics, Inc."
+2751805,NCT01970488,Industry,lead,Amgen
+2751806,NCT01970475,Industry,lead,Amgen
+2751886,NCT01969708,Industry,lead,The EMMES Corporation
+2751887,NCT01969708,NIH,collaborator,National Eye Institute (NEI)
+2751888,NCT01969708,Other,collaborator,Milton S. Hershey Medical Center
+2751889,NCT01969708,Other,collaborator,"University of Wisconsin, Madison"
+2751964,NCT01969136,Industry,lead,FORUM Pharmaceuticals Inc
+2751965,NCT01969123,Industry,lead,FORUM Pharmaceuticals Inc
+2752298,NCT01966107,Industry,lead,AstraZeneca
+2752516,NCT01964352,Industry,lead,Boehringer Ingelheim
+2752629,NCT01963208,Industry,lead,Marinus Pharmaceuticals
+2753036,NCT01959529,Industry,lead,Novo Nordisk A/S
+2753045,NCT01959451,Other,lead,Klinikum der Universitaet Muenchen
+2753146,NCT01958671,Industry,lead,Merck Sharp & Dohme Corp.
+2753147,NCT01958671,Industry,collaborator,Pfizer
+2753308,NCT01957163,Industry,lead,GlaxoSmithKline
+2753532,NCT01955161,Industry,lead,H. Lundbeck A/S
+2753533,NCT01955161,Industry,collaborator,"Otsuka Pharmaceutical Co., Ltd."
+2753671,NCT01954121,Industry,lead,UCB Pharma SA
+2753906,NCT01952145,Industry,lead,Novo Nordisk A/S
+2754144,NCT01949948,Other,lead,Lars Thomassen
+2754145,NCT01949948,Other,collaborator,The Research Council of Norway
+2754462,NCT01947491,Industry,lead,"Promius Pharma, LLC"
+2754639,NCT01946620,Industry,lead,Mundipharma Research Limited
+2755737,NCT01937871,Industry,lead,Eli Lilly and Company
+2756533,NCT01930682,Other,lead,RenJi Hospital
+2756584,NCT01930188,Industry,lead,Novo Nordisk A/S
+2756746,NCT01928771,Industry,lead,AstraZeneca
+2756762,NCT01928628,Industry,lead,LG Life Sciences
+2756980,NCT01926782,Industry,lead,Regeneron Pharmaceuticals
+2756981,NCT01926782,Industry,collaborator,Sanofi
+2758106,NCT01917656,Industry,lead,Novo Nordisk A/S
+2758136,NCT01917331,Industry,lead,Chiesi Farmaceutici S.p.A.
+2758411,NCT01914757,Industry,lead,AstraZeneca
+2759155,NCT01908829,Industry,lead,Astellas Pharma Europe Ltd.
+2759237,NCT01908140,Industry,lead,AstraZeneca
+2759278,NCT01907854,Industry,lead,Novo Nordisk A/S
+2760275,NCT01899742,Industry,lead,GlaxoSmithKline
+2761445,NCT01890122,Industry,lead,Takeda
+2762036,NCT01885208,Industry,lead,Novo Nordisk A/S
+2762349,NCT01882439,Industry,lead,Pfizer
+2762646,NCT01880216,Industry,lead,Berlin-Chemie AG Menarini Group
+2762746,NCT01879410,Industry,lead,GlaxoSmithKline
+2762955,NCT01877668,Industry,lead,Pfizer
+2763093,NCT01876368,Industry,lead,Novartis Pharmaceuticals
+2763807,NCT01870804,Other,lead,Centro Cardiopatici Toscani
+2763809,NCT01870778,Industry,lead,Novartis Pharmaceuticals
+2763963,NCT01869491,Industry,lead,Reckitt Benckiser Healthcare (UK) Limited
+2764140,NCT01868061,Industry,lead,Hoffmann-La Roche
+2764248,NCT01867125,Industry,lead,Hoffmann-La Roche
+2764962,NCT01860976,Industry,lead,Bristol-Myers Squibb
+2764990,NCT01860729,Industry,lead,Merck Sharp & Dohme Corp.
+2765600,NCT01855789,Industry,lead,Hoffmann-La Roche
+2765720,NCT01854658,Industry,lead,"Pearl Therapeutics, Inc."
+2765721,NCT01854645,Industry,lead,"Pearl Therapeutics, Inc."
+2766231,NCT01850615,Industry,lead,Novo Nordisk A/S
+2766379,NCT01849289,Industry,lead,Novo Nordisk A/S
+2766908,NCT01845025,Industry,lead,Novartis Pharmaceuticals
+2767623,NCT01838850,Industry,lead,"Daiichi Sankyo Korea Co., Ltd., a Daiichi Sankyo Company"
+2767914,NCT01836523,Industry,lead,Novo Nordisk A/S
+2769526,NCT01822899,Industry,lead,GlaxoSmithKline
+2769534,NCT01822808,Other,lead,University of Cape Town
+2769535,NCT01822808,Other,collaborator,"Momentum Research, Inc."
+2770116,NCT01817764,Industry,lead,GlaxoSmithKline
+2770596,NCT01813435,Industry,lead,ECRI bv
+2770597,NCT01813435,Other,collaborator,Biosensors International
+2770598,NCT01813435,Industry,collaborator,AstraZeneca
+2770599,NCT01813435,Industry,collaborator,The Medicines Company
+2771077,NCT01809327,Industry,lead,"Janssen Research & Development, LLC"
+2771214,NCT01808118,Industry,lead,AbbVie
+2772337,NCT01798706,Industry,lead,Sanofi
+2773123,NCT01792518,Industry,lead,Boehringer Ingelheim
+2773124,NCT01792518,Industry,collaborator,Eli Lilly and Company
+2773743,NCT01787396,Industry,lead,LG Life Sciences
+2773761,NCT01787188,Industry,lead,"Iroko Pharmaceuticals, LLC"
+2773966,NCT01785472,Industry,lead,Novartis Pharmaceuticals
+2774356,NCT01782326,Industry,lead,Novartis Pharmaceuticals
+2774853,NCT01778049,Industry,lead,Boehringer Ingelheim
+2774854,NCT01778049,Industry,collaborator,Eli Lilly and Company
+2774945,NCT01777334,Industry,lead,GlaxoSmithKline
+2774951,NCT01777282,Industry,lead,GlaxoSmithKline
+2774952,NCT01777269,Industry,lead,GlaxoSmithKline
+2775054,NCT01776424,Other,collaborator,"Hamilton Health Sciences Corporation, Population Health Research Institute"
+2775055,NCT01776424,Industry,collaborator,"Janssen Research & Development, LLC"
+2775299,NCT01774474,Other,lead,Maastricht University Medical Center
+2775300,NCT01774474,Other,collaborator,European Society of Cataract and Refractive Surgeons
+2775604,NCT01772147,Industry,lead,GlaxoSmithKline
+2775923,NCT01769378,Industry,lead,Eli Lilly and Company
+2776038,NCT01768559,Industry,lead,Sanofi
+2776163,NCT01767519,Industry,lead,Allergan
+2776497,NCT01764997,Industry,lead,Sanofi
+2776498,NCT01764997,Industry,collaborator,Regeneron Pharmaceuticals
+2776624,NCT01763918,Industry,lead,Amgen
+2776629,NCT01763866,Industry,lead,Amgen
+2777365,NCT01758380,Industry,lead,Novartis Pharmaceuticals
+2777390,NCT01758198,Industry,lead,Bristol-Myers Squibb
+2777391,NCT01758198,Industry,collaborator,Ono Pharmaceutical Co. Ltd
+2778008,NCT01752634,Industry,lead,Novartis Pharmaceuticals
+2779431,NCT01741194,Industry,lead,"Accera, Inc."
+2780154,NCT01734785,Industry,lead,Boehringer Ingelheim
+2780155,NCT01734785,Industry,collaborator,Eli Lilly and Company
+2780271,NCT01733758,Industry,lead,GlaxoSmithKline
+2780380,NCT01732822,Industry,lead,AstraZeneca
+2780384,NCT01732770,Industry,lead,Amgen
+2780683,NCT01730534,Industry,lead,AstraZeneca
+2780684,NCT01730534,Industry,collaborator,Bristol-Myers Squibb
+2780685,NCT01730534,Other,collaborator,The TIMI Study Group
+2780686,NCT01730534,Other,collaborator,Hadassah Medical Organization
+2780735,NCT01730053,Industry,lead,Regeneron Pharmaceuticals
+2780736,NCT01730053,Industry,collaborator,Sanofi
+2780737,NCT01730040,Industry,lead,Regeneron Pharmaceuticals
+2780738,NCT01730040,Industry,collaborator,Sanofi
+2780772,NCT01729754,Industry,lead,Merck Sharp & Dohme Corp.
+2780798,NCT01729559,Other,lead,Scripps Health
+2781073,NCT01727141,Industry,lead,Novartis Pharmaceuticals
+2781675,NCT01722331,Industry,lead,Merck Sharp & Dohme Corp.
+2781822,NCT01721057,Industry,lead,Eli Lilly and Company
+2781823,NCT01721044,Industry,lead,Eli Lilly and Company
+2781902,NCT01720446,Industry,lead,Novo Nordisk A/S
+2782075,NCT01719003,Industry,lead,Boehringer Ingelheim
+2782076,NCT01719003,Industry,collaborator,Eli Lilly and Company
+2782298,NCT01717300,Industry,lead,Merck Sharp & Dohme Corp.
+2782543,NCT01715298,Industry,lead,Novartis Pharmaceuticals
+2782594,NCT01714817,Industry,lead,Bristol-Myers Squibb
+2782897,NCT01712516,Industry,lead,Novartis Pharmaceuticals
+2783041,NCT01711359,Industry,lead,Eli Lilly and Company
+2783122,NCT01710657,Industry,lead,UCB Pharma SA
+2783123,NCT01710657,Industry,collaborator,UCB Japan Co. Ltd.
+2783153,NCT01710358,Industry,lead,Eli Lilly and Company
+2783215,NCT01709903,Industry,lead,Novartis Pharmaceuticals
+2783221,NCT01709864,Industry,lead,Novartis Pharmaceuticals
+2783256,NCT01709513,Industry,lead,Regeneron Pharmaceuticals
+2783257,NCT01709513,Industry,collaborator,Sanofi
+2783279,NCT01709305,Industry,lead,Merck Sharp & Dohme Corp.
+2783299,NCT01709110,Industry,lead,Eli Lilly and Company
+2783358,NCT01708629,Industry,lead,Amgen
+2783360,NCT01708603,Industry,lead,Amgen
+2783529,NCT01707134,Industry,lead,Novo Nordisk A/S
+2783632,NCT01706198,Industry,lead,GlaxoSmithKline
+2783974,NCT01703221,Industry,lead,Merck Sharp & Dohme Corp.
+2784571,NCT01698320,Industry,lead,Teva Pharmaceutical Industries
+2784651,NCT01697696,Industry,lead,Novartis Pharmaceuticals
+2784867,NCT01696110,Other,lead,Shenyang Northern Hospital
+2784873,NCT01696058,Industry,lead,Boehringer Ingelheim
+2784971,NCT01695239,Industry,lead,Eli Lilly and Company
+2785031,NCT01694771,Industry,lead,Boehringer Ingelheim
+2785427,NCT01691521,Industry,lead,GlaxoSmithKline
+2785912,NCT01687283,Industry,lead,GlaxoSmithKline
+2786420,NCT01682863,Industry,lead,Novartis Pharmaceuticals
+2787198,NCT01676116,Industry,lead,Novo Nordisk A/S
+2787359,NCT01674647,Industry,lead,Bayer
+2787360,NCT01674647,Industry,collaborator,"Janssen Research & Development, LLC"
+2788087,NCT01668667,Industry,lead,"XenoPort, Inc."
+2788598,NCT01664247,Industry,lead,Novo Nordisk A/S
+2788952,NCT01661634,Industry,lead,Cardiorentis
+2788953,NCT01661634,Industry,collaborator,"Quintiles, Inc."
+2788990,NCT01661322,Other,lead,University of Nottingham
+2790066,NCT01652729,Industry,lead,AstraZeneca
+2790531,NCT01648582,Industry,lead,Eli Lilly and Company
+2790723,NCT01646320,Industry,lead,AstraZeneca
+2790728,NCT01646255,Industry,lead,UCB Pharma
+2790729,NCT01646255,Other,collaborator,UCB Trading (Shanghai) Co. Ltd.
+2790739,NCT01646177,Industry,lead,Eli Lilly and Company
+2790748,NCT01646073,Industry,lead,"AbbVie (prior sponsor, Abbott)"
+2790917,NCT01644500,Industry,lead,Eli Lilly and Company
+2790953,NCT01644188,Industry,lead,Sanofi
+2790954,NCT01644188,Industry,collaborator,Regeneron Pharmaceuticals
+2790955,NCT01644175,Industry,lead,Sanofi
+2790956,NCT01644175,Industry,collaborator,Regeneron Pharmaceuticals
+2791654,NCT01638000,Industry,lead,Astellas Pharma Europe Ltd.
+2791807,NCT01636713,Industry,lead,GlaxoSmithKline
+2792219,NCT01633112,Industry,lead,Novartis Pharmaceuticals
+2792335,NCT01632163,Industry,lead,Sanofi
+2792681,NCT01628926,Industry,lead,"Otsuka Pharmaceutical Co., Ltd."
+2792856,NCT01627327,Industry,lead,GlaxoSmithKline
+2793202,NCT01624259,Industry,lead,Eli Lilly and Company
+2793277,NCT01623596,Industry,lead,Novartis Pharmaceuticals
+2793325,NCT01623115,Industry,lead,Sanofi
+2793326,NCT01623115,Industry,collaborator,Regeneron Pharmaceuticals
+2793567,NCT01621178,Industry,lead,Eli Lilly and Company
+2793846,NCT01619059,Industry,lead,AstraZeneca
+2793888,NCT01618695,Industry,lead,"Eisai Co., Ltd."
+2793961,NCT01618162,Industry,lead,Novo Nordisk A/S
+2794042,NCT01617434,Industry,lead,Novo Nordisk A/S
+2794359,NCT01615198,Industry,lead,Novartis Pharmaceuticals
+2794598,NCT01613326,Industry,lead,Novartis Pharmaceuticals
+2794980,NCT01610037,Industry,lead,Novartis Pharmaceuticals
+2795459,NCT01606007,Industry,lead,AstraZeneca
+2795657,NCT01604343,Industry,lead,"Janssen Research & Development, LLC"
+2795658,NCT01604343,Industry,collaborator,GlaxoSmithKline
+2795667,NCT01604278,Industry,lead,Novartis Pharmaceuticals
+2795825,NCT01603082,Industry,lead,AstraZeneca
+2795946,NCT01602003,Industry,lead,LG Life Sciences
+2796280,NCT01599104,Industry,lead,Novartis Pharmaceuticals
+2796524,NCT01597245,Industry,lead,Eli Lilly and Company
+2797288,NCT01590797,Industry,lead,Merck Sharp & Dohme Corp.
+2797290,NCT01590771,Industry,lead,Merck Sharp & Dohme Corp.
+2798036,NCT01584232,Industry,lead,Eli Lilly and Company
+2798149,NCT01583218,Industry,lead,Portola Pharmaceuticals
+2798668,NCT01578850,Industry,lead,Pfizer
+2798863,NCT01577082,Industry,lead,Chiesi Farmaceutici S.p.A.
+2798943,NCT01576419,Industry,lead,"PMG Pharm Co., Ltd"
+2799155,NCT01574651,Industry,lead,Novartis Pharmaceuticals
+2799342,NCT01573143,Other,lead,University of Oxford
+2799343,NCT01573143,Other,collaborator,"Chinese Academy of Medical Sciences, Fuwai Hospital"
+2799344,NCT01573143,Other,collaborator,Chinese Academy of Medical Sciences
+2799345,NCT01573143,Other,collaborator,Peking Union Medical College
+2799384,NCT01572792,Industry,lead,AstraZeneca
+2799941,NCT01568073,Industry,lead,Bial - Portela C S.A.
+2800146,NCT01566604,Industry,lead,Novartis Pharmaceuticals
+2801129,NCT01558271,Industry,lead,Eli Lilly and Company
+2801284,NCT01556997,Industry,lead,Symplmed Pharmaceuticals LLC
+2801500,NCT01555164,Industry,lead,Gilead Sciences
+2801502,NCT01555138,Industry,lead,Novartis Pharmaceuticals
+2802370,NCT01548001,Industry,lead,"Jiangsu Simcere Pharmaceutical Co., Ltd."
+2802666,NCT01545388,Industry,lead,Merck Sharp & Dohme Corp.
+2802902,NCT01543555,Other,lead,Hospital do Coracao
+2803105,NCT01541956,Industry,lead,Novartis Pharmaceuticals
+2803106,NCT01541943,Industry,lead,"HanAll BioPharma Co., Ltd."
+2803508,NCT01538446,Other,lead,Assistance Publique - Hôpitaux de Paris
+2803509,NCT01538446,Industry,collaborator,Eli Lilly and Company
+2803510,NCT01538446,Industry,collaborator,"Daiichi Sankyo, Inc."
+2803511,NCT01538446,Other,collaborator,Allies in Cardiovascular Trials Initiatives and Organized
+2803512,NCT01538446,Industry,collaborator,"Accumetrics, Inc."
+2803513,NCT01538446,Industry,collaborator,Stentys
+2804150,NCT01532648,Industry,lead,"Valeant Pharmaceuticals International, Inc."
+2804649,NCT01528254,Industry,lead,Novartis Pharmaceuticals
+2804944,NCT01525615,Industry,lead,Boehringer Ingelheim
+2804977,NCT01525290,Other,lead,Universitätsklinikum Hamburg-Eppendorf
+2805102,NCT01524289,Industry,lead,Merck Sharp & Dohme Corp.
+2805216,NCT01523301,Industry,lead,"UCB Korea Co., Ltd."
+2805305,NCT01522521,Industry,lead,Asahi Kasei Pharma Corporation
+2805373,NCT01521923,Industry,lead,UCB Pharma
+2805486,NCT01520818,Industry,lead,Novo Nordisk A/S
+2805604,NCT01519791,Industry,lead,UCB Pharma SA
+2805614,NCT01519674,Industry,lead,Novo Nordisk A/S
+2805628,NCT01519518,Other,lead,Liverpool Heart and Chest Hospital NHS Foundation Trust
+2805724,NCT01518855,Industry,lead,Bayer
+2806331,NCT01513460,Industry,lead,Novartis Pharmaceuticals
+2806379,NCT01512979,Industry,lead,Boehringer Ingelheim
+2806380,NCT01512979,Industry,collaborator,Eli Lilly and Company
+2806437,NCT01512446,Industry,lead,Evangelisches Krankenhaus Lutherhaus gGmbH
+2806438,NCT01512446,Other,collaborator,German Federal Ministry of Education and Research
+2806478,NCT01512108,Industry,lead,Novo Nordisk A/S
+2806494,NCT01512004,Industry,lead,Lee's Pharmaceutical Limited
+2806495,NCT01512004,Industry,collaborator,APOGEPHA Arzneimittel GmbH
+2806633,NCT01510769,Industry,lead,"Ardea Biosciences, Inc."
+2806698,NCT01510158,Industry,lead,"Ardea Biosciences, Inc."
+2806839,NCT01508936,Industry,lead,"Teva Branded Pharmaceutical Products, R&D Inc."
+2806933,NCT01508026,Industry,lead,Forest Laboratories
+2806953,NCT01507831,Industry,lead,Sanofi
+2806954,NCT01507831,Industry,collaborator,Regeneron Pharmaceuticals
+2807591,NCT01502774,Other,lead,Hospices Civils de Lyon
+2807914,NCT01500278,Industry,lead,UCB Pharma SA
+2807915,NCT01500278,Industry,collaborator,Parexel
+2807947,NCT01499953,Other,lead,GWT-TUD GmbH
+2807948,NCT01499953,Industry,collaborator,Bayer
+2808008,NCT01499368,Industry,lead,"Boryung Pharmaceutical Co., Ltd"
+2808071,NCT01498822,Industry,lead,"Korea UCB Co., Ltd."
+2808088,NCT01498679,Industry,lead,GlaxoSmithKline
+2808091,NCT01498653,Industry,lead,GlaxoSmithKline
+2808171,NCT01498003,Other,lead,Shanghai Jiao Tong University School of Medicine
+2808517,NCT01494987,Industry,lead,Gilead Sciences
+2808563,NCT01494532,Industry,lead,GlaxoSmithKline
+2808677,NCT01493557,Industry,lead,Boehringer Ingelheim
+2808679,NCT01493531,Industry,lead,"Ardea Biosciences, Inc."
+2808840,NCT01492361,Industry,lead,Amarin Pharma Inc.
+2809392,NCT01488019,Industry,lead,Dey
+2809515,NCT01486940,Industry,lead,Novo Nordisk A/S
+2809775,NCT01484496,Industry,lead,"Human Genome Sciences Inc., a GSK Company"
+2809776,NCT01484496,Industry,collaborator,GlaxoSmithKline
+2809893,NCT01483560,Other,lead,University of Glasgow
+2809894,NCT01483560,Other,collaborator,NHS Greater Glasgow and Clyde
+2809895,NCT01483560,Other,collaborator,Juvenile Diabetes Research Foundation
+2809896,NCT01483560,Other,collaborator,Imperial College London
+2809897,NCT01483560,Other,collaborator,"University of Wisconsin, Madison"
+2809898,NCT01483560,Other,collaborator,University of Dundee
+2809899,NCT01483560,Industry,collaborator,"Merck Serono S.A., Geneva"
+2809900,NCT01483560,Industry,collaborator,"Itamar-Medical, Israel"
+2809901,NCT01483560,Other,collaborator,"University of Western Ontario, Canada"
+2809902,NCT01483560,Other,collaborator,University of Melbourne
+2809903,NCT01483560,Other,collaborator,Steno Diabetes Center
+2809904,NCT01483560,Other,collaborator,Maastricht University Medical Center
+2810392,NCT01479530,Industry,lead,H. Lundbeck A/S
+2810829,NCT01475825,Industry,lead,"Kastle Therapeutics, LLC"
+2810978,NCT01474512,Industry,lead,Eli Lilly and Company
+2810990,NCT01474369,Industry,lead,Takeda
+2811164,NCT01472757,Industry,lead,Vectura Limited
+2811229,NCT01472185,Industry,lead,Gilead Sciences
+2811298,NCT01471340,Industry,lead,Merck Sharp & Dohme Corp.
+2811504,NCT01470053,Industry,lead,"Hanlim Pharm. Co., Ltd."
+2811790,NCT01467323,Industry,lead,Novo Nordisk A/S
+2811960,NCT01465763,Industry,lead,Pfizer
+2812287,NCT01462942,Industry,lead,AstraZeneca
+2812288,NCT01462929,Industry,lead,AstraZeneca
+2812362,NCT01462266,Industry,lead,Merck Sharp & Dohme Corp.
+2812477,NCT01461369,Industry,lead,"Iroko Pharmaceuticals, LLC"
+2812603,NCT01460342,Industry,lead,Eli Lilly and Company
+2812668,NCT01459809,Industry,lead,Sanofi
+2812723,NCT01459367,Industry,lead,Takeda
+2812781,NCT01458951,Industry,lead,Pfizer
+2812822,NCT01458574,Industry,lead,Pfizer
+2813057,NCT01456611,Industry,lead,"Anchen Pharmaceuticals, Inc"
+2813058,NCT01456611,Industry,collaborator,Novum Pharmaceutical Research Services
+2813133,NCT01455896,Industry,lead,Intarcia Therapeutics
+2813135,NCT01455870,Industry,lead,Intarcia Therapeutics
+2813136,NCT01455857,Industry,lead,Intarcia Therapeutics
+2813220,NCT01455129,Other,lead,The First Affiliated Hospital of Guangzhou Medical University
+2813221,NCT01455129,Industry,collaborator,Boehringer Ingelheim
+2813222,NCT01455129,Industry,collaborator,"Rundo International Pharmaceutical Research & Development Co.,Ltd."
+2813669,NCT01451203,Industry,lead,Astellas Pharma Inc
+2813670,NCT01451203,Industry,collaborator,UCB Japan Co. Ltd.
+2814287,NCT01445951,Industry,lead,Mannkind Corporation
+2814424,NCT01444430,Industry,lead,AstraZeneca
+2814488,NCT01443845,Industry,lead,AstraZeneca
+2814680,NCT01442038,Industry,lead,Gilead Sciences
+2815045,NCT01438814,Industry,lead,Boehringer Ingelheim
+2815046,NCT01438814,Industry,collaborator,Eli Lilly and Company
+2815136,NCT01437995,Other,lead,Johns Hopkins University
+2815137,NCT01437995,Other,collaborator,American Lung Association
+2815138,NCT01437995,Industry,collaborator,GlaxoSmithKline
+2815213,NCT01437540,Industry,lead,AstraZeneca
+2815231,NCT01437397,Industry,lead,AstraZeneca
+2815374,NCT01436110,Industry,lead,GlaxoSmithKline
+2815939,NCT01431287,Industry,lead,Boehringer Ingelheim
+2815940,NCT01431274,Industry,lead,Boehringer Ingelheim
+2816056,NCT01430260,Industry,lead,"Handok Pharmaceuticals Co., Ltd."
+2816057,NCT01430260,Industry,collaborator,Takeda
+2816576,NCT01425853,Industry,lead,Bioiberica
+2816633,NCT01425359,Industry,lead,Gilead Sciences
+2816963,NCT01422876,Industry,lead,Boehringer Ingelheim
+2816964,NCT01422876,Industry,collaborator,Eli Lilly and Company
+2817012,NCT01422434,Industry,lead,LEO Pharma
+2817013,NCT01422434,Industry,collaborator,"Quintiles, Inc."
+2817861,NCT01415518,Industry,lead,AstraZeneca
+2818056,NCT01413958,Industry,lead,Bayer
+2818766,NCT01408303,Industry,lead,AstraZeneca
+2818767,NCT01408303,Industry,collaborator,"Omthera Pharmaceuticals, Inc"
+2818768,NCT01408303,Industry,collaborator,"Medpace, Inc."
+2820061,NCT01397890,Industry,lead,AstraZeneca
+2820216,NCT01396395,Industry,lead,Merck KGaA
+2820217,NCT01396395,Industry,collaborator,"Merck Serono Co., Ltd., China"
+2820296,NCT01395745,Industry,lead,Anthera Pharmaceuticals
+2820387,NCT01394952,Industry,lead,Eli Lilly and Company
+2820648,NCT01392677,Industry,lead,AstraZeneca
+2820649,NCT01392677,Industry,collaborator,Bristol-Myers Squibb
+2820661,NCT01392573,Industry,lead,Novo Nordisk A/S
+2820685,NCT01392326,Industry,lead,Novartis Pharmaceuticals
+2821185,NCT01388361,Industry,lead,Novo Nordisk A/S
+2821965,NCT01381900,Industry,lead,"Janssen Research & Development, LLC"
+2822633,NCT01377012,Industry,lead,Novartis Pharmaceuticals
+2822718,NCT01376245,Industry,lead,GlaxoSmithKline
+2823238,NCT01371994,Industry,lead,Astellas Pharma Inc
+2823331,NCT01371058,Other,lead,Shenyang Northern Hospital
+2823436,NCT01370005,Industry,lead,Boehringer Ingelheim
+2823437,NCT01370005,Industry,collaborator,Eli Lilly and Company
+2823501,NCT01369355,Industry,lead,"Janssen Research & Development, LLC"
+2823502,NCT01369342,Industry,lead,"Janssen Research & Development, LLC"
+2823503,NCT01369329,Industry,lead,"Janssen Research & Development, LLC"
+2823606,NCT01368536,Industry,lead,Novartis Pharmaceuticals
+2823663,NCT01368081,Industry,lead,Boehringer Ingelheim
+2823664,NCT01368081,Industry,collaborator,Eli Lilly and Company
+2823873,NCT01366209,Industry,lead,"Genentech, Inc."
+2823978,NCT01365455,Industry,lead,Novartis Pharmaceuticals
+2824124,NCT01364220,Other,lead,Severance Hospital
+2824125,NCT01364220,Industry,collaborator,AstraZeneca
+2824846,NCT01358578,Industry,lead,Novartis Pharmaceuticals
+2824891,NCT01358175,Industry,lead,Novartis Pharmaceuticals
+2824945,NCT01357642,Industry,lead,"Amphastar Pharmaceuticals, Inc."
+2825066,NCT01356602,Industry,lead,Novartis Pharmaceuticals
+2825490,NCT01353235,Other,lead,Fekri Abroug
+2825777,NCT01350804,Industry,lead,Novartis Pharmaceuticals
+2825902,NCT01349777,Other,lead,Seung-Jung Park
+2825903,NCT01349777,Other,collaborator,"CardioVascular Research Foundation, Korea"
+2826188,NCT01347580,Industry,lead,AstraZeneca
+2826273,NCT01346865,Other,lead,Seung-Jung Park
+2826274,NCT01346865,Industry,collaborator,"Otsuka Pharmaceutical Development & Commercialization, Inc."
+2826383,NCT01345916,Industry,lead,Chiesi Farmaceutici S.p.A.
+2826465,NCT01345253,Industry,lead,GlaxoSmithKline
+2826466,NCT01345253,Industry,collaborator,Human Genome Sciences Inc.
+2826749,NCT01343004,Industry,lead,"Radius Health, Inc."
+2826762,NCT01342913,Industry,lead,GlaxoSmithKline
+2827019,NCT01340768,Industry,lead,Merck Sharp & Dohme Corp.
+2827530,NCT01336608,Industry,lead,GlaxoSmithKline
+2827660,NCT01335477,Industry,lead,Boehringer Ingelheim
+2827661,NCT01335464,Industry,lead,Boehringer Ingelheim
+2828104,NCT01331837,Industry,lead,Hoffmann-La Roche
+2828458,NCT01329029,Industry,lead,AstraZeneca
+2828607,NCT01327846,Industry,lead,Novartis Pharmaceuticals
+2829025,NCT01324362,Industry,lead,GlaxoSmithKline
+2829100,NCT01323634,Industry,lead,GlaxoSmithKline
+2829383,NCT01321255,Other,lead,Fundación Centro Nacional de Investigaciones Cardiovasculares Carlos III
+2829384,NCT01321255,Other,collaborator,Mario Negri Institute for Pharmacological Research
+2829385,NCT01321255,Other,collaborator,Rusculleda Foundation Instituto DAMIC
+2829386,NCT01321255,Other,collaborator,Fundacion Clinic per a la Recerca Biomédica
+2829387,NCT01321255,Other,collaborator,ARTTIC International Management Services
+2829388,NCT01321255,Other,collaborator,Federación Argentina de Cardiología FAC
+2829389,NCT01321255,Other,collaborator,World Health Organization
+2829390,NCT01321255,Other,collaborator,Instituto de Salud Carlos III
+2829391,NCT01321255,Industry,collaborator,Ferrer Internacional S.A.
+2829782,NCT01318135,Industry,lead,Takeda
+2829786,NCT01318083,Industry,lead,Takeda
+2829787,NCT01318070,Industry,lead,Takeda
+2829920,NCT01316913,Industry,lead,GlaxoSmithKline
+2829921,NCT01316900,Industry,lead,GlaxoSmithKline
+2829922,NCT01316887,Industry,lead,GlaxoSmithKline
+2829987,NCT01316380,Industry,lead,Boehringer Ingelheim
+2829988,NCT01316380,Industry,collaborator,Pfizer
+2830148,NCT01315249,Industry,lead,Novartis Pharmaceuticals
+2830340,NCT01313676,Industry,lead,GlaxoSmithKline
+2830357,NCT01313494,Industry,lead,AstraZeneca
+2831228,NCT01306214,Industry,lead,Boehringer Ingelheim
+2831229,NCT01306214,Industry,collaborator,Eli Lilly and Company
+2831638,NCT01302691,Industry,lead,Merck Sharp & Dohme Corp.
+2831710,NCT01302067,Industry,lead,Pfizer
+2831711,NCT01302054,Industry,lead,Pfizer
+2831857,NCT01300819,Industry,lead,UCB Pharma
+2832397,NCT01296412,Industry,lead,Merck Sharp & Dohme Corp.
+2832616,NCT01294592,Industry,lead,GlaxoSmithKline
+2832626,NCT01294462,Industry,lead,AstraZeneca
+2832817,NCT01293097,Other,lead,Peking University First Hospital
+2832892,NCT01292473,Industry,lead,"Genentech, Inc."
+2832991,NCT01291641,Other,lead,Seoul National University Hospital
+2832992,NCT01291641,Industry,collaborator,"Korea Otsuka Pharmaceutical Co., Ltd."
+2833088,NCT01290874,Other,lead,Brigham and Women's Hospital
+2833089,NCT01290874,Other,collaborator,Olmsted Medical Center
+2833090,NCT01290874,Other,collaborator,American Academy of Family Physicians National Research Network
+2833091,NCT01290874,Other,collaborator,Baim Institute for Clinical Research
+2833303,NCT01289119,Industry,lead,Takeda
+2833555,NCT01287117,Industry,lead,"Genentech, Inc."
+2833561,NCT01287039,Industry,lead,"Teva Branded Pharmaceutical Products, R&D Inc."
+2833570,NCT01286935,Industry,lead,Newron
+2833787,NCT01285323,Industry,lead,"Teva Branded Pharmaceutical Products, R&D Inc."
+2833875,NCT01284556,Industry,lead,West-Ward Pharmaceutical
+2833989,NCT01283594,Industry,lead,Biotie Therapies Inc.
+2834205,NCT01281787,Other,lead,European Institute of Oncology
+2834662,NCT01277822,Industry,lead,Merck Sharp & Dohme Corp.
+2835338,NCT01272219,Industry,lead,Novo Nordisk A/S
+2835537,NCT01270464,Industry,lead,"Teva Branded Pharmaceutical Products, R&D Inc."
+2836191,NCT01264939,Industry,lead,"Genentech, Inc."
+2836312,NCT01263925,Industry,lead,UCB Pharma
+2836456,NCT01262677,Industry,lead,Pfizer
+2836600,NCT01261325,Industry,lead,UCB Pharma
+2837099,NCT01257451,Industry,lead,Novartis Pharmaceuticals
+2837605,NCT01252953,Other,lead,University of Oxford
+2837606,NCT01252953,Industry,collaborator,Merck Sharp & Dohme Corp.
+2837716,NCT01252056,Industry,lead,Otsuka Beijing Research Institute
+2838813,NCT01243177,Industry,lead,UCB BIOSCIENCES GmbH
+2838814,NCT01243177,Industry,collaborator,Eden Sarl
+2838887,NCT01242527,Industry,lead,AstraZeneca
+2838994,NCT01241591,Industry,lead,Pfizer
+2839540,NCT01237223,Industry,lead,Novartis
+2839789,NCT01235130,Other,lead,Montreal Heart Institute
+2839959,NCT01233622,Industry,lead,Novartis
+2840088,NCT01232569,Industry,lead,Hoffmann-La Roche
+2840411,NCT01229735,Industry,lead,"UCB Korea Co., Ltd."
+2840530,NCT01228747,Industry,lead,UCB Japan Co. Ltd.
+2840657,NCT01227655,Industry,lead,Bial - Portela C S.A.
+2840904,NCT01225562,Industry,lead,AstraZeneca
+2841040,NCT01224366,Industry,lead,Novartis
+2841063,NCT01224171,Industry,lead,"Millennium Pharmaceuticals, Inc."
+2841759,NCT01218100,Industry,lead,Forest Laboratories
+2841771,NCT01218009,Industry,lead,"Teva Branded Pharmaceutical Products, R&D Inc."
+2841784,NCT01217892,Industry,lead,AstraZeneca
+2841785,NCT01217892,Industry,collaborator,Bristol-Myers Squibb
+2841999,NCT01216072,Industry,lead,Novartis Pharmaceuticals
+2842103,NCT01215097,Industry,lead,Boehringer Ingelheim
+2842104,NCT01215097,Industry,collaborator,Eli Lilly and Company
+2842212,NCT01214239,Industry,lead,Boehringer Ingelheim
+2842213,NCT01214239,Industry,collaborator,Eli Lilly and Company
+2842393,NCT01212770,Industry,lead,Celgene
+2842714,NCT01210001,Industry,lead,Boehringer Ingelheim
+2842715,NCT01210001,Industry,collaborator,Eli Lilly and Company
+2842747,NCT01209702,Industry,lead,Hoffmann-La Roche
+2842973,NCT01208207,Industry,lead,Merck Sharp & Dohme Corp.
+2842975,NCT01208181,Industry,lead,Merck Sharp & Dohme Corp.
+2843123,NCT01206972,Industry,lead,Bayer
+2843124,NCT01206972,Industry,collaborator,"Janssen Scientific Affairs, LLC"
+2843258,NCT01205932,Industry,lead,Bayer
+2843259,NCT01205932,Industry,collaborator,"Janssen Research & Development, LLC"
+2843458,NCT01204294,Industry,lead,Boehringer Ingelheim
+2843459,NCT01204294,Industry,collaborator,Eli Lilly and Company
+2843618,NCT01202903,Industry,lead,Novartis Pharmaceuticals
+2843619,NCT01202903,Industry,collaborator,"Genentech, Inc."
+2843727,NCT01202188,Industry,lead,Novartis Pharmaceuticals
+2844241,NCT01197755,Industry,lead,AstraZeneca
+2844266,NCT01197534,Industry,lead,AstraZeneca
+2844267,NCT01197521,Industry,lead,AstraZeneca
+2844506,NCT01195662,Industry,lead,AstraZeneca
+2844507,NCT01195662,Industry,collaborator,Bristol-Myers Squibb
+2844878,NCT01192724,Other,lead,Yonsei University
+2845054,NCT01191268,Industry,lead,Eli Lilly and Company
+2845209,NCT01189890,Industry,lead,Merck Sharp & Dohme Corp.
+2845328,NCT01188928,Industry,lead,LEO Pharma
+2845342,NCT01188824,Other,lead,China Medical University Hospital
+2845343,NCT01188824,Other,collaborator,National Taiwan University Hospital
+2845344,NCT01188824,Other,collaborator,Shin Kong Wu Ho-Su Memorial Hospital
+2845345,NCT01188824,Other,collaborator,Tri-Service General Hospital
+2845346,NCT01188824,Other,collaborator,Far Eastern Memorial Hospital
+2845347,NCT01188824,Other,collaborator,Changhua Christian Hospital
+2845348,NCT01188824,Other,collaborator,Chi Mei Medical Hospital
+2845349,NCT01188824,Other,collaborator,National Cheng-Kung University Hospital
+2845350,NCT01188824,Other,collaborator,Kaohsiung Medical University Chung-Ho Memorial Hospital
+2845351,NCT01188824,Other,collaborator,E-DA Hospital
+2845352,NCT01188824,Other,collaborator,Mackay Memorial Hospital
+2845353,NCT01188824,Other,collaborator,Cathay General Hospital
+2845354,NCT01188824,Other,collaborator,En Chu Kong Hospital
+2845355,NCT01188824,Other,collaborator,Kuang Tien General Hospital
+2845356,NCT01188824,Other,collaborator,Chung Shan Medical University
+2845357,NCT01188824,Other,collaborator,"Taipei Veterans General Hospital, Taiwan"
+2845460,NCT01187966,Industry,lead,Newron
+2845684,NCT01186146,Other,lead,Seung-Jung Park
+2845685,NCT01186146,Other,collaborator,"CardioVascular Research Foundation, Korea"
+2845712,NCT01185938,Other,lead,Centro Cardiopatici Toscani
+2846075,NCT01183013,Industry,lead,Boehringer Ingelheim
+2846076,NCT01183013,Industry,collaborator,Eli Lilly and Company
+2846139,NCT01182441,Industry,lead,Boston Scientific Corporation
+2846224,NCT01181895,Industry,lead,GlaxoSmithKline
+2846302,NCT01181167,Industry,lead,"Daiichi Sankyo Co., Ltd."
+2846309,NCT01181102,Industry,lead,"Daiichi Sankyo Co., Ltd."
+2846670,NCT01178073,Industry,lead,GlaxoSmithKline
+2846671,NCT01178073,Industry,collaborator,Gilead Sciences
+2846700,NCT01177813,Industry,lead,Boehringer Ingelheim
+2846701,NCT01177813,Industry,collaborator,Eli Lilly and Company
+2846743,NCT01177384,Industry,lead,Merck Sharp & Dohme Corp.
+2846799,NCT01176968,Industry,lead,Pfizer
+2846947,NCT01175824,Industry,lead,Eli Lilly and Company
+2846948,NCT01175811,Industry,lead,Eli Lilly and Company
+2847072,NCT01174693,Other,lead,Gangnam Severance Hospital
+2847073,NCT01174693,Other,collaborator,Myung In Pharmaceutical Company
+2847074,NCT01174693,Other,collaborator,Yonsei University
+2847301,NCT01172821,Industry,lead,Boehringer Ingelheim
+2847302,NCT01172821,Industry,collaborator,Pfizer
+2847303,NCT01172808,Industry,lead,Boehringer Ingelheim
+2847304,NCT01172808,Industry,collaborator,Pfizer
+2847655,NCT01169779,Industry,lead,Sanofi
+2847878,NCT01167881,Industry,lead,Boehringer Ingelheim
+2847879,NCT01167881,Industry,collaborator,Eli Lilly and Company
+2847971,NCT01167153,Industry,lead,Novartis
+2847988,NCT01167010,Industry,lead,Eurofarma Laboratorios S.A.
+2848291,NCT01164501,Industry,lead,Boehringer Ingelheim
+2848292,NCT01164501,Industry,collaborator,Eli Lilly and Company
+2848810,NCT01159912,Industry,lead,GlaxoSmithKline
+2848842,NCT01159600,Industry,lead,Boehringer Ingelheim
+2848843,NCT01159600,Industry,collaborator,Eli Lilly and Company
+2849207,NCT01156571,Industry,lead,The Medicines Company
+2849336,NCT01155466,Industry,lead,Merck Sharp & Dohme Corp.
+2849502,NCT01154166,Industry,lead,GlaxoSmithKline
+2849520,NCT01154036,Industry,lead,Merck Sharp & Dohme Corp.
+2849869,NCT01151137,Industry,lead,Sanofi
+2850225,NCT01147848,Industry,lead,GlaxoSmithKline
+2850296,NCT01147250,Industry,lead,Sanofi
+2850659,NCT01144338,Industry,lead,AstraZeneca
+2850849,NCT01142726,Industry,lead,Bristol-Myers Squibb
+2851242,NCT01139762,Industry,lead,Eli Lilly and Company
+2851513,NCT01137812,Industry,lead,"Janssen Research & Development, LLC"
+2851546,NCT01137474,Industry,lead,AstraZeneca
+2851547,NCT01137474,Industry,collaborator,Bristol-Myers Squibb
+2851946,NCT01134042,Industry,lead,GlaxoSmithKline
+2852123,NCT01132638,Industry,lead,Takeda
+2852238,NCT01131676,Industry,lead,Boehringer Ingelheim
+2852239,NCT01131676,Industry,collaborator,Eli Lilly and Company
+2852290,NCT01131182,Industry,lead,Merck Sharp & Dohme Corp.
+2852392,NCT01130246,Industry,lead,Anthera Pharmaceuticals
+2852416,NCT01130025,Industry,lead,LEO Pharma
+2852566,NCT01128894,Industry,lead,GlaxoSmithKline
+2852850,NCT01126580,Industry,lead,Eli Lilly and Company
+2853155,NCT01123980,Industry,lead,Novo Nordisk A/S
+2853405,NCT01121835,Industry,lead,Sanofi
+2853530,NCT01120717,Industry,lead,Novartis Pharmaceuticals
+2853536,NCT01120691,Industry,lead,Novartis Pharmaceuticals
+2853637,NCT01119859,Industry,lead,Hoffmann-La Roche
+2853845,NCT01118312,Other,lead,JHSPH Center for Clinical Trials
+2853846,NCT01118312,NIH,collaborator,National Institutes of Health (NIH)
+2853847,NCT01118312,NIH,collaborator,"National Heart, Lung, and Blood Institute (NHLBI)"
+2853960,NCT01117350,Industry,lead,Sanofi
+2854246,NCT01114880,Industry,lead,Abbott
+2854840,NCT01110200,Industry,lead,GlaxoSmithKline
+2855128,NCT01107886,Industry,lead,AstraZeneca
+2855129,NCT01107886,Industry,collaborator,Bristol-Myers Squibb
+2855289,NCT01106690,Industry,lead,"Janssen Research & Development, LLC"
+2855290,NCT01106677,Industry,lead,"Janssen Research & Development, LLC"
+2855292,NCT01106651,Industry,lead,"Janssen Research & Development, LLC"
+2855296,NCT01106625,Industry,lead,"Janssen Research & Development, LLC"
+2855304,NCT01106534,Industry,lead,Abbott Vascular
+2855305,NCT01106534,Other,collaborator,Baim Institute for Clinical Research
+2855306,NCT01106534,Industry,collaborator,Bristol-Myers Squibb
+2855307,NCT01106534,Industry,collaborator,Eli Lilly and Company
+2855308,NCT01106534,Industry,collaborator,"Daiichi Sankyo, Inc."
+2855369,NCT01106014,Industry,lead,Actelion
+2855933,NCT01101009,Industry,lead,"Daiichi Sankyo Europe, GmbH"
+2856144,NCT01099137,Other,lead,Seoul National University Bundang Hospital
+2856235,NCT01098539,Industry,lead,GlaxoSmithKline
+2856577,NCT01095666,Industry,lead,AstraZeneca
+2856578,NCT01095666,Other,collaborator,"AstraZeneca, Bristol-Myers Squibb"
+2856579,NCT01095653,Industry,lead,AstraZeneca
+2856580,NCT01095653,Other,collaborator,"AstraZeneca, Bristol-Myers Squibb"
+2856716,NCT01094457,Other,lead,Shenyang Northern Hospital
+2856829,NCT01093534,Industry,lead,Astellas Pharma Inc
+2857270,NCT01089751,Industry,lead,Allergan
+2857272,NCT01089725,Industry,lead,Pfizer
+2857350,NCT01089127,Industry,lead,Novartis Pharmaceuticals
+2857514,NCT01087788,Industry,lead,UCB BIOSCIENCES GmbH
+2857516,NCT01087762,Industry,lead,UCB BIOSCIENCES GmbH
+2857521,NCT01087723,Industry,lead,The Medicines Company
+2857685,NCT01086384,Industry,lead,GlaxoSmithKline
+2858256,NCT01081834,Industry,lead,"Janssen Research & Development, LLC"
+2858546,NCT01079234,Industry,lead,Novo Nordisk A/S
+2858553,NCT01079130,Industry,lead,Novartis Pharmaceuticals
+2858762,NCT01077362,Industry,lead,"Janssen Research & Development, LLC"
+2858838,NCT01076647,Industry,lead,Novo Nordisk A/S
+2858903,NCT01076088,Industry,lead,Merck Sharp & Dohme Corp.
+2858904,NCT01076075,Industry,lead,Merck Sharp & Dohme Corp.
+2858949,NCT01075698,Other,lead,Kumamoto University
+2858950,NCT01075698,Other,collaborator,Japan Foundation for Aging and Health
+2858994,NCT01075282,Industry,lead,Eli Lilly and Company
+2859120,NCT01074268,Industry,lead,Novo Nordisk A/S
+2859325,NCT01072448,Industry,lead,Novartis
+2859475,NCT01071122,Industry,lead,Bayer
+2859525,NCT01070784,Industry,lead,AstraZeneca
+2859717,NCT01069289,Industry,lead,AstraZeneca
+2859746,NCT01069003,Industry,lead,Medtronic Vascular
+2859783,NCT01068678,Industry,lead,Novo Nordisk A/S
+2859784,NCT01068665,Industry,lead,Novo Nordisk A/S
+2859785,NCT01068652,Industry,lead,Novo Nordisk A/S
+2859790,NCT01068600,Industry,lead,Novartis
+2860035,NCT01066676,Industry,lead,Gebro Pharma GmbH
+2860273,NCT01064687,Industry,lead,Eli Lilly and Company
+2860352,NCT01063920,Industry,lead,Logical Therapeutics
+2860353,NCT01063920,Industry,collaborator,PRA Health Sciences
+2860613,NCT01061671,Other,lead,University of Minnesota - Clinical and Translational Science Institute
+2860614,NCT01061671,NIH,collaborator,"National Heart, Lung, and Blood Institute (NHLBI)"
+2860615,NCT01061671,Other,collaborator,Canadian Institutes of Health Research (CIHR)
+2860616,NCT01061671,Other,collaborator,Ottawa Hospital Research Institute
+2860822,NCT01059812,Industry,lead,Novo Nordisk A/S
+2860823,NCT01059799,Industry,lead,Novo Nordisk A/S
+2860825,NCT01059773,Industry,lead,Janssen-Cilag International NV
+2860893,NCT01059136,Other,lead,Assistance Publique - Hôpitaux de Paris
+2861131,NCT01057251,Industry,lead,Forest Laboratories
+2861424,NCT01054885,Industry,lead,GlaxoSmithKline
+2861521,NCT01053988,Industry,lead,GlaxoSmithKline
+2861895,NCT01051011,Industry,lead,Hoffmann-La Roche
+2862015,NCT01049984,Industry,lead,"Teva Neuroscience, Inc."
+2862016,NCT01049984,Industry,collaborator,H. Lundbeck A/S
+2862314,NCT01047501,Industry,lead,Amarin Pharma Inc.
+2862508,NCT01046110,Industry,lead,Novo Nordisk A/S
+2862547,NCT01045707,Industry,lead,Novo Nordisk A/S
+2862581,NCT01045447,Industry,lead,Novo Nordisk A/S
+2862615,NCT01045161,Industry,lead,AstraZeneca
+2862800,NCT01043666,Industry,lead,Astellas Pharma Inc
+2862872,NCT01042977,Industry,lead,AstraZeneca
+2862873,NCT01042977,Industry,collaborator,Bristol-Myers Squibb
+2862951,NCT01042392,Industry,lead,Novartis
+2863293,NCT01039688,Industry,lead,Pfizer
+2863443,NCT01038427,Industry,lead,Sandoz
+2863725,NCT01035255,Industry,lead,Novartis Pharmaceuticals
+2863849,NCT01034137,Industry,lead,Hoffmann-La Roche
+2863884,NCT01033825,Industry,lead,Sunovion
+2863983,NCT01033071,Industry,lead,Takeda
+2864150,NCT01031680,Industry,lead,AstraZeneca
+2864151,NCT01031680,Industry,collaborator,Bristol-Myers Squibb
+2864344,NCT01030081,Other,lead,Shanghai Jiao Tong University School of Medicine
+2864375,NCT01029886,Industry,lead,AstraZeneca
+2864376,NCT01029886,Industry,collaborator,Eli Lilly and Company
+2864536,NCT01028586,Industry,lead,Newron
+2864554,NCT01028391,Industry,lead,Merck Sharp & Dohme Corp.
+2865130,NCT01023581,Industry,lead,Takeda
+2865224,NCT01022762,Industry,lead,Novo Nordisk A/S
+2865348,NCT01021735,Other,lead,University of Glasgow
+2865349,NCT01021735,Other,collaborator,Arthritis Research UK
+2865350,NCT01021735,Other,collaborator,NHS Lothian
+2865351,NCT01021735,Other,collaborator,NHS Grampian
+2865352,NCT01021735,Other,collaborator,NHS Tayside
+2865353,NCT01021735,Other,collaborator,NHS Borders
+2865354,NCT01021735,Other,collaborator,NHS Fife
+2865710,NCT01018511,Industry,lead,Astellas Pharma Europe B.V.
+2865749,NCT01018173,Industry,lead,Hoffmann-La Roche
+2865772,NCT01017952,Industry,lead,GlaxoSmithKline
+2866297,NCT01013532,Other,lead,Asan Medical Center
+2866298,NCT01013532,Industry,collaborator,"Korea Otsuka Pharmaceutical Co., Ltd."
+2866583,NCT01010971,Industry,lead,Sunovion
+2866754,NCT01009580,Industry,lead,Novo Nordisk A/S
+2866763,NCT01009463,Industry,lead,GlaxoSmithKline
+2866805,NCT01009086,Industry,lead,"Janssen Research & Development, LLC"
+2867009,NCT01007435,Industry,lead,Hoffmann-La Roche
+2867113,NCT01006603,Industry,lead,AstraZeneca
+2867114,NCT01006603,Industry,collaborator,Bristol-Myers Squibb
+2867157,NCT01006291,Industry,lead,Novo Nordisk A/S
+2867201,NCT01005901,Industry,lead,Novartis
+2867713,NCT01001572,Industry,lead,Novartis
+2867726,NCT01001494,Industry,lead,AstraZeneca
+2867751,NCT01001208,Industry,lead,Amgen
+2867752,NCT01001208,Industry,collaborator,Immunex Corporation
+2868342,NCT00996281,Industry,lead,Takeda
+2868713,NCT00993109,Industry,lead,Bayer
+2869245,NCT00988429,Industry,lead,Bial - Portela C S.A.
+2869246,NCT00988429,Industry,collaborator,Sunovion
+2869523,NCT00986154,Industry,lead,"Daiichi Sankyo, Inc."
+2869540,NCT00986050,Other,lead,Catharina Ziekenhuis Eindhoven
+2869541,NCT00986050,Other,collaborator,Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA)
+2869542,NCT00986050,Other,collaborator,Compusense Oegstgeest ( electronic randomization and CRF)
+2869543,NCT00986050,Other,collaborator,CATHREINE ( data monitoring)
+2869671,NCT00984867,Industry,lead,AstraZeneca
+2869672,NCT00984867,Industry,collaborator,Bristol-Myers Squibb
+2869695,NCT00984659,Industry,lead,GlaxoSmithKline
+2869913,NCT00982644,Industry,lead,Novo Nordisk A/S
+2869961,NCT00982228,Industry,lead,Novo Nordisk A/S
+2870234,NCT00979901,Industry,lead,Merck Sharp & Dohme Corp.
+2870384,NCT00978627,Industry,lead,Novo Nordisk A/S
+2870455,NCT00977938,Other,lead,Baim Institute for Clinical Research
+2870456,NCT00977938,Industry,collaborator,Abbott
+2870457,NCT00977938,Industry,collaborator,Boston Scientific Corporation
+2870458,NCT00977938,Industry,collaborator,Bristol-Myers Squibb
+2870459,NCT00977938,Industry,collaborator,Sanofi-Synthelabo
+2870460,NCT00977938,Industry,collaborator,Cordis Corporation
+2870461,NCT00977938,Industry,collaborator,Eli Lilly and Company
+2870462,NCT00977938,Industry,collaborator,"Daiichi Sankyo, Inc."
+2870463,NCT00977938,Industry,collaborator,Medtronic
+2870636,NCT00976391,Industry,lead,GlaxoSmithKline
+2870770,NCT00975286,Industry,lead,Sanofi
+2870849,NCT00974571,Industry,lead,Merck Sharp & Dohme Corp.
+2870985,NCT00973479,Industry,lead,"Centocor, Inc."
+2870986,NCT00973479,Industry,collaborator,Schering-Plough
+2871066,NCT00972738,Industry,lead,Merck Sharp & Dohme Corp.
+2871114,NCT00972283,Industry,lead,Novo Nordisk A/S
+2871217,NCT00971165,Other,lead,Hospital de Clinicas de Porto Alegre
+2871218,NCT00971165,Other,collaborator,Financiadora de Estudos e Projetos
+2871289,NCT00970632,Industry,lead,Eli Lilly and Company
+2871301,NCT00970489,Other,lead,Brigham and Women's Hospital
+2871302,NCT00970489,Other,collaborator,The OPERA Investigators
+2871489,NCT00968812,Industry,lead,"Janssen Research & Development, LLC"
+2871503,NCT00968708,Industry,lead,Takeda
+2871807,NCT00966004,Industry,lead,Astellas Pharma Inc
+2871849,NCT00965549,Industry,lead,Sanofi
+2872084,NCT00963599,Industry,lead,Merck Sharp & Dohme Corp.
+2872098,NCT00963469,Industry,lead,Merck Sharp & Dohme Corp.
+2872417,NCT00960661,Industry,lead,AstraZeneca
+2872418,NCT00960661,Industry,collaborator,Eli Lilly and Company
+2872472,NCT00960141,Industry,lead,Merck Sharp & Dohme Corp.
+2872681,NCT00958269,Industry,lead,Phenomix
+2872682,NCT00958269,Industry,collaborator,Forest Laboratories
+2872744,NCT00957684,Industry,lead,Bial - Portela C S.A.
+2872757,NCT00957554,Industry,lead,Sanofi
+2872813,NCT00957060,Industry,lead,Sanofi
+2872814,NCT00957047,Industry,lead,Bial - Portela C S.A.
+2872851,NCT00956644,Industry,lead,Sanofi
+2873092,NCT00954447,Industry,lead,Boehringer Ingelheim
+2873093,NCT00954447,Industry,collaborator,Eli Lilly and Company
+2873233,NCT00953212,Other,lead,Maine Medical Center
+2873242,NCT00953147,Industry,lead,Sunovion
+2873532,NCT00950794,Industry,lead,GlaxoSmithKline
+2873632,NCT00949884,Industry,lead,"Daiichi Sankyo, Inc."
+2873685,NCT00949442,Industry,lead,Sanofi
+2873874,NCT00947843,Other,lead,Seoul National University Hospital
+2873875,NCT00947843,Other,collaborator,CKD Pharmaceutical Limited
+2874447,NCT00942994,Industry,lead,Novartis
+2875154,NCT00936897,Industry,lead,Amgen
+2875322,NCT00935532,Industry,lead,AstraZeneca
+2875323,NCT00935532,Industry,collaborator,Eli Lilly and Company
+2875776,NCT00931710,Industry,lead,Novartis
+2875906,NCT00930670,Other,lead,Centre de Recherche de l'Institut Universitaire de Cardiologie et de Pneumologie de Quebec
+2875999,NCT00929864,Industry,lead,Bristol-Myers Squibb
+2876000,NCT00929851,Industry,lead,Chiesi Farmaceutici S.p.A.
+2876080,NCT00929110,Industry,lead,Novartis
+2876200,NCT00928070,Industry,lead,Pfizer
+2876278,NCT00927394,Industry,lead,Novartis
+2876393,NCT00926289,Industry,lead,Boehringer Ingelheim
+2876480,NCT00925600,Industry,lead,Amgen
+2876738,NCT00923091,Industry,lead,"Daiichi Sankyo, Inc."
+2877046,NCT00920543,Industry,lead,GlaxoSmithKline
+2877144,NCT00919711,Industry,lead,Amgen
+2877434,NCT00917254,Industry,lead,Astellas Pharma Inc
+2877924,NCT00913120,Industry,lead,Astellas Pharma Inc
+2877937,NCT00912964,Industry,lead,Astellas Pharma Inc
+2878055,NCT00911937,Industry,lead,Pfizer
+2878112,NCT00911547,Industry,lead,Merck Sharp & Dohme Corp.
+2878113,NCT00911534,Industry,lead,Eisai Inc.
+2878327,NCT00909779,Industry,lead,Sunovion
+2878342,NCT00909597,Industry,lead,Hoffmann-La Roche
+2878357,NCT00909480,Industry,lead,Novo Nordisk A/S
+2879192,NCT00902538,Industry,lead,"Daiichi Sankyo, Inc."
+2879223,NCT00902304,Industry,lead,Novartis Pharmaceuticals
+2879224,NCT00902304,Other,collaborator,Baker IDI Heart and Diabetes Institute
+2879330,NCT00901368,Industry,lead,Chiesi Farmaceutici S.p.A.
+2879406,NCT00900731,Industry,lead,Novartis Pharmaceuticals
+2879475,NCT00900146,Industry,lead,Novartis
+2880111,NCT00894868,Industry,lead,Novartis Pharmaceuticals
+2880176,NCT00894387,Industry,lead,Novartis Pharmaceuticals
+2882927,NCT00870467,Industry,lead,Abbott
+2880517,NCT00891462,Industry,lead,AstraZeneca
+2880894,NCT00888355,Industry,lead,Merck Sharp & Dohme Corp.
+2880938,NCT00887978,Industry,lead,United Therapeutics
+2881028,NCT00887250,Industry,lead,Merck Sharp & Dohme Corp.
+2881240,NCT00885352,Industry,lead,Merck Sharp & Dohme Corp.
+2881482,NCT00883168,Industry,lead,Meda Pharmaceuticals
+2881553,NCT00882440,Industry,lead,Merck Sharp & Dohme Corp.
+2881742,NCT00880620,Industry,lead,"IMPAX Laboratories, Inc."
+2881814,NCT00879970,Industry,lead,GlaxoSmithKline
+2881815,NCT00879970,Other,collaborator,Academic Research Collaborator: Population Health Research Institute / Hamilton Health
+2882050,NCT00877929,Industry,lead,Boehringer Ingelheim
+2882121,NCT00877383,Industry,lead,Novartis Pharmaceuticals
+2882695,NCT00872586,Industry,lead,"Daiichi Sankyo, Inc."
+2882696,NCT00872586,Other,collaborator,"Shanghai Sankyo Pharmaceuticals Co., Ltd."
+2882764,NCT00872001,Industry,lead,Merck Sharp & Dohme Corp.
+2882765,NCT00872001,Other,collaborator,Duke Clinical Research Institute
+2882928,NCT00870467,Industry,collaborator,"Eisai Co., Ltd."
+2883409,NCT00866658,Industry,lead,Sanofi
+2883591,NCT00865020,Industry,lead,Novartis
+2883623,NCT00864812,Other,lead,The Korean Academy of Tuberculosis and Respiratory Diseases
+2883624,NCT00864812,Industry,collaborator,GlaxoSmithKline
+2883704,NCT00864097,Industry,lead,Pfizer
+2883740,NCT00863707,Industry,lead,Astellas Pharma Inc
+2883785,NCT00863304,Industry,lead,Pfizer
+2883867,NCT00862641,Industry,lead,Astellas Pharma Inc
+2883892,NCT00862420,Industry,lead,Sanofi
+2883894,NCT00862394,Industry,lead,Chiesi Farmaceutici S.p.A.
+2883912,NCT00862251,Industry,lead,Merck Sharp & Dohme Corp.
+2883948,NCT00861926,Industry,lead,Chiesi Farmaceutici S.p.A.
+2883964,NCT00861757,Industry,lead,Eli Lilly and Company
+2884134,NCT00860288,Industry,lead,Novartis Pharmaceuticals
+2884136,NCT00860262,Industry,lead,Boehringer Ingelheim
+2884176,NCT00859898,Industry,lead,AstraZeneca
+2884177,NCT00859898,Industry,collaborator,Bristol-Myers Squibb
+2884279,NCT00859183,Other,lead,Deutsches Herzzentrum Muenchen
+2884459,NCT00857649,Industry,lead,H. Lundbeck A/S
+2884537,NCT00856986,Industry,lead,Novo Nordisk A/S
+2884579,NCT00856544,Industry,lead,Pfizer
+2884606,NCT00856284,Industry,lead,Takeda
+2884613,NCT00856206,Industry,lead,Regeneron Pharmaceuticals
+2884688,NCT00855582,Industry,lead,Eli Lilly and Company
+2884900,NCT00853957,Industry,lead,Novartis
+2884917,NCT00853827,Industry,lead,Novartis Pharmaceuticals
+2884918,NCT00853827,Other,collaborator,The Cleveland Clinic
+2884941,NCT00853658,Industry,lead,Novartis Pharmaceuticals
+2884977,NCT00853385,Industry,lead,Pfizer
+2885496,NCT00849095,Other,lead,Università degli Studi di Ferrara
+2885499,NCT00849056,Industry,lead,GlaxoSmithKline
+2885502,NCT00849017,Industry,lead,GlaxoSmithKline
+2885566,NCT00848354,Industry,lead,Pfizer
+2885567,NCT00848354,Industry,collaborator,Amgen
+2885595,NCT00848081,Industry,lead,Eli Lilly and Company
+2885642,NCT00847626,Industry,lead,Takeda
+2885771,NCT00846586,Industry,lead,Novartis Pharmaceuticals
+2885792,NCT00846365,Industry,lead,Takeda
+2885863,NCT00845728,Industry,lead,Novartis Pharmaceuticals
+2886129,NCT00843492,Industry,lead,GlaxoSmithKline
+2886170,NCT00843154,Industry,lead,Takeda
+2886337,NCT00841672,Industry,lead,Novartis
+2886589,NCT00839800,Industry,lead,AstraZeneca
+2886623,NCT00839527,Industry,lead,GlaxoSmithKline
+2886690,NCT00838916,Industry,lead,GlaxoSmithKline
+2886691,NCT00838903,Industry,lead,GlaxoSmithKline
+2887495,NCT00831441,Industry,lead,Bristol-Myers Squibb
+2887496,NCT00831441,Industry,collaborator,Pfizer
+2887497,NCT00831441,Other,collaborator,Duke Clinical Research Institute
+2887549,NCT00830960,Industry,lead,Eli Lilly and Company
+2887550,NCT00830960,Industry,collaborator,"Daiichi Sankyo Co., Ltd."
+2887661,NCT00830063,Industry,lead,Pfizer
+2887701,NCT00829660,Other,lead,University of Oxford
+2887702,NCT00829660,Industry,collaborator,Bayer
+2887958,NCT00827411,Other,lead,Assistance Publique - Hôpitaux de Paris
+2887959,NCT00827411,Other,collaborator,Allies in Cardiovascular Trials Initiatives and Organized
+2887960,NCT00827411,Other,collaborator,"Institut National de la Santé Et de la Recherche Médicale, France"
+2887961,NCT00827411,Industry,collaborator,Sanofi
+2887962,NCT00827411,Industry,collaborator,Bristol-Myers Squibb
+2887963,NCT00827411,Industry,collaborator,Medtronic
+2887964,NCT00827411,Industry,collaborator,Cordis Corporation
+2887965,NCT00827411,Other,collaborator,Fondation de France
+2887966,NCT00827411,Industry,collaborator,Diagnostica Stago
+2887967,NCT00827411,Industry,collaborator,Boston Scientific Corporation
+2887983,NCT00827242,Industry,lead,Eli Lilly and Company
+2888327,NCT00823992,Industry,lead,Hoffmann-La Roche
+2888519,NCT00822536,Other,lead,Assistance Publique - Hôpitaux de Paris
+2888520,NCT00822536,Other,collaborator,Fédération Française de Cardiologie
+2888570,NCT00822211,Industry,lead,Novartis
+2888596,NCT00821977,Industry,lead,Novartis
+2888613,NCT00821834,Industry,lead,Sanofi
+2888700,NCT00821093,Industry,lead,Novartis Pharmaceuticals
+2888842,NCT00819741,Industry,lead,Novo Nordisk A/S
+2888925,NCT00819104,Industry,lead,AstraZeneca
+2888926,NCT00819104,Other,collaborator,St. John's Research Institute
+2888943,NCT00818883,Industry,lead,Takeda
+2889421,NCT00814801,Industry,lead,Janssen Pharmaceutical K.K.
+2889477,NCT00814307,Industry,lead,Pfizer
+2889480,NCT00814268,Industry,lead,Sanofi
+2889481,NCT00814268,Industry,collaborator,Bristol-Myers Squibb
+2889511,NCT00813995,Industry,lead,Merck Sharp & Dohme Corp.
+2889622,NCT00812955,Industry,lead,AstraZeneca
+2889966,NCT00809965,Industry,collaborator,Bayer
+2889936,NCT00810199,Industry,lead,Hoffmann-La Roche
+2889965,NCT00809965,Industry,lead,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+2889969,NCT00809926,Industry,lead,Novartis
+2890051,NCT00809354,Industry,lead,Pfizer
+2894379,NCT00770653,Industry,lead,Takeda
+2890430,NCT00806026,Industry,lead,Pfizer
+2890843,NCT00802373,Industry,lead,Astellas Pharma Inc
+2890889,NCT00801944,Industry,lead,Astellas Pharma Inc
+2891299,NCT00798434,Industry,lead,Pfizer
+2891326,NCT00798161,Industry,lead,Boehringer Ingelheim
+2891424,NCT00797316,Industry,lead,Novartis
+2891491,NCT00796653,Industry,lead,Boehringer Ingelheim
+2891761,NCT00794157,Industry,lead,Novartis Pharmaceuticals
+2891821,NCT00793624,Industry,lead,Boehringer Ingelheim
+2891907,NCT00792818,Other,lead,Mahidol University
+2891908,NCT00792818,Other,collaborator,National Research Council of Thailand
+2891909,NCT00792805,Industry,lead,Novartis Pharmaceuticals
+2891917,NCT00792727,Industry,lead,"Hisamitsu Pharmaceutical Co., Inc."
+2891928,NCT00792636,Industry,lead,GlaxoSmithKline
+2892010,NCT00791999,Industry,lead,"Otsuka Pharmaceutical Co., Ltd."
+2892011,NCT00791999,Industry,collaborator,UCB Japan Co. Ltd.
+2892131,NCT00790907,Industry,lead,GlaxoSmithKline
+2892220,NCT00790205,Industry,lead,Merck Sharp & Dohme Corp.
+2892221,NCT00790205,Other,collaborator,"Duke Clinical Research Institute, Oxford Diabetes Trials Unit"
+2892237,NCT00790023,Industry,lead,Sunovion
+2892274,NCT00789750,Industry,lead,"Daiichi Sankyo, Inc."
+2892275,NCT00789737,Industry,lead,"Daiichi Sankyo, Inc."
+2892515,NCT00787605,Industry,lead,Novartis
+2892871,NCT00784550,Industry,lead,GlaxoSmithKline
+2892978,NCT00783744,Industry,lead,Sanofi
+2892980,NCT00783718,Industry,lead,"Millennium Pharmaceuticals, Inc."
+2892982,NCT00783692,Industry,lead,"Millennium Pharmaceuticals, Inc."
+2893024,NCT00783263,Industry,lead,Merck Sharp & Dohme Corp.
+2893026,NCT00783237,Industry,lead,Merck Sharp & Dohme Corp.
+2893027,NCT00783224,Industry,lead,Merck Sharp & Dohme Corp.
+2893103,NCT00782509,Industry,lead,Boehringer Ingelheim
+2893140,NCT00782210,Industry,lead,Boehringer Ingelheim
+2893235,NCT00781391,Industry,lead,"Daiichi Sankyo, Inc."
+2893236,NCT00781391,Other,collaborator,The TIMI Study Group
+2893492,NCT00778921,Industry,lead,Novartis
+2893587,NCT00777946,Industry,lead,Novartis
+2893693,NCT00776984,Industry,lead,Boehringer Ingelheim
+2893694,NCT00776984,Industry,collaborator,Pfizer
+2894169,NCT00772603,Industry,lead,"Supernus Pharmaceuticals, Inc."
+2894170,NCT00772603,Industry,collaborator,Parexel
+2894172,NCT00772577,Industry,lead,Novartis
+2894176,NCT00772538,Industry,lead,Boehringer Ingelheim
+2894177,NCT00772538,Industry,collaborator,Pfizer
+2894215,NCT00772174,Industry,lead,Takeda
+2894306,NCT00771394,Industry,lead,Astellas Pharma Inc
+2894618,NCT00768300,Industry,lead,Gilead Sciences
+2894830,NCT00766545,Industry,lead,"Otsuka Pharmaceutical Co., Ltd."
+2894912,NCT00765830,Industry,lead,Novartis
+2894931,NCT00765674,Industry,lead,Novartis
+2895025,NCT00764725,Other,lead,Karolinska Institutet
+2895135,NCT00763815,Industry,lead,Sanofi
+2895182,NCT00763451,Industry,lead,Sanofi
+2895530,NCT00760266,Industry,lead,Novartis
+2895534,NCT00760214,Industry,lead,Takeda
+2895813,NCT00757588,Industry,lead,AstraZeneca
+2896067,NCT00755287,Industry,lead,Hoffmann-La Roche
+2896099,NCT00754988,Industry,lead,Hoffmann-La Roche
+2896168,NCT00754403,Industry,lead,Takeda
+2896474,NCT00751829,Industry,lead,"Daiichi Sankyo Europe, GmbH"
+2896481,NCT00751751,Industry,lead,"Daiichi Sankyo Europe, GmbH"
+2896541,NCT00751114,Industry,lead,Sanofi
+2896632,NCT00750113,Industry,lead,Bayer
+2897228,NCT00744926,Industry,lead,Hoffmann-La Roche
+2897280,NCT00744471,Industry,lead,Pfizer
+2897599,NCT00741715,Industry,lead,Sanofi
+2897699,NCT00740883,Other,lead,"University Hospital, Brest"
+2897707,NCT00740792,Industry,lead,Meda Pharmaceuticals
+2897714,NCT00740714,Other,lead,Weill Medical College of Cornell University
+2897715,NCT00740714,NIH,collaborator,National Institute of Neurological Disorders and Stroke (NINDS)
+2897716,NCT00740714,Other,collaborator,University of Rochester
+2897726,NCT00740623,Industry,lead,SK Life Science
+2897794,NCT00739973,Industry,lead,Novartis Pharmaceuticals
+2897836,NCT00739596,Industry,lead,Novartis Pharmaceuticals
+2898155,NCT00736879,Industry,lead,AstraZeneca
+2898156,NCT00736879,Industry,collaborator,Bristol-Myers Squibb
+2898427,NCT00734630,Industry,lead,Forest Laboratories
+2898444,NCT00734474,Industry,lead,Eli Lilly and Company
+2898445,NCT00734474,Industry,collaborator,United BioSource Corporation
+2898446,NCT00734474,Industry,collaborator,Tessella Inc.
+2898447,NCT00734474,Other,collaborator,Berry Consultants
+2898464,NCT00734318,Industry,lead,Mundipharma Research Limited
+2898512,NCT00733902,Industry,lead,Pfizer
+2898777,NCT00731692,Industry,lead,Novartis Pharmaceuticals
+2899056,NCT00729430,Other,lead,Brigham and Women's Hospital
+2899057,NCT00729430,NIH,collaborator,"National Heart, Lung, and Blood Institute (NHLBI)"
+2899058,NCT00729430,Industry,collaborator,GlaxoSmithKline
+2899176,NCT00728351,Industry,lead,Novartis Pharmaceuticals
+2899234,NCT00727857,Industry,lead,Takeda
+2899546,NCT00725036,Industry,lead,Novo Nordisk A/S
+2899784,NCT00722852,Industry,lead,IDEA AG
+2899831,NCT00722371,Industry,lead,Merck Sharp & Dohme Corp.
+2899901,NCT00721760,Industry,lead,Sanofi
+2900067,NCT00720382,Industry,lead,Meda Pharmaceuticals
+2900316,NCT00718224,Industry,lead,Sanofi
+2900401,NCT00717457,Industry,lead,Hoffmann-La Roche
+2900427,NCT00717236,Industry,lead,UCB Pharma
+2900513,NCT00716547,Industry,lead,IDEA AG
+2900616,NCT00715624,Industry,lead,Sanofi
+2900698,NCT00714961,Industry,lead,Sanofi
+2900699,NCT00714961,Industry,collaborator,Bristol-Myers Squibb
+2900746,NCT00714597,Industry,lead,Sanofi
+2900844,NCT00713830,Industry,lead,Sanofi
+2900967,NCT00712673,Industry,lead,Sanofi
+2901220,NCT00710580,Industry,lead,"AbbVie (prior sponsor, Abbott)"
+2901221,NCT00710580,Industry,collaborator,Paragon Biomedical
+2901526,NCT00707993,Industry,lead,Takeda
+2901638,NCT00707031,Industry,lead,Sanofi
+2901749,NCT00706134,Industry,lead,Novartis
+2901820,NCT00705575,Industry,lead,Novartis
+2902204,NCT00702325,Industry,lead,AstraZeneca
+2902337,NCT00701090,Industry,lead,Merck Sharp & Dohme Corp.
+2902362,NCT00700856,Other,lead,Italian Society of Diabetology
+2902363,NCT00700856,Other,collaborator,Associazione Medici Diabetologi (AMD)
+2902364,NCT00700856,Other,collaborator,Associazione Nazionale Medici Cardiologi Ospedalieri
+2902367,NCT00700817,Industry,lead,Novo Nordisk A/S
+2902431,NCT00700310,Industry,lead,Eisai Inc.
+2902467,NCT00699998,Industry,lead,Eli Lilly and Company
+2902468,NCT00699998,Industry,collaborator,"Daiichi Sankyo Co., Ltd."
+2902469,NCT00699998,Other,collaborator,Duke Clinical Research Institute
+2902471,NCT00699972,Industry,lead,Eisai Inc.
+2902506,NCT00699582,Industry,lead,Eisai Inc.
+2902552,NCT00699192,Industry,lead,Novartis Pharmaceuticals
+2902579,NCT00698932,Industry,lead,AstraZeneca
+2902580,NCT00698932,Industry,collaborator,Bristol-Myers Squibb
+2902611,NCT00698646,Industry,lead,Novartis Pharmaceuticals
+2902766,NCT00697151,Other,lead,Columbia University
+2902767,NCT00697151,NIH,collaborator,National Institute of Neurological Disorders and Stroke (NINDS)
+2902772,NCT00697099,Industry,lead,Sanofi
+2902814,NCT00696631,Industry,lead,Sanofi
+2902843,NCT00696436,Industry,lead,Takeda
+2902848,NCT00696384,Industry,lead,Takeda
+2902862,NCT00696241,Industry,lead,Takeda
+2903076,NCT00694382,Industry,lead,Sanofi
+2903370,NCT00691964,Industry,lead,"AbbVie (prior sponsor, Abbott)"
+2903371,NCT00691964,Industry,collaborator,Paragon Biomedical
+2903696,NCT00689104,Industry,lead,Astellas Pharma Inc
+2903743,NCT00688701,Industry,lead,Sanofi
+2903744,NCT00688688,Industry,lead,Astellas Pharma Inc
+2903820,NCT00687973,Industry,lead,Novartis Pharmaceuticals
+2904062,NCT00685841,Industry,lead,Sunovion
+2904080,NCT00685776,Industry,lead,Merck Sharp & Dohme Corp.
+2904291,NCT00683878,Industry,lead,AstraZeneca
+2904292,NCT00683878,Other,collaborator,"Astra Zeneca, Bristol-Myers Squibb"
+2904323,NCT00683618,Industry,lead,AstraZeneca
+2904379,NCT00683111,Other,lead,Ruttonjee Hospital
+2904613,NCT00680953,Industry,lead,"Daiichi Sankyo Co., Ltd."
+2904631,NCT00680745,Industry,lead,AstraZeneca
+2904632,NCT00680745,Industry,collaborator,Bristol-Myers Squibb
+2904704,NCT00680186,Industry,lead,Boehringer Ingelheim
+2904749,NCT00679731,Industry,lead,"AbbVie (prior sponsor, Abbott)"
+2904758,NCT00679627,Industry,lead,"Janssen Research & Development, LLC"
+2904761,NCT00679588,Industry,lead,Sanofi
+2904769,NCT00679484,Industry,lead,"Daiichi Sankyo Europe, GmbH"
+2904775,NCT00679432,Industry,lead,"Valeant Pharmaceuticals International, Inc."
+2904788,NCT00679380,Industry,lead,"Valeant Pharmaceuticals International, Inc."
+2904789,NCT00679380,Industry,collaborator,Cosmo Technologies Ltd
+2904864,NCT00678704,Industry,lead,Bayer
+2904955,NCT00677807,Industry,lead,Novartis
+2908406,NCT00648141,Industry,lead,Pfizer
+2905150,NCT00676338,Industry,lead,AstraZeneca
+2905151,NCT00676338,Industry,collaborator,Eli Lilly and Company
+2905450,NCT00673920,Industry,lead,"Genentech, Inc."
+2905451,NCT00673920,Industry,collaborator,Roche Pharma AG
+2905467,NCT00673790,Industry,lead,Forest Laboratories
+2905535,NCT00673231,Industry,lead,AstraZeneca
+2905536,NCT00673231,Industry,collaborator,Bristol-Myers Squibb
+2905884,NCT00670501,Industry,lead,Eli Lilly and Company
+2906172,NCT00668109,Industry,lead,Bayer
+2906180,NCT00668005,Industry,lead,Bayer
+2906181,NCT00668005,Industry,collaborator,GlaxoSmithKline
+2906205,NCT00667797,Industry,lead,Sunovion
+2906256,NCT00667407,Industry,lead,Sunovion
+2906343,NCT00666718,Industry,lead,Eli Lilly and Company
+2906372,NCT00666458,Industry,lead,AstraZeneca
+2906373,NCT00666458,Industry,collaborator,Bristol-Myers Squibb
+2906500,NCT00665431,Industry,lead,POZEN
+2906593,NCT00664560,Industry,lead,POZEN
+2906596,NCT00664534,Industry,lead,Eli Lilly and Company
+2906733,NCT00663260,Industry,lead,AstraZeneca
+2906734,NCT00663260,Industry,collaborator,Bristol-Myers Squibb
+2906774,NCT00662909,Industry,lead,Astellas Pharma Inc
+2906960,NCT00661362,Industry,lead,AstraZeneca
+2906961,NCT00661362,Industry,collaborator,Bristol-Myers Squibb
+2907004,NCT00660998,Industry,lead,Bayer
+2907014,NCT00660907,Industry,lead,AstraZeneca
+2907015,NCT00660907,Industry,collaborator,Bristol-Myers Squibb
+2907062,NCT00660517,Industry,lead,Meda Pharmaceuticals
+2907100,NCT00660179,Industry,lead,Actelion
+2907136,NCT00659841,Industry,lead,AstraZeneca
+2907147,NCT00659750,Industry,lead,AstraZeneca
+2907167,NCT00659594,Industry,lead,AstraZeneca
+2907177,NCT00659503,Industry,lead,AstraZeneca
+2907264,NCT00658775,Industry,lead,Eisai Inc.
+2907282,NCT00658632,Industry,lead,Eisai Inc.
+2907291,NCT00658528,Industry,lead,Eisai Inc.
+2907352,NCT00657943,Other,lead,Steno Diabetes Center
+2907353,NCT00657943,Other,collaborator,Hvidovre University Hospital
+2907354,NCT00657943,Other,collaborator,"Hillerod Hospital, Denmark"
+2907355,NCT00657943,Other,collaborator,Frederiksberg University Hospital
+2907356,NCT00657943,Other,collaborator,"University Hospital, Gentofte, Copenhagen"
+2907357,NCT00657943,Other,collaborator,"Rigshospitalet, Denmark"
+2907358,NCT00657943,Other,collaborator,Bispebjerg Hospital
+2907359,NCT00657943,Other,collaborator,Herlev Hospital
+2907360,NCT00657943,Other,collaborator,Zealand University Hospital
+2907361,NCT00657943,Other,collaborator,"Copenhagen Trial Unit, Center for Clinical Intervention Research"
+2907362,NCT00657943,Industry,collaborator,Novo Nordisk A/S
+2907457,NCT00657150,Industry,lead,Boehringer Ingelheim
+2907760,NCT00654537,Industry,lead,AstraZeneca
+2907764,NCT00654498,Industry,lead,Boehringer Ingelheim
+2907772,NCT00654407,Industry,lead,AstraZeneca
+2907774,NCT00654381,Industry,lead,Boehringer Ingelheim
+2907790,NCT00654225,Industry,lead,AstraZeneca
+2907795,NCT00654173,Industry,lead,AstraZeneca
+2907820,NCT00653965,Industry,lead,AstraZeneca
+2907845,NCT00653744,Industry,lead,AstraZeneca
+2907892,NCT00653341,Industry,lead,Sanofi
+2908002,NCT00652392,Industry,lead,AstraZeneca
+2908047,NCT00652002,Industry,lead,AstraZeneca
+2908087,NCT00651651,Industry,lead,AstraZeneca
+2908136,NCT00651118,Industry,lead,Meda Pharmaceuticals
+2908196,NCT00650455,Industry,lead,Pfizer
+2908288,NCT00649389,Industry,lead,"Daiichi Sankyo, Inc."
+2908325,NCT00649025,Industry,lead,SkyePharma AG
+2908326,NCT00649025,Industry,collaborator,Abbott
+2908327,NCT00649025,Industry,collaborator,MDS Pharma Services
+2908464,NCT00647491,Industry,lead,Abbott
+2908465,NCT00647491,Industry,collaborator,Eisai Limited
+2908490,NCT00647270,Industry,lead,Abbott
+2908555,NCT00646594,Industry,lead,AstraZeneca
+2908559,NCT00646542,Industry,lead,Novartis
+2908705,NCT00645268,Industry,lead,Pfizer
+2908751,NCT00644735,Industry,lead,AstraZeneca
+2908851,NCT00643851,Industry,lead,AstraZeneca
+2908852,NCT00643851,Other,collaborator,"Astra Zeneca, Bristol-Myers Squibb"
+2908857,NCT00643799,Industry,lead,Pfizer
+2908921,NCT00643201,Industry,lead,Bristol-Myers Squibb
+2908922,NCT00643201,Industry,collaborator,Pfizer
+2909038,NCT00642187,Industry,lead,AstraZeneca
+2909048,NCT00642096,Industry,lead,AstraZeneca
+2909068,NCT00641914,Industry,lead,AstraZeneca
+2909090,NCT00641680,Industry,lead,AstraZeneca
+2909099,NCT00641602,Industry,lead,AstraZeneca
+2909108,NCT00641537,Industry,lead,EMD Serono
+2909165,NCT00641056,Industry,lead,AstraZeneca
+2909166,NCT00641056,Industry,collaborator,Eli Lilly and Company
+2909167,NCT00641043,Industry,lead,Boehringer Ingelheim
+2909215,NCT00640627,Industry,lead,Pfizer
+2909378,NCT00639158,Industry,lead,Abbott
+2909433,NCT00638807,Industry,lead,Pfizer
+2909528,NCT00637949,Industry,lead,Novartis
+2909617,NCT00637273,Industry,lead,AstraZeneca
+2909618,NCT00637273,Industry,collaborator,Eli Lilly and Company
+2909819,NCT00635505,Industry,lead,"Amphastar Pharmaceuticals, Inc."
+2909918,NCT00634712,Industry,lead,AstraZeneca
+2909954,NCT00634400,Industry,lead,AstraZeneca
+2909963,NCT00634309,Industry,lead,AstraZeneca
+2909989,NCT00634114,Industry,lead,AstraZeneca
+2910016,NCT00633932,Industry,lead,AstraZeneca
+2910020,NCT00633893,Industry,lead,Bristol-Myers Squibb
+2910021,NCT00633893,Industry,collaborator,Pfizer
+2910253,NCT00631917,Industry,lead,Novartis
+2910330,NCT00631189,Industry,lead,AstraZeneca
+2910358,NCT00630929,Industry,lead,Pfizer
+2910601,NCT00628862,Industry,lead,AstraZeneca
+2910614,NCT00628758,Industry,lead,AstraZeneca
+2910664,NCT00628342,Industry,lead,AstraZeneca
+2910744,NCT00627640,Industry,lead,Newron
+2910808,NCT00627016,Industry,lead,Takeda
+2910871,NCT00626535,Industry,lead,AstraZeneca
+2910906,NCT00626197,Industry,lead,"Genentech, Inc."
+2910907,NCT00626197,Industry,collaborator,Roche Pharma AG
+2910978,NCT00625547,Industry,lead,Pfizer
+2911120,NCT00624338,Industry,lead,EMD Serono
+2911121,NCT00624338,Industry,collaborator,Merck KGaA
+2911126,NCT00624286,Industry,lead,Novartis
+2911160,NCT00624065,Industry,lead,GlaxoSmithKline
+2911161,NCT00624052,Industry,lead,Boehringer Ingelheim
+2911208,NCT00623623,Industry,lead,Boehringer Ingelheim
+2911363,NCT00622284,Industry,lead,Boehringer Ingelheim
+2911492,NCT00621140,Industry,lead,Boehringer Ingelheim
+2911521,NCT00620867,Industry,lead,Pfizer
+2911554,NCT00620542,Industry,lead,AstraZeneca
+2911555,NCT00620542,Other,collaborator,The Cleveland Clinic
+2911979,NCT00616772,Industry,lead,"AbbVie (prior sponsor, Abbott)"
+2912190,NCT00614939,Industry,lead,AstraZeneca
+2912191,NCT00614939,Industry,collaborator,Bristol-Myers Squibb
+2912248,NCT00614380,Industry,lead,Boehringer Ingelheim
+2912284,NCT00614120,Industry,lead,Novo Nordisk A/S
+2912651,NCT00611026,Industry,lead,Pfizer
+2912907,NCT00608881,Other,lead,Massachusetts General Hospital
+2912908,NCT00608881,NIH,collaborator,National Institute of Neurological Disorders and Stroke (NINDS)
+2912909,NCT00608881,Other,collaborator,University of Rochester
+2913342,NCT00605020,Industry,lead,Novo Nordisk A/S
+2913426,NCT00604396,Industry,lead,Novo Nordisk A/S
+2913431,NCT00604344,Industry,lead,Novo Nordisk A/S
+2913440,NCT00604253,Industry,lead,Novo Nordisk A/S
+2913659,NCT00602472,Industry,lead,Boehringer Ingelheim
+2913868,NCT00600626,Industry,lead,Novo Nordisk A/S
+2914313,NCT00596752,Industry,lead,UCB BIOSCIENCES GmbH
+2914314,NCT00596752,Industry,collaborator,Aptiv Solutions
+2914968,NCT00591773,Industry,lead,Takeda
+2914991,NCT00591578,Industry,lead,Takeda
+2915042,NCT00591266,Industry,lead,Takeda
+2915043,NCT00591253,Industry,lead,Takeda
+2915187,NCT00590174,Other,lead,Seung-Jung Park
+2915188,NCT00590174,Other,collaborator,"CardioVascular Research Foundation, Korea"
+2915218,NCT00589927,Other,lead,"CardioVascular Research Foundation, Korea"
+2915219,NCT00589927,Other,collaborator,Otsuka Korea
+2916329,NCT00580840,Industry,lead,UCB Pharma
+2917059,NCT00575588,Industry,lead,AstraZeneca
+2917060,NCT00575588,Industry,collaborator,Bristol-Myers Squibb
+2917338,NCT00573508,Industry,lead,Astellas Pharma Inc
+2917550,NCT00571649,Industry,lead,Bayer
+2917551,NCT00571649,Industry,collaborator,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+2917635,NCT00570986,Industry,lead,"AbbVie (prior sponsor, Abbott)"
+2917659,NCT00570739,Industry,lead,"Daiichi Sankyo, Inc."
+2917861,NCT00568984,Industry,lead,Novo Nordisk A/S
+2917937,NCT00568295,Industry,lead,Johnson & Johnson Consumer and Personal Products Worldwide
+2917965,NCT00567996,Industry,lead,Novartis
+2918270,NCT00565409,Industry,lead,Pfizer
+2918516,NCT00563381,Industry,lead,Boehringer Ingelheim
+2918517,NCT00563381,Industry,collaborator,Pfizer
+2918577,NCT00562952,Other,lead,Medical University of Vienna
+2918578,NCT00562952,Industry,collaborator,Roche Pharma AG
+2918659,NCT00562289,Other,lead,Assistance Publique - Hôpitaux de Paris
+2918894,NCT00560417,Industry,lead,Eli Lilly and Company
+2919116,NCT00558428,Industry,lead,Boehringer Ingelheim
+2919128,NCT00558259,Industry,lead,Boehringer Ingelheim
+2919150,NCT00558064,Industry,lead,Boehringer Ingelheim
+2919168,NCT00557921,Industry,lead,Cogentus Pharmaceuticals
+2919491,NCT00555217,U.S. Fed,lead,VA Office of Research and Development
+2919725,NCT00553267,Industry,lead,Boehringer Ingelheim
+2919838,NCT00552370,Industry,lead,Sanofi
+2919884,NCT00552097,Industry,lead,Merck Sharp & Dohme Corp.
+2919891,NCT00552058,Industry,lead,UCB Pharma
+2919964,NCT00551447,Industry,lead,Merck Sharp & Dohme Corp.
+2920034,NCT00550953,Industry,lead,Boehringer Ingelheim
+2920168,NCT00549757,Industry,lead,Novartis Pharmaceuticals
+2920187,NCT00549549,Industry,lead,Pfizer
+2920261,NCT00548808,Industry,lead,Eli Lilly and Company
+2920508,NCT00547300,Industry,lead,Forest Laboratories
+2920509,NCT00547300,Industry,collaborator,Mylan Laboratories
+2920556,NCT00546832,Industry,lead,Mika Pharma GmbH
+2920565,NCT00546754,Industry,lead,Merck Sharp & Dohme Corp.
+2920579,NCT00546637,Industry,lead,Pfizer
+2920590,NCT00546507,Industry,lead,Mika Pharma GmbH
+2920727,NCT00545324,Industry,lead,Merck Sharp & Dohme Corp.
+2920997,NCT00542789,Industry,lead,AstraZeneca
+2921021,NCT00542555,Industry,lead,NicOx
+2921078,NCT00542087,Industry,lead,Merck Sharp & Dohme Corp.
+2921126,NCT00541697,Industry,lead,Merck Sharp & Dohme Corp.
+2921145,NCT00541489,Industry,lead,NicOx
+2921148,NCT00541450,Industry,lead,Merck Sharp & Dohme Corp.
+2921209,NCT00540891,Industry,lead,Sanofi
+2921439,NCT00538902,Industry,lead,Abbott
+2921480,NCT00538486,Other,lead,Third Military Medical University
+2921547,NCT00537940,Industry,lead,Pfizer
+2921610,NCT00537238,Industry,lead,Pfizer
+2921678,NCT00536731,Industry,lead,AstraZeneca
+2921704,NCT00536484,Industry,lead,Pfizer
+2921861,NCT00535405,Industry,lead,Merck Sharp & Dohme Corp.
+2921862,NCT00535405,Other,collaborator,Merck Shering-Plough JV Study
+2922118,NCT00532935,Industry,lead,Merck Sharp & Dohme Corp.
+2922240,NCT00531817,Industry,lead,Hoffmann-La Roche
+2922495,NCT00529529,Industry,lead,Novartis Pharmaceuticals
+2922503,NCT00529451,Industry,lead,Novartis
+2922572,NCT00528879,Industry,lead,AstraZeneca
+2922573,NCT00528879,Industry,collaborator,Bristol-Myers Squibb
+2922635,NCT00528372,Industry,lead,AstraZeneca
+2922636,NCT00528372,Industry,collaborator,Bristol-Myers Squibb
+2922681,NCT00527943,Industry,lead,Merck Sharp & Dohme Corp.
+2922682,NCT00527943,Other,collaborator,Duke Clinical Research Institute
+2922852,NCT00526474,Industry,lead,Merck Sharp & Dohme Corp.
+2922853,NCT00526474,Other,collaborator,The Thrombolysis in Myocardial Infarction Study (TIMI) Group
+2922926,NCT00525824,Industry,lead,AstraZeneca
+2922964,NCT00525512,Industry,lead,Boehringer Ingelheim
+2922965,NCT00525512,Industry,collaborator,Pfizer
+2923134,NCT00523991,Industry,lead,Boehringer Ingelheim
+2923135,NCT00523991,Industry,collaborator,Pfizer
+2923320,NCT00522379,Industry,lead,UCB Pharma
+2923400,NCT00521820,Industry,lead,Takeda
+2923410,NCT00521742,Industry,lead,Takeda
+2923411,NCT00521742,Industry,collaborator,"Takeda Pharmaceuticals North America, Inc."
+2923424,NCT00521599,Industry,lead,Merck Sharp & Dohme Corp.
+2923733,NCT00519142,Industry,lead,Elixir Pharmaceuticals
+2923758,NCT00518882,Industry,lead,Novo Nordisk A/S
+2924399,NCT00513630,Other,lead,Shanghai Jiao Tong University School of Medicine
+2924697,NCT00510952,Industry,lead,Eli Lilly and Company
+2924902,NCT00509262,Industry,lead,Merck Sharp & Dohme Corp.
+2925398,NCT00504881,Industry,lead,UCB Pharma SA
+2925484,NCT00504127,Industry,lead,NicOx
+2925582,NCT00503152,Other,lead,Mario Negri Institute for Pharmacological Research
+2925583,NCT00503152,Other,collaborator,Agenzia Italiana del Farmaco
+2925586,NCT00503113,Industry,lead,Hoffmann-La Roche
+2925621,NCT00502775,Industry,lead,GlaxoSmithKline
+2925819,NCT00501020,Industry,lead,GlaxoSmithKline
+2925826,NCT00500955,Industry,lead,GlaxoSmithKline
+2925857,NCT00500604,Industry,lead,Sanofi
+2925955,NCT00499707,Industry,lead,GlaxoSmithKline
+2926249,NCT00497237,Industry,lead,Chiesi Farmaceutici S.p.A.
+2926306,NCT00496769,Industry,lead,Bristol-Myers Squibb
+2926307,NCT00496769,Industry,collaborator,Pfizer
+2926340,NCT00496470,Industry,lead,AstraZeneca
+2926516,NCT00494871,Industry,lead,Bayer
+2926517,NCT00494871,Other,collaborator,"Janssen R&D, L.L.C."
+2926592,NCT00494312,Industry,lead,Takeda
+2926624,NCT00494013,Industry,lead,Eli Lilly and Company
+2926957,NCT00490958,Other,lead,"University of Campania ""Luigi Vanvitelli"""
+2927067,NCT00490035,Industry,lead,UCB Pharma SA
+2927106,NCT00489736,Industry,lead,Sanofi
+2927148,NCT00489424,Industry,lead,Novartis Pharmaceuticals
+2927279,NCT00488267,Industry,lead,ZARS Pharma Inc.
+2927354,NCT00487539,Industry,lead,"Janssen Research & Development, LLC"
+2927355,NCT00487539,Industry,collaborator,Merck Sharp & Dohme Corp.
+2927387,NCT00487240,Industry,lead,Eli Lilly and Company
+2927487,NCT00486343,Industry,lead,Critical Therapeutics
+2927567,NCT00485589,Industry,lead,"Genentech, Inc."
+2927568,NCT00485589,Industry,collaborator,Roche Pharma AG
+2927638,NCT00484926,Other,lead,Seung-Jung Park
+2927639,NCT00484926,Other,collaborator,"CardioVascular Research Foundation, Korea"
+2927723,NCT00484198,Industry,lead,"Daiichi Sankyo, Inc."
+2927895,NCT00482729,Industry,lead,Merck Sharp & Dohme Corp.
+2928039,NCT00481364,Other,lead,Ercan OK
+2928040,NCT00481364,Industry,collaborator,Pfizer
+2928094,NCT00480805,Industry,lead,Merck Sharp & Dohme Corp.
+2928204,NCT00479739,Industry,lead,GlaxoSmithKline
+2928206,NCT00479713,Industry,lead,Merck Sharp & Dohme Corp.
+2928245,NCT00479401,Industry,lead,Boehringer Ingelheim
+2928250,NCT00479362,Other,lead,University of Turku
+2928251,NCT00479362,Other,collaborator,Satakunta Central Hospital
+2928252,NCT00479362,Other,collaborator,Oulu University Hospital
+2928253,NCT00479362,Other,collaborator,Tampere University Hospital
+2928482,NCT00477295,Industry,lead,Eisai Inc.
+2928518,NCT00476996,Industry,lead,"Genentech, Inc."
+2928519,NCT00476996,Industry,collaborator,Roche Pharma AG
+2928624,NCT00476268,Industry,lead,Chiesi Farmaceutici S.p.A.
+2928658,NCT00476034,Industry,lead,Novartis
+2928673,NCT00475852,Industry,lead,"Scios, Inc."
+2928900,NCT00474045,Industry,lead,Novo Nordisk A/S
+2928942,NCT00473655,Industry,lead,AstraZeneca
+2929109,NCT00472199,Industry,lead,Boehringer Ingelheim
+2929463,NCT00469092,Industry,lead,Novo Nordisk A/S
+2929525,NCT00468546,Industry,lead,Hoffmann-La Roche
+2929526,NCT00468546,Industry,collaborator,Biogen
+2929648,NCT00467376,Industry,lead,Sanofi
+2929777,NCT00466167,Industry,lead,Boehringer Ingelheim
+2929985,NCT00464308,Industry,lead,Janssen-Cilag Pty Ltd
+2929988,NCT00464269,Industry,lead,UCB Pharma
+2930034,NCT00463866,Industry,lead,AstraZeneca
+2930067,NCT00463606,Industry,lead,AstraZeneca
+2930071,NCT00463567,Industry,lead,Novartis
+2930192,NCT00462748,Industry,lead,Merck Sharp & Dohme Corp.
+2930874,NCT00457002,Industry,lead,Bristol-Myers Squibb
+2931143,NCT00454896,Industry,lead,Astellas Pharma Inc
+2931163,NCT00454662,Other,lead,COLM Study Research Organization
+2931164,NCT00454662,Other,collaborator,Japan Heart Foundation
+2931170,NCT00454584,Industry,lead,"Centocor, Inc."
+2931325,NCT00453063,Industry,lead,Merck Sharp & Dohme Corp.
+2931354,NCT00452699,Industry,lead,GlaxoSmithKline
+2931373,NCT00452530,Industry,lead,Bristol-Myers Squibb
+2931390,NCT00452348,Industry,lead,GlaxoSmithKline
+2931486,NCT00451412,Industry,lead,Novartis
+2931490,NCT00451360,Industry,lead,Laboratoires NEGMA
+2931658,NCT00449930,Industry,lead,Merck Sharp & Dohme Corp.
+2931691,NCT00449605,Industry,lead,Sanofi
+2931812,NCT00448461,Other,lead,Careggi Hospital
+2931875,NCT00447915,Industry,lead,Chugai Pharmaceutical
+2931889,NCT00447759,Other,lead,University of Dundee
+2931890,NCT00447759,Other,collaborator,University of Glasgow
+2931891,NCT00447759,Other,collaborator,University of Nottingham
+2932110,NCT00445770,Industry,lead,Pfizer
+2932160,NCT00445276,Industry,lead,Laboratoires NEGMA
+2932199,NCT00444925,Industry,lead,Pfizer
+2932337,NCT00443690,Industry,lead,"NovaCardia, Inc."
+2932338,NCT00443690,Industry,collaborator,Merck Sharp & Dohme Corp.
+2932479,NCT00442546,Industry,lead,Pfizer
+2932604,NCT00441350,Industry,lead,Menarini Group
+2932605,NCT00441350,Industry,collaborator,"Daiichi Sankyo Europe, GmbH"
+2932741,NCT00440193,Industry,lead,Bayer
+2932742,NCT00440193,Industry,collaborator,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+2932757,NCT00440050,Other,lead,Alzheimer's Disease Cooperative Study (ADCS)
+2932758,NCT00440050,NIH,collaborator,National Institute on Aging (NIA)
+2932759,NCT00440050,Industry,collaborator,"DSM Nutritional Products, Inc."
+2932777,NCT00439855,Other,lead,Triemli Hospital
+2932785,NCT00439777,Industry,lead,Bayer
+2932786,NCT00439777,Industry,collaborator,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+2932791,NCT00439738,Industry,lead,Novartis Pharmaceuticals
+2932792,NCT00439725,Industry,lead,Bayer
+2932793,NCT00439725,Industry,collaborator,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+2932808,NCT00439647,Industry,lead,Novartis Pharmaceuticals
+2932848,NCT00439244,Industry,lead,Novartis
+2932948,NCT00438451,Other,lead,Johannes Gutenberg University Mainz
+2932949,NCT00438451,Industry,collaborator,UCB Pharma GmbH
+2933269,NCT00435448,Industry,lead,Threshold Pharmaceuticals
+2933270,NCT00435448,Industry,collaborator,PRA Health Sciences
+2933322,NCT00434967,Industry,lead,AstraZeneca
+2933323,NCT00434954,Industry,lead,AstraZeneca
+2933324,NCT00434954,Industry,collaborator,Eli Lilly and Company
+2933442,NCT00433966,Other,lead,"Cardiovascular Research Foundation, New York"
+2933443,NCT00433966,Industry,collaborator,Boston Scientific Corporation
+2933444,NCT00433966,Industry,collaborator,The Medicines Company
+2933586,NCT00432796,Other,lead,Lawson Health Research Institute
+2933587,NCT00432796,Other,collaborator,Canadian Institutes of Health Research (CIHR)
+2933588,NCT00432796,Industry,collaborator,Pfizer
+2933650,NCT00432276,Industry,lead,Takeda
+2933814,NCT00430729,Industry,lead,AstraZeneca
+2933820,NCT00430677,Industry,lead,Bristol-Myers Squibb
+2933874,NCT00430248,Industry,lead,Takeda
+2934165,NCT00428090,Industry,lead,GlaxoSmithKline
+2966091,NCT00154271,Industry,lead,Novartis
+2934295,NCT00426751,Industry,lead,GlaxoSmithKline
+2934380,NCT00425997,Industry,lead,Novartis
+2934453,NCT00425373,Industry,lead,Novartis Pharmaceuticals
+2934551,NCT00424476,Industry,lead,Human Genome Sciences Inc.
+2934552,NCT00424476,Industry,collaborator,GlaxoSmithKline
+2934569,NCT00424268,Industry,lead,AstraZeneca
+2934596,NCT00423995,Industry,lead,Merck Sharp & Dohme Corp.
+2934665,NCT00423319,Industry,lead,Bristol-Myers Squibb
+2934687,NCT00423085,Industry,lead,Novartis Pharmaceuticals
+2934688,NCT00423085,Industry,collaborator,Ono Pharmaceutical Co. Ltd
+2934769,NCT00422227,Industry,lead,Wyeth is now a wholly owned subsidiary of Pfizer
+2934888,NCT00421122,Industry,lead,AstraZeneca
+2934914,NCT00420927,Industry,lead,Abbott
+2935015,NCT00419952,Industry,lead,AstraZeneca
+2935036,NCT00419757,Industry,lead,AstraZeneca
+2935037,NCT00419744,Industry,lead,AstraZeneca
+2935146,NCT00418834,Industry,lead,Merck Sharp & Dohme Corp.
+2935176,NCT00418548,Industry,lead,Wyeth is now a wholly owned subsidiary of Pfizer
+2935335,NCT00417222,Other,lead,Tohoku University
+2935607,NCT00414609,Industry,lead,Novartis
+2935701,NCT00413972,Industry,lead,Merck Sharp & Dohme Corp.
+2935702,NCT00413972,Industry,collaborator,Schering-Plough
+2935755,NCT00413413,Industry,lead,Novartis Pharmaceuticals
+2935796,NCT00413049,Industry,lead,Novartis
+2935801,NCT00412984,Industry,lead,Bristol-Myers Squibb
+2935949,NCT00411554,Industry,lead,Merck Sharp & Dohme Corp.
+2936082,NCT00410410,Industry,lead,Bristol-Myers Squibb
+2936084,NCT00410384,Industry,lead,Human Genome Sciences Inc.
+2936085,NCT00410384,Industry,collaborator,GlaxoSmithKline
+2936133,NCT00409851,Industry,lead,Novartis
+2936143,NCT00409760,Industry,lead,Novartis
+2936154,NCT00409643,Industry,lead,Novartis
+2936265,NCT00408629,Industry,lead,Abbott
+2936277,NCT00408512,Other,lead,Federico II University
+2936278,NCT00408512,Other,collaborator,Agenzia Italiana del Farmaco
+2936308,NCT00408187,Industry,lead,Aurinia Pharmaceuticals Inc.
+2936377,NCT00407537,Industry,lead,Pfizer
+2936483,NCT00406419,Industry,lead,"Genentech, Inc."
+2936484,NCT00406419,Industry,collaborator,Roche Pharma AG
+2936560,NCT00405717,Other,lead,Shenyang Northern Hospital
+2936599,NCT00405418,Industry,lead,Sanofi
+2936700,NCT00404820,Industry,lead,Novartis
+2936726,NCT00404547,Industry,lead,AstraZeneca
+2936794,NCT00403910,Other,lead,Heart Care Foundation
+2936808,NCT00403767,Industry,lead,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+2936809,NCT00403767,Industry,collaborator,Bayer
+2936976,NCT00402363,Industry,lead,GlaxoSmithKline
+2936989,NCT00402233,Industry,lead,Boehringer Ingelheim
+2937051,NCT00401596,Industry,lead,"Genentech, Inc."
+2937148,NCT00400777,Industry,lead,Novartis
+2937227,NCT00400153,Industry,lead,Boehringer Ingelheim
+2937280,NCT00399724,Industry,lead,Sanofi
+2937281,NCT00399711,Industry,lead,Novo Nordisk A/S
+2937322,NCT00399464,Industry,lead,Sanofi
+2937371,NCT00398931,Industry,lead,Merck Sharp & Dohme Corp.
+2937403,NCT00398606,Industry,lead,Merck Sharp & Dohme Corp.
+2937506,NCT00397657,U.S. Fed,lead,Walter Reed Army Medical Center
+2937507,NCT00397657,Industry,collaborator,Abbott
+2937510,NCT00397631,Industry,lead,Merck Sharp & Dohme Corp.
+2937653,NCT00396357,Industry,lead,Novartis Pharmaceuticals
+2937664,NCT00396227,Industry,lead,Novartis Pharmaceuticals
+2937728,NCT00395603,Industry,lead,Merck Sharp & Dohme Corp.
+2937735,NCT00395512,Industry,lead,Takeda
+2937751,NCT00395343,Industry,lead,Merck Sharp & Dohme Corp.
+2937917,NCT00394199,Industry,lead,SkyePharma AG
+2937939,NCT00393991,Industry,lead,SkyePharma AG
+2937943,NCT00393952,Industry,lead,SkyePharma AG
+2937971,NCT00393718,Industry,lead,Novo Nordisk A/S
+2938008,NCT00393471,Industry,lead,Wyeth is now a wholly owned subsidiary of Pfizer
+2938009,NCT00393458,Industry,lead,Novartis
+2938179,NCT00392002,Industry,lead,AstraZeneca
+2938194,NCT00391872,Industry,lead,AstraZeneca
+2938248,NCT00391443,Industry,lead,Actelion
+2938326,NCT00390728,Industry,lead,Sanofi
+2938438,NCT00389779,Industry,lead,Gilead Sciences
+2938532,NCT00388882,Industry,lead,Boehringer Ingelheim
+2938690,NCT00387517,Industry,lead,Novartis
+2938730,NCT00387088,Industry,lead,Boehringer Ingelheim
+2938844,NCT00386139,Industry,lead,Novartis
+2938847,NCT00386100,Industry,lead,GlaxoSmithKline
+2938870,NCT00385931,Industry,lead,Novartis
+2938891,NCT00385736,Industry,lead,Abbott
+2938905,NCT00385593,Industry,lead,AstraZeneca
+2938950,NCT00385138,Industry,lead,The Medicines Company
+2938974,NCT00384930,Industry,lead,Eli Lilly and Company
+2938975,NCT00384930,Industry,collaborator,ICOS Corporation
+2939052,NCT00384215,Industry,lead,Sanofi
+2939064,NCT00384085,Industry,lead,Sanofi
+2939084,NCT00383929,Industry,lead,AstraZeneca
+2939107,NCT00383721,Industry,lead,Merck Sharp & Dohme Corp.
+2939108,NCT00383721,Industry,collaborator,Novartis
+2939123,NCT00383578,Industry,lead,Novartis Pharmaceuticals
+2939125,NCT00383552,Industry,lead,Merck Sharp & Dohme Corp.
+2939126,NCT00383552,Industry,collaborator,Novartis
+2939137,NCT00383435,Industry,lead,Merck Sharp & Dohme Corp.
+2939138,NCT00383435,Industry,collaborator,Novartis
+2939158,NCT00383240,Industry,lead,Merck Sharp & Dohme Corp.
+2939159,NCT00383240,Industry,collaborator,Novartis
+2939168,NCT00383136,Other,lead,University of Bologna
+2939197,NCT00382889,Industry,lead,Chiesi Farmaceutici S.p.A.
+2939273,NCT00382096,Industry,lead,Novartis Pharmaceuticals
+2939347,NCT00381485,Industry,lead,Merck Sharp & Dohme Corp.
+2939348,NCT00381485,Industry,collaborator,Novartis
+2939349,NCT00381472,Industry,lead,GlaxoSmithKline
+2939415,NCT00380939,Industry,lead,Pfizer
+2939531,NCT00379899,Industry,lead,Amgen
+2939542,NCT00379769,Industry,lead,GlaxoSmithKline
+2939597,NCT00379288,Industry,lead,Merck Sharp & Dohme Corp.
+2939602,NCT00379249,Industry,lead,AstraZeneca
+2939623,NCT00379067,Industry,lead,Astellas Pharma Inc
+2939624,NCT00379067,Industry,collaborator,Astellas Pharma Europe Ltd.
+2939625,NCT00379067,Industry,collaborator,Boehringer Ingelheim
+2939785,NCT00377858,Industry,lead,Eli Lilly and Company
+2939788,NCT00377819,Industry,lead,Amgen
+2939806,NCT00377676,Industry,lead,VeroScience
+2939810,NCT00377637,Industry,lead,Hoffmann-La Roche
+2939811,NCT00377637,Industry,collaborator,Aspreva Pharmaceuticals
+2939978,NCT00376272,Other,lead,Gruppo di Ricerca GISSI
+2940068,NCT00375388,Other,lead,"Bethesda General Hospital, Hoogeveen"
+2940069,NCT00375388,Industry,collaborator,Takeda
+2940070,NCT00375388,Industry,collaborator,LifeScan
+2940071,NCT00375388,Industry,collaborator,Merck KGaA
+2940072,NCT00375388,Industry,collaborator,Dupont Merck
+2940073,NCT00375388,Industry,collaborator,Merck Sharp & Dohme Corp.
+2940074,NCT00375388,Industry,collaborator,Novo Nordisk A/S
+2940084,NCT00375284,Industry,lead,Boehringer Ingelheim
+2940300,NCT00373685,Industry,lead,Pfizer
+2940326,NCT00373451,Other,lead,Deutsches Herzzentrum Muenchen
+2940452,NCT00372216,Other,lead,Stiftung Institut fuer Herzinfarktforschung
+2940453,NCT00372216,Industry,collaborator,Bristol-Myers Squibb
+2940454,NCT00372216,Industry,collaborator,Sanofi
+2940519,NCT00371683,Industry,lead,Bristol-Myers Squibb
+2940800,NCT00368979,Industry,lead,GlaxoSmithKline
+2940875,NCT00368277,Industry,lead,Novartis Pharmaceuticals
+2940897,NCT00368134,Industry,lead,Novartis
+2940900,NCT00368108,Industry,lead,Eisai Inc.
+2940981,NCT00367315,Industry,lead,Novartis
+2940994,NCT00367211,Industry,lead,POZEN
+2941024,NCT00366938,Industry,lead,Novartis
+2941081,NCT00366301,Other,lead,Brigham and Women's Hospital
+2941082,NCT00366301,Industry,collaborator,Sanofi
+2941119,NCT00365950,Other,lead,British Thoracic Society
+2941184,NCT00365352,Industry,lead,"XenoPort, Inc."
+2941203,NCT00365170,Industry,lead,Novo Nordisk A/S
+2941351,NCT00363896,Industry,lead,AstraZeneca
+2941354,NCT00363857,Industry,lead,GlaxoSmithKline
+2941442,NCT00362960,Industry,lead,Sankyo Pharma Gmbh
+2941511,NCT00362323,Industry,lead,Solvay Pharmaceuticals
+2941520,NCT00362232,Industry,lead,Bayer
+2941552,NCT00361959,Industry,lead,GlaxoSmithKline
+2941560,NCT00361894,Industry,lead,Bayer
+2941576,NCT00361699,Other,lead,"Translational Research Informatics Center, Kobe, Hyogo, Japan"
+2941577,NCT00361699,Other,collaborator,"Ministry of Health, Labour and Welfare, Japan"
+2941578,NCT00361699,Other,collaborator,Hiroshima University
+2941579,NCT00361699,Other,collaborator,Osaka University
+2941601,NCT00361530,Other,lead,"Translational Research Informatics Center, Kobe, Hyogo, Japan"
+2941602,NCT00361530,Other,collaborator,"Ministry of Health, Labour and Welfare, Japan"
+2941603,NCT00361530,Other,collaborator,Hiroshima University
+2941604,NCT00361530,Other,collaborator,National Cerebral and Cardiovascular Center
+2941627,NCT00361335,Industry,lead,"Centocor, Inc."
+2941628,NCT00361335,Industry,collaborator,Schering-Plough
+2941755,NCT00360308,Industry,lead,Eisai Limited
+2941800,NCT00359905,Industry,lead,Recordati Industria Chimica e Farmaceutica S.p.A.
+2941810,NCT00359788,Industry,lead,Boehringer Ingelheim
+2941813,NCT00359762,Industry,lead,AstraZeneca
+2941814,NCT00359762,Industry,collaborator,Eli Lilly and Company
+2941880,NCT00359112,Industry,lead,GlaxoSmithKline
+2941961,NCT00358436,Industry,lead,AstraZeneca
+2941989,NCT00358176,Industry,lead,Sanofi
+2941990,NCT00358176,Industry,collaborator,Procter and Gamble
+2942228,NCT00356096,Industry,lead,Boehringer Ingelheim
+2942256,NCT00355849,Industry,lead,Eli Lilly and Company
+2942257,NCT00355849,Industry,collaborator,"Alkermes, Inc."
+2942283,NCT00355667,Other,lead,Hyogo College of Medicine
+2942284,NCT00355667,Other,collaborator,"Ministry of Health, Labour and Welfare, Japan"
+2942356,NCT00354939,Industry,lead,Sanofi
+2942404,NCT00354458,Industry,lead,"NovaCardia, Inc."
+2942405,NCT00354458,Industry,collaborator,Merck Sharp & Dohme Corp.
+2942476,NCT00353912,Industry,lead,Novartis
+2942509,NCT00353587,Industry,lead,"CymaBay Therapeutics, Inc."
+2942689,NCT00351884,Industry,lead,Novartis Pharmaceuticals
+2942916,NCT00350168,Industry,lead,Novartis
+2942990,NCT00349531,Industry,lead,Boehringer Ingelheim
+2943088,NCT00348712,Industry,lead,Novo Nordisk A/S
+2943110,NCT00348504,Industry,lead,Abbott
+2943111,NCT00348504,Industry,collaborator,"Orion Corporation, Orion Pharma"
+2943131,NCT00348309,Industry,lead,GlaxoSmithKline
+2943148,NCT00348140,Industry,lead,GlaxoSmithKline
+2943242,NCT00347360,Industry,lead,GlaxoSmithKline
+2943269,NCT00347100,Industry,lead,Sanofi
+2943362,NCT00346216,Industry,lead,Pfizer
+2943363,NCT00346216,Other,collaborator,The Cleveland Clinic
+2943583,NCT00344110,Industry,lead,Novartis
+2943594,NCT00343980,Industry,lead,Novo Nordisk A/S
+2943638,NCT00343551,Industry,lead,Novartis
+2943670,NCT00343252,Industry,lead,Eli Lilly and Company
+2944117,NCT00338260,Industry,lead,Merck Sharp & Dohme Corp.
+2944131,NCT00338143,Industry,lead,"Genentech, Inc."
+2944133,NCT00338117,Industry,lead,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+2944134,NCT00338117,Industry,collaborator,Shire
+2944189,NCT00337558,Industry,lead,Astellas Pharma Inc
+2944190,NCT00337558,Industry,collaborator,Astellas Pharma Europe B.V.
+2944354,NCT00336336,Other,lead,Gruppo di Ricerca GISSI
+2944427,NCT00335699,Industry,lead,AstraZeneca
+2944483,NCT00335166,Industry,lead,Solvay Pharmaceuticals
+2944505,NCT00334958,Industry,lead,Eisai Inc.
+2944578,NCT00334386,Industry,lead,Ferrer Internacional S.A.
+2944670,NCT00333489,Industry,lead,Novartis
+2944716,NCT00333151,Industry,lead,Novo Nordisk A/S
+2944719,NCT00333112,Industry,lead,Astellas Pharma Inc
+2944849,NCT00332020,Industry,lead,Bayer
+2944861,NCT00331851,Industry,lead,Novo Nordisk A/S
+2944905,NCT00331604,Industry,lead,Novo Nordisk A/S
+2944915,NCT00331487,Industry,lead,Takeda
+2944916,NCT00331487,Industry,collaborator,Eli Lilly and Company
+2944949,NCT00331149,Industry,lead,GlaxoSmithKline
+2944985,NCT00330850,Industry,lead,ProEthic Pharmaceuticals
+2945029,NCT00330460,Industry,lead,Amgen
+2945130,NCT00329628,Industry,lead,Bayer
+2945134,NCT00329602,Industry,lead,GlaxoSmithKline
+2945172,NCT00329238,Industry,lead,Boehringer Ingelheim
+2945173,NCT00329225,Industry,lead,GlaxoSmithKline
+2945180,NCT00329173,Industry,lead,AstraZeneca
+2945237,NCT00328692,Industry,lead,"NovaCardia, Inc."
+2945238,NCT00328692,Industry,collaborator,Merck Sharp & Dohme Corp.
+2945245,NCT00328627,Industry,lead,Takeda
+2945257,NCT00328523,Industry,lead,Merck Sharp & Dohme Corp.
+2945347,NCT00327691,Industry,lead,Pfizer
+2945383,NCT00327418,Industry,lead,Pfizer
+2945384,NCT00327418,Other,collaborator,Diabetes UK
+2945385,NCT00327418,Other,collaborator,"Department of Health, United Kingdom"
+2945410,NCT00327145,Industry,lead,Novartis
+2945427,NCT00327015,Industry,lead,AstraZeneca
+2945526,NCT00326053,Industry,lead,AstraZeneca
+2945552,NCT00325806,Industry,lead,Sanofi
+2945570,NCT00325676,Industry,lead,Takeda
+2945601,NCT00325442,Industry,lead,United Therapeutics
+2945606,NCT00325403,Industry,lead,United Therapeutics
+2945607,NCT00325390,Industry,lead,Sanofi
+2945608,NCT00325390,Industry,collaborator,Daiichi Pharmaceuticals
+2945706,NCT00324363,Industry,lead,AstraZeneca
+2945707,NCT00324363,Industry,collaborator,Eli Lilly and Company
+2945944,NCT00322257,Industry,lead,Novo Nordisk A/S
+2945956,NCT00322153,Industry,lead,Forest Laboratories
+2945974,NCT00321984,Industry,lead,Takeda
+2946004,NCT00321737,Industry,lead,Takeda
+2946184,NCT00319995,Industry,lead,Merck Sharp & Dohme Corp.
+2946362,NCT00318461,Industry,lead,Novo Nordisk A/S
+2946365,NCT00318422,Industry,lead,Novo Nordisk A/S
+2946633,NCT00316095,Industry,lead,Boehringer Ingelheim
+2946634,NCT00316082,Industry,lead,AstraZeneca
+2946805,NCT00314860,Industry,lead,GlaxoSmithKline
+2946842,NCT00314574,Industry,lead,"Genentech, Inc."
+2946985,NCT00313313,Industry,lead,AstraZeneca
+2946993,NCT00313209,Industry,lead,AstraZeneca
+2947017,NCT00313001,Industry,lead,Novo Nordisk A/S
+2947116,NCT00312104,Industry,lead,Novo Nordisk A/S
+2947126,NCT00312013,Industry,lead,GlaxoSmithKline
+2947144,NCT00311896,Other,lead,"Clinica Universidad de Navarra, Universidad de Navarra"
+2947145,NCT00311896,Other,collaborator,Laboratorio farmacéutico ROVI
+2947154,NCT00311818,Industry,lead,Sanofi
+2947159,NCT00311753,Industry,lead,Novartis Pharmaceuticals
+2947160,NCT00311740,Industry,lead,Novartis
+2947199,NCT00311402,Industry,lead,Boehringer Ingelheim
+2947202,NCT00311363,Industry,lead,"XenoPort, Inc."
+2947393,NCT00309777,Industry,lead,Kowa Research Europe
+2947396,NCT00309751,Industry,lead,Kowa Research Europe
+2947397,NCT00309738,Industry,lead,Kowa Research Europe
+2947450,NCT00309244,Industry,lead,Mannkind Corporation
+2947557,NCT00308347,Industry,lead,Merck Sharp & Dohme Corp.
+2947659,NCT00307437,Industry,lead,"Centocor Research & Development, Inc."
+2947747,NCT00306696,Industry,lead,GlaxoSmithKline
+2947752,NCT00306644,Industry,lead,GlaxoSmithKline
+2947927,NCT00305162,Industry,lead,The Medicines Company
+2948122,NCT00303459,Industry,lead,Actelion
+2948335,NCT00301574,Industry,lead,Janssen Pharmaceutical K.K.
+2948352,NCT00301392,Other,lead,Tokyo University
+2948459,NCT00300482,Industry,lead,Abbott
+2948460,NCT00300469,Industry,lead,Abbott
+2948461,NCT00300456,Industry,lead,Abbott
+2948463,NCT00300430,Industry,lead,Abbott
+2948490,NCT00300196,Industry,lead,Neurobiological Technologies
+2948566,NCT00299546,Industry,lead,"Centocor, Inc."
+2948567,NCT00299546,Industry,collaborator,Schering-Plough
+2948636,NCT00299130,Industry,lead,"Genentech, Inc."
+2948637,NCT00299130,Industry,collaborator,Hoffmann-La Roche
+2948639,NCT00299104,Industry,lead,"Genentech, Inc."
+2948640,NCT00299104,Industry,collaborator,Hoffmann-La Roche
+2948646,NCT00299013,Industry,lead,Alizyme
+2948863,NCT00297115,Industry,lead,AstraZeneca
+2948864,NCT00297102,Industry,lead,AstraZeneca
+2948867,NCT00297063,Industry,lead,GlaxoSmithKline
+2948928,NCT00296530,Industry,lead,GlaxoSmithKline
+2948932,NCT00296491,Industry,lead,GlaxoSmithKline
+2948941,NCT00296387,Industry,lead,AstraZeneca
+2948960,NCT00296218,Industry,lead,Sanofi
+2948961,NCT00296218,Industry,collaborator,Bristol-Myers Squibb
+2949035,NCT00295633,Industry,lead,AstraZeneca
+2949140,NCT00294723,Industry,lead,Novo Nordisk A/S
+2949141,NCT00294710,Industry,lead,Novartis
+2949531,NCT00291330,Industry,lead,Boehringer Ingelheim
+2949572,NCT00290927,Industry,lead,Sanofi
+2949645,NCT00290264,Industry,lead,AstraZeneca
+2949679,NCT00290030,Industry,lead,Sanofi
+2949698,NCT00289848,Industry,lead,Merck Sharp & Dohme Corp.
+2949769,NCT00289198,Industry,lead,GlaxoSmithKline
+2949945,NCT00287729,Industry,lead,"Genentech, Inc."
+2949946,NCT00287716,Industry,lead,"Genentech, Inc."
+2950051,NCT00286897,Industry,lead,Eisai Limited
+2950101,NCT00286494,Industry,lead,Takeda
+2950103,NCT00286468,Industry,lead,Takeda
+2950104,NCT00286455,Industry,lead,Takeda
+2950105,NCT00286442,Industry,lead,Takeda
+2950106,NCT00286429,Industry,lead,Takeda
+2950217,NCT00285519,Other,lead,Japan Heart Foundation
+2950409,NCT00283751,Industry,lead,Novo Nordisk A/S
+2950464,NCT00283335,U.S. Fed,lead,VA Office of Research and Development
+2950465,NCT00283335,Industry,collaborator,Parke-Davis
+2950466,NCT00283335,Other,collaborator,Fournier Labs
+2950518,NCT00282932,Industry,lead,Pfizer
+2950658,NCT00281593,Industry,lead,Boehringer Ingelheim
+2950659,NCT00281580,Industry,lead,Boehringer Ingelheim
+2950764,NCT00280696,Industry,lead,UCB Japan Co. Ltd.
+2950783,NCT00280540,Industry,lead,Novartis
+2950799,NCT00280371,Industry,lead,Dey
+2950854,NCT00280059,Industry,lead,Pfizer
+2950855,NCT00280046,Industry,lead,Novo Nordisk A/S
+2950966,NCT00279201,Industry,lead,Eli Lilly and Company
+2950987,NCT00279045,Industry,lead,GlaxoSmithKline
+2951152,NCT00277472,Industry,lead,Novartis
+2951164,NCT00277394,Industry,lead,LEO Pharma
+2951176,NCT00277264,Industry,lead,Boehringer Ingelheim
+2951275,NCT00276484,Industry,lead,Merck Sharp & Dohme Corp.
+2951501,NCT00274638,Industry,lead,Boehringer Ingelheim
+2951505,NCT00274612,Industry,lead,Boehringer Ingelheim
+2951506,NCT00274599,Industry,lead,Boehringer Ingelheim
+2951508,NCT00274573,Industry,lead,Boehringer Ingelheim
+2951509,NCT00274560,Industry,lead,Boehringer Ingelheim
+2951510,NCT00274547,Industry,lead,Boehringer Ingelheim
+2951540,NCT00274274,Industry,lead,Novo Nordisk A/S
+2951560,NCT00274079,Industry,lead,Boehringer Ingelheim
+2951562,NCT00274053,Industry,lead,Boehringer Ingelheim
+2951565,NCT00274014,Industry,lead,Boehringer Ingelheim
+2951651,NCT00273299,Industry,lead,Novartis
+2951679,NCT00273052,Industry,lead,GlaxoSmithKline
+2951681,NCT00273026,Industry,lead,GlaxoSmithKline
+2951709,NCT00272805,Other,lead,Cardiovascular Clinical Studies
+2951710,NCT00272805,Industry,collaborator,GlaxoSmithKline
+2951719,NCT00272701,Industry,lead,AstraZeneca
+2951749,NCT00272454,Industry,lead,"Korea Otsuka Pharmaceutical Co., Ltd."
+2951750,NCT00272454,Other,collaborator,Seoul National University Boramae Hospital
+2951751,NCT00272454,Other,collaborator,"Korea Otsuka International Asia Arab Co., Ltd."
+2951799,NCT00272090,Industry,lead,Sanofi
+2951805,NCT00272012,Industry,lead,Sanofi
+2951827,NCT00271817,Industry,lead,Merck Sharp & Dohme Corp.
+2951867,NCT00271557,Industry,lead,"Scios, Inc."
+2952007,NCT00270374,Industry,lead,"Scios, Inc."
+2952051,NCT00269906,Industry,lead,"Centocor, Inc."
+2952052,NCT00269893,Industry,lead,"Centocor, Inc."
+2952054,NCT00269867,Industry,lead,"Centocor, Inc."
+2952136,NCT00269191,Industry,lead,Merck Sharp & Dohme Corp.
+2952201,NCT00268697,Industry,lead,Takeda
+2952207,NCT00268632,Industry,lead,Sanofi
+2952208,NCT00268632,Industry,collaborator,Procter and Gamble
+2952260,NCT00268216,Industry,lead,GlaxoSmithKline
+2952282,NCT00267969,Industry,lead,"Centocor Research & Development, Inc."
+2952360,NCT00267215,Industry,lead,Novartis
+2952365,NCT00267176,Industry,lead,Novartis Pharmaceuticals
+2952478,NCT00266227,Industry,lead,"Genentech, Inc."
+2952622,NCT00265096,Industry,lead,"Centocor, Inc."
+2952623,NCT00265096,Industry,collaborator,Schering-Plough
+2952624,NCT00265083,Industry,lead,"Centocor, Inc."
+2952625,NCT00265083,Industry,collaborator,Schering-Plough
+2952641,NCT00264901,Industry,lead,Novo Nordisk A/S
+2952647,NCT00264849,Industry,lead,Novartis
+2952648,NCT00264849,Industry,collaborator,"Genentech, Inc."
+2952649,NCT00264849,Industry,collaborator,Tanox
+2952679,NCT00264550,Industry,lead,"Centocor, Inc."
+2952680,NCT00264550,Industry,collaborator,Schering-Plough
+2952681,NCT00264537,Industry,lead,"Centocor, Inc."
+2952682,NCT00264537,Industry,collaborator,Schering-Plough
+2952724,NCT00264212,Industry,lead,Sanofi
+2952725,NCT00264212,Industry,collaborator,Bristol-Myers Squibb
+2952910,NCT00262600,Industry,lead,Boehringer Ingelheim
+2952911,NCT00262600,Other,collaborator,Population Health Research Institute
+2952912,NCT00262600,Other,collaborator,Uppsala University
+2952955,NCT00262236,Industry,lead,Novartis
+2952979,NCT00262054,Other,lead,Deutsches Herzzentrum Muenchen
+2953032,NCT00261573,Industry,lead,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+2953104,NCT00260923,Industry,lead,Novartis
+2953264,NCT00259792,Industry,lead,AstraZeneca
+2953266,NCT00259766,Industry,lead,AstraZeneca
+2953311,NCT00259428,Industry,lead,Sanofi
+2953317,NCT00259376,Industry,lead,Sanofi
+2953525,NCT00257686,Industry,lead,Kowa Research Europe
+2953692,NCT00256204,Industry,lead,Teva Pharmaceutical Industries
+2953698,NCT00256139,Industry,lead,Merck KGaA
+2953804,NCT00255164,Industry,lead,Takeda
+2953805,NCT00255151,Industry,lead,Takeda
+2953828,NCT00254956,Industry,lead,Sanofi
+2953829,NCT00254956,Industry,collaborator,Takeda
+2954034,NCT00253227,Industry,lead,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+2954035,NCT00253214,Industry,lead,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+2954037,NCT00253188,Industry,lead,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+2954080,NCT00252863,Industry,lead,AstraZeneca
+2954083,NCT00252824,Industry,lead,AstraZeneca
+2954086,NCT00252785,Industry,lead,AstraZeneca
+2954100,NCT00252668,Industry,lead,Wyeth is now a wholly owned subsidiary of Pfizer
+2954189,NCT00251966,Industry,lead,AstraZeneca
+2954192,NCT00251927,Industry,lead,AstraZeneca
+2954194,NCT00251901,Industry,lead,AstraZeneca
+2954201,NCT00251823,Other,lead,Ottawa Heart Institute Research Corporation
+2954202,NCT00251823,Industry,collaborator,Schering-Plough
+2954203,NCT00251823,Industry,collaborator,Medtronic
+2954211,NCT00251758,Industry,lead,Takeda
+2954212,NCT00251745,Industry,lead,Takeda
+2954216,NCT00251719,Industry,lead,Takeda
+2954217,NCT00251706,Other,lead,University of Calgary
+2954218,NCT00251706,Other,collaborator,Heart and Stroke Foundation of Canada
+2954219,NCT00251706,Industry,collaborator,Wyeth is now a wholly owned subsidiary of Pfizer
+2954220,NCT00251693,Industry,lead,Takeda
+2954224,NCT00251641,Industry,lead,Merck Sharp & Dohme Corp.
+2954230,NCT00251576,Industry,lead,Merck Sharp & Dohme Corp.
+2954307,NCT00251134,Other,lead,Stiftung Institut fuer Herzinfarktforschung
+2954308,NCT00251134,Industry,collaborator,Trommsdorff GmbH & Co. KG
+2954309,NCT00251134,Industry,collaborator,Pronova BioPharma
+2954362,NCT00250679,Industry,lead,Sunovion
+2954382,NCT00250445,Industry,lead,Merck Sharp & Dohme Corp.
+2954433,NCT00249873,Industry,lead,Sanofi
+2954434,NCT00249873,Industry,collaborator,Bristol-Myers Squibb
+2954442,NCT00249795,Industry,lead,Sanofi
+2954443,NCT00249795,Industry,collaborator,Bristol-Myers Squibb
+2954514,NCT00249249,Industry,lead,Kowa Research Europe
+2954744,NCT00247247,Industry,lead,"Orion Corporation, Orion Pharma"
+2954794,NCT00246909,Industry,lead,Takeda
+2955022,NCT00244842,Industry,lead,Aurinia Pharmaceuticals Inc.
+2955051,NCT00244556,Industry,lead,Wyeth is now a wholly owned subsidiary of Pfizer
+2955062,NCT00244426,Industry,lead,Pfizer
+2955067,NCT00244387,Industry,lead,UCB Pharma
+2955144,NCT00243724,Industry,lead,AstraZeneca
+2955201,NCT00243178,Industry,lead,Sanofi
+2955202,NCT00243178,Industry,collaborator,Bristol-Myers Squibb
+2955238,NCT00242944,Other,lead,Kyoto University
+2955239,NCT00242944,Other,collaborator,Yamaguchi University Hospital
+2955240,NCT00242944,Other,collaborator,Juntendo University School of Medicine
+2955257,NCT00242775,Industry,lead,AstraZeneca
+2955275,NCT00242606,Other,lead,Philipps University Marburg Medical Center
+2955276,NCT00242606,Industry,collaborator,UCB Pharma GmbH
+2955297,NCT00242411,Industry,lead,AstraZeneca
+2955306,NCT00242320,Industry,lead,AstraZeneca
+2955307,NCT00242307,Industry,lead,AstraZeneca
+2955308,NCT00242307,Industry,collaborator,Mitsubishi Tanabe Pharma Corporation
+2955309,NCT00242294,Industry,lead,AstraZeneca
+2955310,NCT00242294,Industry,collaborator,Mitsubishi Tanabe Pharma Corporation
+2955401,NCT00241605,Industry,lead,GlaxoSmithKline
+2955411,NCT00241488,Industry,lead,AstraZeneca
+2955514,NCT00240474,Industry,lead,Boehringer Ingelheim
+2955521,NCT00240448,Industry,lead,Boehringer Ingelheim
+2955613,NCT00239538,Industry,lead,Boehringer Ingelheim
+2955622,NCT00239421,Industry,lead,Boehringer Ingelheim
+2955623,NCT00239408,Industry,lead,Boehringer Ingelheim
+2955626,NCT00239369,Industry,lead,Boehringer Ingelheim
+2955630,NCT00239330,Industry,lead,AstraZeneca
+2955692,NCT00238784,Industry,lead,AstraZeneca
+2955784,NCT00237887,Industry,lead,Abbott
+2955865,NCT00237237,Industry,lead,Novartis
+2955914,NCT00236717,Industry,lead,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+2955919,NCT00236665,Industry,lead,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+2955927,NCT00236574,Industry,lead,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+2955928,NCT00236561,Industry,lead,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+2955935,NCT00236509,Industry,lead,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+2955943,NCT00236431,Industry,lead,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+2955947,NCT00236392,Industry,lead,"Janssen Pharmaceutica N.V., Belgium"
+2955985,NCT00236028,Industry,lead,"Centocor, Inc."
+2956016,NCT00235755,Industry,lead,GlaxoSmithKline
+2956017,NCT00235755,Industry,collaborator,"Valeant Pharmaceuticals International, Inc."
+2956021,NCT00235716,U.S. Fed,lead,VA Office of Research and Development
+2956022,NCT00235716,Industry,collaborator,Forest Laboratories
+2956023,NCT00235716,Industry,collaborator,"DSM Nutritional Products, Inc."
+2956070,NCT00235248,Other,lead,Assistance Publique - Hôpitaux de Paris
+2956071,NCT00235248,Other,collaborator,"National Health and Medical Research Council, Australia"
+2956072,NCT00235248,Industry,collaborator,Sanofi
+2956073,NCT00235248,Industry,collaborator,Bristol-Myers Squibb
+2956096,NCT00235014,Industry,lead,Abbott
+2956105,NCT00234897,Industry,lead,Abbott
+2956107,NCT00234871,Industry,lead,Abbott
+2956204,NCT00234065,Industry,lead,"Otsuka Pharmaceutical Co., Ltd."
+2956274,NCT00233441,Industry,lead,Sanofi
+2956367,NCT00232596,Industry,lead,GlaxoSmithKline
+2956368,NCT00232596,Industry,collaborator,"Valeant Pharmaceuticals International, Inc."
+2956430,NCT00232050,Industry,lead,Novartis
+2956431,NCT00232050,Industry,collaborator,"Daiichi Sankyo Co., Ltd."
+2956477,NCT00231738,Industry,lead,Kobe University
+2956478,NCT00231738,Industry,collaborator,"Mochida Pharmaceutical Company, Ltd."
+2956495,NCT00231595,Industry,lead,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+2956502,NCT00231556,Industry,lead,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+2956504,NCT00231530,Industry,lead,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+2956592,NCT00230698,Industry,lead,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+2956742,NCT00229424,Industry,lead,"Taiho Pharmaceutical Co., Ltd."
+2956743,NCT00229424,Industry,collaborator,UCB Pharma
+2956959,NCT00227318,Industry,lead,AstraZeneca
+2957171,NCT00225589,Industry,lead,AstraZeneca
+2957208,NCT00225277,Industry,lead,Takeda
+2957209,NCT00225264,Industry,lead,Takeda
+2957349,NCT00224146,Industry,lead,Watson Pharmaceuticals
+2957351,NCT00224120,Industry,lead,Watson Pharmaceuticals
+2957352,NCT00224107,Industry,lead,Watson Pharmaceuticals
+2957548,NCT00222573,Other,lead,University of Oxford
+2957549,NCT00222573,Industry,collaborator,Sanofi
+2957550,NCT00222573,Industry,collaborator,AstraZeneca
+2957600,NCT00222261,Other,lead,Ullevaal University Hospital
+2957601,NCT00222261,Other,collaborator,The Norwegian Council for Cardiovascular Diseases.
+2957602,NCT00222261,Other,collaborator,Ada and Hagbart Waages Humanitarian and Charity Foundation
+2957603,NCT00222261,Other,collaborator,Alf and Aagot Helgesens Research Foundation.
+2957762,NCT00221156,Other,lead,"Translational Research Informatics Center, Kobe, Hyogo, Japan"
+2957763,NCT00221156,Other,collaborator,"Institute of Biomedical Research and Innovation, Kobe, Hyogo, Japan"
+2957764,NCT00221156,Other,collaborator,Kobe City General Hospital
+2957774,NCT00221104,Other,lead,"Translational Research Informatics Center, Kobe, Hyogo, Japan"
+2957775,NCT00221104,Other,collaborator,"Ministry of Health, Labour and Welfare, Japan"
+2957776,NCT00221104,Other,collaborator,Hiroshima University
+2957812,NCT00220961,Other,lead,The University of Texas Health Science Center at San Antonio
+2957813,NCT00220961,Other,collaborator,University of Texas
+2957814,NCT00220961,Industry,collaborator,"Takeda Pharmaceuticals North America, Inc."
+2957881,NCT00220415,Industry,lead,UCB Pharma
+2957885,NCT00220363,Industry,lead,Pfizer
+2957898,NCT00220233,Industry,lead,Sankyo Pharma Gmbh
+2957899,NCT00220220,Industry,lead,Sankyo Pharma Gmbh
+2957921,NCT00219973,Industry,lead,Rovi Pharmaceuticals Laboratories
+2958026,NCT00219193,Industry,lead,Novartis
+2958027,NCT00219180,Industry,lead,Novartis
+2958028,NCT00219167,Industry,lead,Novartis
+2958029,NCT00219154,Industry,lead,Novartis
+2958030,NCT00219141,Industry,lead,Novartis Pharmaceuticals
+2958031,NCT00219128,Industry,lead,Novartis
+2958032,NCT00219115,Industry,lead,Novartis
+2958033,NCT00219102,Industry,lead,Novartis
+2958034,NCT00219089,Industry,lead,Novartis
+2958035,NCT00219076,Industry,lead,Novartis
+2958036,NCT00219063,Industry,lead,Novartis
+2958038,NCT00219037,Industry,lead,Novartis
+2958039,NCT00219024,Industry,lead,Novartis
+2958320,NCT00216892,Industry,lead,LEO Pharma
+2958348,NCT00216619,Industry,lead,"Janssen Pharmaceutica N.V., Belgium"
+2958350,NCT00216593,Industry,lead,"Janssen Pharmaceutica N.V., Belgium"
+2958515,NCT00215436,Industry,lead,Dey
+2958771,NCT00213135,Industry,lead,EMD Serono
+2958842,NCT00212810,Industry,lead,"Ortho-McNeil Neurologics, Inc."
+2958849,NCT00212732,Industry,lead,Ono Pharmaceutical Co. Ltd
+2958854,NCT00212667,Industry,lead,Ono Pharmaceutical Co. Ltd
+2958855,NCT00212667,Industry,collaborator,Astellas Pharma Inc
+2958970,NCT00211705,Industry,lead,Mitsukoshi Health and Welfare Foundation
+2958971,NCT00211705,Industry,collaborator,"Daiichi Sankyo Co., Ltd."
+2958972,NCT00211705,Other,collaborator,"Ministry of Health, Labour and Welfare, Japan"
+2959078,NCT00210912,Industry,lead,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+2959079,NCT00210912,Industry,collaborator,"Ortho-McNeil Neurologics, Inc."
+2959091,NCT00210821,Industry,lead,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+2959092,NCT00210821,Industry,collaborator,"Ortho-McNeil Neurologics, Inc."
+2959431,NCT00208312,Industry,lead,Gilead Sciences
+2959432,NCT00208312,Industry,collaborator,"Astellas Pharma US, Inc."
+2959433,NCT00208299,Industry,lead,Gilead Sciences
+2959434,NCT00208299,Industry,collaborator,"Astellas Pharma US, Inc."
+2959502,NCT00207766,Industry,lead,"Centocor, Inc."
+2959517,NCT00207662,Industry,lead,"Centocor, Inc."
+2959702,NCT00206310,Industry,lead,AstraZeneca
+2959714,NCT00206167,Industry,lead,AstraZeneca
+2959715,NCT00206154,Industry,lead,AstraZeneca
+2960030,NCT00203658,Other,lead,University of Calgary
+2960031,NCT00203658,Other,collaborator,Canadian Institutes of Health Research (CIHR)
+2960032,NCT00203658,Industry,collaborator,LEO Pharma
+2960033,NCT00203658,Industry,collaborator,Dupont Applied Biosciences
+2960045,NCT00203580,Other,lead,University of Calgary
+2960046,NCT00203580,Other,collaborator,Canadian Institutes of Health Research (CIHR)
+2960047,NCT00203580,Industry,collaborator,LEO Pharma
+2960048,NCT00203580,Industry,collaborator,Dupont Applied Biosciences
+2960103,NCT00203060,Industry,lead,"Teva Neuroscience, Inc."
+2960105,NCT00203034,Industry,lead,Teva Pharmaceutical Industries
+2960119,NCT00202878,Industry,lead,Merck Sharp & Dohme Corp.
+2960244,NCT00202020,Industry,lead,Otsuka Beijing Research Institute
+2960245,NCT00202020,Industry,collaborator,"Zhejiang Otsuka Pharmaceutical Co., Ltd."
+2960492,NCT00200473,Industry,lead,Mylan Bertek Pharmaceuticals
+2960493,NCT00200460,Industry,lead,Mylan Bertek Pharmaceuticals
+2960495,NCT00200434,Industry,lead,Mylan Bertek Pharmaceuticals
+2960504,NCT00200356,Industry,lead,Mitsubishi Tanabe Pharma Corporation
+2960892,NCT00197080,Industry,lead,GlaxoSmithKline
+2961038,NCT00195702,Industry,lead,Abbott
+2961041,NCT00195663,Industry,lead,"AbbVie (prior sponsor, Abbott)"
+2961055,NCT00195507,Industry,lead,Wyeth is now a wholly owned subsidiary of Pfizer
+2961056,NCT00195494,Industry,lead,Wyeth is now a wholly owned subsidiary of Pfizer
+2961589,NCT00191464,Industry,lead,Eli Lilly and Company
+2961603,NCT00191282,Industry,lead,Eli Lilly and Company
+2961669,NCT00190580,Other,lead,KVT-Study Group
+2961670,NCT00190580,Other,collaborator,Tokai University
+2961671,NCT00190580,Other,collaborator,Yokohama City University
+2961672,NCT00190580,Other,collaborator,Showa University
+2961673,NCT00190580,Other,collaborator,Kitasato University
+2961674,NCT00190580,Other,collaborator,St. Marianna University School of Medicine
+2962086,NCT00187408,Other,lead,Sunnybrook Health Sciences Centre
+2962087,NCT00187408,Other,collaborator,Canadian Institutes of Health Research (CIHR)
+2962088,NCT00187408,Industry,collaborator,Pfizer
+2962150,NCT00186901,Other,lead,St. Jude Children's Research Hospital
+2962349,NCT00185172,Industry,lead,Sankyo Pharma Gmbh
+2962350,NCT00185159,Industry,lead,Sankyo Pharma Gmbh
+2962352,NCT00185133,Industry,lead,"Daiichi Sankyo, Inc."
+2962402,NCT00184665,Industry,lead,Novo Nordisk A/S
+2962407,NCT00184600,Industry,lead,Novo Nordisk A/S
+2962411,NCT00184561,Industry,lead,Novo Nordisk A/S
+2962726,NCT00182403,Other,lead,McMaster University
+2962727,NCT00182403,Other,collaborator,Heart and Stroke Foundation of Ontario
+2962770,NCT00182143,Other,lead,McMaster University
+2962771,NCT00182143,Other,collaborator,Canadian Institutes of Health Research (CIHR)
+2962772,NCT00182143,Other,collaborator,Canadian Critical Care Trials Group
+2962773,NCT00182143,Other,collaborator,Australian and New Zealand Intensive Care Society Clinical Trials Group
+2963550,NCT00175903,Industry,lead,UCB Pharma
+2963646,NCT00175032,Industry,lead,Takeda
+2963647,NCT00175019,Industry,lead,Takeda
+2963649,NCT00174993,Industry,lead,Takeda
+2963650,NCT00174993,Industry,collaborator,Eli Lilly and Company
+2963657,NCT00174915,Industry,lead,Takeda
+2963668,NCT00174824,Industry,lead,Sanofi
+2963671,NCT00174785,Industry,lead,Sanofi
+2963673,NCT00174759,Industry,lead,Sanofi
+2963674,NCT00174759,Industry,collaborator,Bristol-Myers Squibb
+2963676,NCT00174733,Industry,lead,Sanofi
+2963677,NCT00174720,Industry,lead,Sanofi
+2963680,NCT00174681,Industry,lead,Sanofi
+2963681,NCT00174668,Industry,lead,Sanofi
+2963711,NCT00174330,Industry,lead,Pfizer
+2963911,NCT00172081,Industry,lead,Shire
+2963960,NCT00171496,Industry,lead,Novartis
+2963970,NCT00171366,Industry,lead,Novartis
+2963971,NCT00171366,Industry,collaborator,Pfizer
+2963978,NCT00171275,Industry,lead,Novartis
+2963979,NCT00171275,Other,collaborator,"Ministry of Health, Czech Republic"
+2963985,NCT00171184,Industry,lead,Novartis
+2963986,NCT00171184,Industry,collaborator,Procter and Gamble
+2963989,NCT00171145,Industry,lead,Novartis
+2963993,NCT00171093,Industry,lead,Novartis
+2964000,NCT00171002,Industry,lead,Novartis
+2964001,NCT00170989,Industry,lead,Novartis
+2964003,NCT00170963,Industry,lead,Novartis
+2964004,NCT00170950,Industry,lead,Novartis
+2964006,NCT00170924,Industry,lead,Novartis
+2964049,NCT00170378,Other,lead,Minneapolis Medical Research Foundation
+2964050,NCT00170378,Industry,collaborator,Aventis Pharmaceuticals
+2964127,NCT00169819,Other,lead,Laval University
+2964128,NCT00169819,Industry,collaborator,Eli Lilly and Company
+2964129,NCT00169819,Industry,collaborator,Bristol-Myers Squibb
+2964267,NCT00168857,Industry,lead,Boehringer Ingelheim
+2964268,NCT00168844,Industry,lead,Boehringer Ingelheim
+2964269,NCT00168831,Industry,lead,Boehringer Ingelheim
+2964270,NCT00168818,Industry,lead,Boehringer Ingelheim
+2964271,NCT00168805,Industry,lead,Boehringer Ingelheim
+2964272,NCT00168792,Industry,lead,Boehringer Ingelheim
+2964273,NCT00168792,Industry,collaborator,"Genentech, Inc."
+2964274,NCT00168779,Industry,lead,Boehringer Ingelheim
+2964556,NCT00166530,Industry,lead,Merck Sharp & Dohme Corp.
+2964648,NCT00165737,Industry,lead,Eisai Inc.
+2964979,NCT00163527,Industry,lead,AstraZeneca
+2964980,NCT00163527,Industry,collaborator,Pfizer
+2964984,NCT00163475,Industry,lead,AstraZeneca
+2964987,NCT00163436,Industry,lead,AstraZeneca
+2964988,NCT00163423,Industry,lead,AstraZeneca
+2964993,NCT00163358,Industry,lead,AstraZeneca
+2964996,NCT00163319,Industry,lead,AstraZeneca
+2965002,NCT00163241,Industry,lead,Pfizer
+2965006,NCT00163202,Industry,lead,Pfizer
+2965007,NCT00163202,Industry,collaborator,MDS Pharma Services
+2965008,NCT00163202,Other,collaborator,Bio-Inova Life Sciences International
+2965126,NCT00162084,Industry,lead,Forest Laboratories
+2965243,NCT00161070,Other,lead,UMC Utrecht
+2965302,NCT00160602,Industry,lead,UCB Pharma
+2965726,NCT00157586,Other,lead,Mario Negri Institute for Pharmacological Research
+2966095,NCT00154219,Industry,lead,Novartis
+2966187,NCT00153660,Other,lead,Chinese University of Hong Kong
+2966263,NCT00153088,Industry,lead,Boehringer Ingelheim
+2966265,NCT00153062,Industry,lead,Boehringer Ingelheim
+2966266,NCT00153062,Industry,collaborator,GlaxoSmithKline
+2966267,NCT00153062,Industry,collaborator,Bayer
+2966269,NCT00153036,Industry,lead,Boehringer Ingelheim
+2966270,NCT00153023,Industry,lead,Boehringer Ingelheim
+2966273,NCT00152984,Industry,lead,Boehringer Ingelheim
+2966274,NCT00152971,Industry,lead,Boehringer Ingelheim
+2966328,NCT00152490,Industry,lead,UCB Pharma
+2966333,NCT00152425,Industry,lead,UCB Pharma
+2966336,NCT00152386,Industry,lead,UCB Pharma
+2966392,NCT00151827,Industry,lead,Sankyo Pharma Gmbh
+2966432,NCT00151502,Industry,lead,Pfizer
+2966713,NCT00149227,Other,lead,Kyoto Prefectural University of Medicine
+2966830,NCT00148408,Other,lead,American Lung Association Asthma Clinical Research Centers
+2966831,NCT00148408,NIH,collaborator,"National Heart, Lung, and Blood Institute (NHLBI)"
+2967774,NCT00141141,Industry,lead,Pfizer
+2966925,NCT00147758,Industry,lead,"Daiichi Sankyo, Inc."
+2966929,NCT00147719,Industry,lead,"Daiichi Sankyo, Inc."
+2966936,NCT00147654,Industry,lead,Pfizer
+2967132,NCT00146341,Industry,lead,Boehringer Ingelheim
+2967189,NCT00145925,Other,lead,The George Institute
+2967190,NCT00145925,Other,collaborator,Institut de Recherches Internationales Servier
+2967191,NCT00145925,Other,collaborator,University of Sydney
+2967192,NCT00145925,Other,collaborator,"National Health and Medical Research Council, Australia"
+2967221,NCT00145730,Other,lead,The George Institute
+2967222,NCT00145730,Other,collaborator,"National Health and Medical Research Council, Australia"
+2967223,NCT00145730,Other,collaborator,Medical Benefits Fund Australia Pty Ltd
+2967261,NCT00145327,Industry,lead,Novartis
+2967263,NCT00145301,Industry,lead,Novartis
+2967268,NCT00145236,Industry,lead,Mylan Bertek Pharmaceuticals
+2967270,NCT00145210,Industry,lead,Mylan Bertek Pharmaceuticals
+2967310,NCT00144911,Industry,lead,GlaxoSmithKline
+2967351,NCT00144508,Industry,lead,Chugai Pharmaceutical
+2967373,NCT00144339,Industry,lead,Boehringer Ingelheim
+2967465,NCT00143520,Industry,lead,"Daiichi Sankyo, Inc."
+2967468,NCT00143481,Industry,lead,Pfizer
+2967476,NCT00143377,Industry,lead,Pfizer
+2967490,NCT00143221,Industry,lead,Pfizer
+2967562,NCT00142584,Industry,lead,Mylan Bertek Pharmaceuticals
+2967687,NCT00141960,Industry,lead,Astellas Pharma Inc
+2967705,NCT00141778,Other,lead,Vanderbilt University
+2967706,NCT00141778,NIH,collaborator,"National Heart, Lung, and Blood Institute (NHLBI)"
+2967749,NCT00141453,Industry,lead,"Daiichi Sankyo Co., Ltd."
+2967766,NCT00141232,Industry,lead,Pfizer
+2967767,NCT00141232,Other,collaborator,Churchill Hospital
+2967778,NCT00141102,Industry,lead,Pfizer
+2967795,NCT00140946,Industry,lead,Merck Sharp & Dohme Corp.
+2967955,NCT00139815,Industry,lead,GlaxoSmithKline
+2967956,NCT00139815,Other,collaborator,University of Chicago
+2967957,NCT00139815,Industry,collaborator,Organon
+2967958,NCT00139815,Industry,collaborator,Sanofi
+2967959,NCT00139815,Other,collaborator,Duke University
+2968002,NCT00139386,Other,lead,Kumamoto University
+2968003,NCT00139386,Other,collaborator,The 4C trial bureau
+2968004,NCT00139386,Other,collaborator,Japan Heart Foundation
+2968105,NCT00138723,Industry,lead,Pfizer
+2968115,NCT00138619,Industry,lead,Novartis
+2968118,NCT00138580,Industry,lead,Novartis
+2968119,NCT00138567,Industry,lead,Novartis
+2968121,NCT00138541,Industry,lead,Novartis
+2968123,NCT00138515,Industry,lead,Novartis
+2968340,NCT00136799,Industry,lead,Novartis
+2968343,NCT00136773,Industry,lead,Novartis
+2968456,NCT00136045,Industry,lead,UCB Pharma
+2968458,NCT00136019,Industry,lead,UCB Pharma
+2968460,NCT00135993,Industry,lead,UCB Pharma
+2968476,NCT00135876,Other,lead,Ontario Clinical Oncology Group (OCOG)
+2968477,NCT00135876,Industry,collaborator,Pfizer
+2968567,NCT00135226,Other,lead,University of Oxford
+2968568,NCT00135226,Other,collaborator,British Heart Foundation
+2968569,NCT00135226,Industry,collaborator,Bayer
+2968570,NCT00135226,Industry,collaborator,Abbott Products
+2968590,NCT00135096,Industry,lead,Sanofi
+2968601,NCT00134979,Industry,lead,Novartis Pharmaceuticals
+2968602,NCT00134979,Industry,collaborator,"Pacira Pharmaceuticals, Inc"
+2968714,NCT00134160,Other,lead,OSCAR Study
+2968715,NCT00134160,Other,collaborator,Japan Heart Foundation
+2968775,NCT00133692,Other,lead,University of Florida
+2968776,NCT00133692,Industry,collaborator,Abbott
+2968824,NCT00133250,Other,lead,Deutsches Herzzentrum Muenchen
+2968825,NCT00133250,Other,collaborator,Technische Universität München
+2968830,NCT00133198,Industry,lead,Boehringer Ingelheim
+2968853,NCT00133003,Other,lead,Deutsches Herzzentrum Muenchen
+2968854,NCT00133003,Other,collaborator,Technische Universität München
+2968887,NCT00132717,Industry,lead,Merck Sharp & Dohme Corp.
+2968931,NCT00132418,Industry,lead,Amgen
+2968932,NCT00132418,Industry,collaborator,Immunex Corporation
+2969002,NCT00131846,Other,lead,Kyoto University
+2969003,NCT00131846,Other,collaborator,University of the Ryukyus
+2969039,NCT00131664,Other,lead,Canadian Heart Research Centre
+2969040,NCT00131664,Industry,collaborator,GlaxoSmithKline
+2969234,NCT00130208,Industry,lead,Keryx Biopharmaceuticals
+2969235,NCT00130208,Other,collaborator,Collaborative Study Group (CSG)
+2969257,NCT00130039,Other,lead,Asan Medical Center
+2969258,NCT00130039,Industry,collaborator,Korea Otsuka International Asia Arab
+2969290,NCT00129805,Industry,lead,Mitsubishi Tanabe Pharma Corporation
+2969316,NCT00129545,Industry,lead,Boston Scientific Corporation
+2969352,NCT00129233,Other,lead,Nagoya University
+2969548,NCT00127647,Industry,lead,Merck Sharp & Dohme Corp.
+2969608,NCT00127179,Industry,lead,Merck Sharp & Dohme Corp.
+2969762,NCT00125918,Industry,lead,Eli Lilly and Company
+2969763,NCT00125918,Industry,collaborator,ICOS Corporation
+2970044,NCT00123903,Industry,lead,GlaxoSmithKline
+2974094,NCT00089791,Industry,lead,Amgen
+2970252,NCT00122382,Industry,lead,Bristol-Myers Squibb
+2970303,NCT00121966,Other,lead,Odense University Hospital
+2970340,NCT00121667,Industry,lead,AstraZeneca
+2970342,NCT00121641,Industry,lead,AstraZeneca
+2970374,NCT00121446,Other,lead,University of Alberta
+2970375,NCT00121446,Industry,collaborator,Hoffmann-La Roche
+2970376,NCT00121446,Industry,collaborator,Sanofi
+2970377,NCT00121446,Industry,collaborator,Eli Lilly and Company
+2970448,NCT00120900,Industry,lead,GlaxoSmithKline
+2970527,NCT00120328,Industry,lead,Speedel Pharma Ltd.
+2970536,NCT00120289,Industry,lead,Axio Research. LLC
+2970537,NCT00120289,NIH,collaborator,"National Heart, Lung, and Blood Institute (NHLBI)"
+2970538,NCT00120289,Industry,collaborator,Abbott
+2970578,NCT00120003,Other,lead,Ullevaal University Hospital
+2970579,NCT00120003,Other,collaborator,Southern-Eastern Norway Health Authorities RHF
+2970580,NCT00120003,Industry,collaborator,AstraZeneca
+2970581,NCT00120003,Industry,collaborator,Takeda
+2970754,NCT00118703,Industry,lead,GlaxoSmithKline
+2970859,NCT00117780,Industry,lead,Novo Nordisk A/S
+2970961,NCT00116831,Industry,lead,GlaxoSmithKline
+2971116,NCT00115622,Industry,lead,GlaxoSmithKline
+2971129,NCT00115492,Industry,lead,GlaxoSmithKline
+2971579,NCT00111449,Industry,lead,Amgen
+2971580,NCT00111449,Industry,collaborator,Wyeth is now a wholly owned subsidiary of Pfizer
+2971684,NCT00110435,Industry,lead,Merck Sharp & Dohme Corp.
+2971685,NCT00110422,Industry,lead,Bristol-Myers Squibb
+2971686,NCT00110422,Industry,collaborator,Sanofi
+2971706,NCT00110240,Industry,lead,Novartis Pharmaceuticals
+2971766,NCT00109668,Industry,lead,"Teva Branded Pharmaceutical Products, R&D Inc."
+2971801,NCT00109408,Industry,lead,Hoffmann-La Roche
+2971805,NCT00109382,Other,lead,University of Calgary
+2971806,NCT00109382,Other,collaborator,Canadian Institutes of Health Research (CIHR)
+2971807,NCT00109382,Other,collaborator,Canadian Stroke Consortium (CSC)
+2971813,NCT00109317,Industry,lead,"Genentech, Inc."
+2971852,NCT00108823,Industry,lead,AstraZeneca
+2972051,NCT00106847,Industry,lead,"Centocor, Inc."
+2972077,NCT00106574,Industry,lead,Hoffmann-La Roche
+2972080,NCT00106535,Industry,lead,Hoffmann-La Roche
+2972081,NCT00106522,Industry,lead,Hoffmann-La Roche
+2972094,NCT00106366,Industry,lead,Novo Nordisk A/S
+2972096,NCT00106340,Industry,lead,Novartis Pharmaceuticals
+2972121,NCT00106132,NIH,lead,National Eye Institute (NEI)
+2972198,NCT00105300,Industry,lead,Abbott
+2972226,NCT00105027,Industry,lead,The EMMES Corporation
+2972227,NCT00105027,NIH,collaborator,National Eye Institute (NEI)
+2972228,NCT00105027,Industry,collaborator,Allergan
+2972312,NCT00104182,Industry,lead,Novo Nordisk A/S
+2972341,NCT00103857,Industry,lead,Merck Sharp & Dohme Corp.
+2972444,NCT00102882,Industry,lead,GlaxoSmithKline
+2972455,NCT00102765,Industry,lead,GlaxoSmithKline
+2972487,NCT00102466,Industry,lead,Novartis Pharmaceuticals
+2972489,NCT00102440,Industry,lead,Takeda
+2972494,NCT00102388,Industry,lead,Novartis Pharmaceuticals
+2972757,NCT00099853,Industry,lead,Novartis Pharmaceuticals
+2972549,NCT00101803,Industry,lead,Novartis Pharmaceuticals
+2972554,NCT00101751,Industry,lead,Novo Nordisk A/S
+2972682,NCT00100620,Industry,lead,Novartis Pharmaceuticals
+2972750,NCT00099944,Industry,lead,Novartis Pharmaceuticals
+2972752,NCT00099918,Industry,lead,Novartis Pharmaceuticals
+2972753,NCT00099905,Industry,lead,Novartis Pharmaceuticals
+2972754,NCT00099892,Industry,lead,Novartis Pharmaceuticals
+2972756,NCT00099866,Industry,lead,Novartis Pharmaceuticals
+2972764,NCT00099788,Industry,lead,Gilead Sciences
+2972765,NCT00099788,Other,collaborator,The TIMI Study Group
+2972824,NCT00099268,Industry,lead,Novartis Pharmaceuticals
+2972825,NCT00099268,Industry,collaborator,"Orion Corporation, Orion Pharma"
+2972827,NCT00099242,Industry,lead,Novartis Pharmaceuticals
+2972829,NCT00099216,Industry,lead,Novartis Pharmaceuticals
+2972983,NCT00097786,Industry,lead,Novartis Pharmaceuticals
+2973009,NCT00097591,Industry,lead,Eli Lilly and Company
+2973010,NCT00097591,Industry,collaborator,"Daiichi Sankyo, Inc."
+2973095,NCT00097084,Industry,lead,Novo Nordisk A/S
+2973105,NCT00096980,Industry,lead,"Genentech, Inc."
+2973107,NCT00096954,Industry,lead,"Genentech, Inc."
+2973138,NCT00096655,Industry,lead,"Centocor, Inc."
+2973143,NCT00096603,Industry,lead,"Genentech, Inc."
+2973289,NCT00095550,Industry,lead,Bristol-Myers Squibb
+2973290,NCT00095550,Industry,collaborator,Sanofi
+2973305,NCT00095394,Industry,lead,Bristol-Myers Squibb
+2973306,NCT00095394,Industry,collaborator,Sanofi
+2973322,NCT00095238,Industry,lead,Bristol-Myers Squibb
+2973323,NCT00095238,Industry,collaborator,Sanofi
+2973333,NCT00095147,Industry,lead,Bristol-Myers Squibb
+2973339,NCT00095082,Industry,lead,Novo Nordisk A/S
+2973368,NCT00094770,Industry,lead,Merck Sharp & Dohme Corp.
+2973369,NCT00094757,Industry,lead,Merck Sharp & Dohme Corp.
+2973398,NCT00094458,Industry,lead,"Centocor Ortho Biotech Services, L.L.C."
+2973399,NCT00094458,Industry,collaborator,Schering-Plough
+2973414,NCT00094302,Other,lead,New England Research Institutes
+2973415,NCT00094302,NIH,collaborator,"National Heart, Lung, and Blood Institute (NHLBI)"
+2973451,NCT00093925,Industry,lead,The Medicines Company
+2973452,NCT00093912,Industry,lead,The Medicines Company
+2973453,NCT00093899,Industry,lead,Merck Sharp & Dohme Corp.
+2973454,NCT00093886,Industry,lead,The Medicines Company
+2973527,NCT00093158,Industry,lead,The Medicines Company
+2973545,NCT00092989,Industry,lead,Merck Sharp & Dohme Corp.
+2973551,NCT00092885,Industry,lead,Merck Sharp & Dohme Corp.
+2973558,NCT00092781,Industry,lead,Merck Sharp & Dohme Corp.
+2973559,NCT00092768,Industry,lead,Merck Sharp & Dohme Corp.
+2973560,NCT00092755,Industry,lead,Merck Sharp & Dohme Corp.
+2973561,NCT00092742,Industry,lead,Merck Sharp & Dohme Corp.
+2973563,NCT00092716,Industry,lead,Merck Sharp & Dohme Corp.
+2973564,NCT00092703,Industry,lead,Merck Sharp & Dohme Corp.
+2973565,NCT00092690,Industry,lead,Merck Sharp & Dohme Corp.
+2973567,NCT00092664,Industry,lead,Merck Sharp & Dohme Corp.
+2973568,NCT00092651,Industry,lead,Merck Sharp & Dohme Corp.
+2973569,NCT00092586,Industry,lead,Merck Sharp & Dohme Corp.
+2973570,NCT00092573,Industry,lead,Merck Sharp & Dohme Corp.
+2973571,NCT00092560,Industry,lead,Merck Sharp & Dohme Corp.
+2973579,NCT00092638,Industry,lead,Merck Sharp & Dohme Corp.
+2973580,NCT00092625,Industry,lead,Merck Sharp & Dohme Corp.
+2973581,NCT00092612,Industry,lead,Merck Sharp & Dohme Corp.
+2973582,NCT00092599,Industry,lead,Merck Sharp & Dohme Corp.
+2973593,NCT00092365,Industry,lead,Merck Sharp & Dohme Corp.
+2973594,NCT00092352,Industry,lead,Merck Sharp & Dohme Corp.
+2973602,NCT00092209,Industry,lead,Merck Sharp & Dohme Corp.
+2973606,NCT00092157,Industry,lead,Merck Sharp & Dohme Corp.
+2973607,NCT00092144,Industry,lead,Merck Sharp & Dohme Corp.
+2973609,NCT00092118,Industry,lead,Merck Sharp & Dohme Corp.
+2973615,NCT00092040,Industry,lead,Merck Sharp & Dohme Corp.
+2973616,NCT00092027,Industry,lead,Merck Sharp & Dohme Corp.
+2973617,NCT00092014,Industry,lead,Merck Sharp & Dohme Corp.
+2973624,NCT00091949,Other,lead,Yale University
+2973625,NCT00091949,NIH,collaborator,National Institute of Neurological Disorders and Stroke (NINDS)
+2973626,NCT00091949,Industry,collaborator,"Takeda Pharmaceuticals North America, Inc."
+2973636,NCT00091793,Industry,lead,Amgen
+2973667,NCT00091598,Industry,lead,Gilead Sciences
+2973740,NCT00091429,Industry,lead,Gilead Sciences
+2973928,NCT00090298,Industry,lead,Merck Sharp & Dohme Corp.
+2973955,NCT00090168,Industry,lead,Merck Sharp & Dohme Corp.
+2973973,NCT00090116,Industry,lead,Forest Laboratories
+2973974,NCT00090103,Industry,lead,GlaxoSmithKline
+2974067,NCT00089895,Industry,lead,Merck Sharp & Dohme Corp.
+2974068,NCT00089895,Other,collaborator,Duke Clinical Research Institute
+2974085,NCT00089804,Industry,lead,La Jolla Pharmaceutical Company
+2974676,NCT00087529,Industry,lead,"Genentech, Inc."
+2974677,NCT00087516,Industry,lead,Merck Sharp & Dohme Corp.
+2974797,NCT00086515,Industry,lead,Merck Sharp & Dohme Corp.
+2974798,NCT00086502,Industry,lead,Merck Sharp & Dohme Corp.
+2974997,NCT00085644,Industry,lead,Abbott
+2975749,NCT00082381,Industry,lead,AstraZeneca
+2975750,NCT00082381,Industry,collaborator,Eli Lilly and Company
+2975758,NCT00082407,Industry,lead,AstraZeneca
+2975759,NCT00082407,Industry,collaborator,Eli Lilly and Company
+2976097,NCT00081731,Other,lead,Baim Institute for Clinical Research
+2976098,NCT00081731,Other,collaborator,Beth Israel Deaconess Medical Center
+2976531,NCT00080275,Industry,lead,Kos Pharmaceuticals
+2976725,NCT00079638,Industry,lead,Kos Pharmaceuticals
+2976870,NCT00078611,Industry,lead,Biogen
+2976871,NCT00078611,Industry,collaborator,Elan Pharmaceuticals
+2977114,NCT00077805,Industry,lead,Sanofi
+2977115,NCT00077792,Industry,lead,Sanofi
+2977116,NCT00077779,Industry,lead,Abbott
+2977118,NCT00077753,Industry,lead,Sanofi
+2977470,NCT00076089,Industry,lead,AstraZeneca
+2977471,NCT00076076,Industry,lead,AstraZeneca
+2977721,NCT00074542,Industry,lead,Tillotts Pharma AG
+2977814,NCT00073827,Industry,lead,Sunovion
+2977912,NCT00073372,Industry,lead,"Centocor, Inc."
+2977913,NCT00073372,Industry,collaborator,Eli Lilly and Company
+2977941,NCT00073177,Industry,lead,AstraZeneca
+2978117,NCT00071721,Other,lead,Alzheimer's Disease Cooperative Study (ADCS)
+2978118,NCT00071721,NIH,collaborator,National Institute on Aging (NIA)
+2978184,NCT00071331,Industry,lead,"Otsuka Pharmaceutical Development & Commercialization, Inc."
+2978198,NCT00071266,Industry,lead,Kos Pharmaceuticals
+2978207,NCT00064428,Industry,lead,GlaxoSmithKline
+2978208,NCT00064428,Industry,collaborator,Sanofi
+2978415,NCT00069784,Industry,lead,Sanofi
+2978416,NCT00069784,Other,collaborator,Population Health Research Institute
+2978423,NCT00069823,Other,lead,Johns Hopkins Bloomberg School of Public Health
+2978424,NCT00069823,Other,collaborator,American Lung Association Asthma Clinical Research Centers
+2978425,NCT00069823,NIH,collaborator,"National Heart, Lung, and Blood Institute (NHLBI)"
+2979221,NCT00064415,Industry,lead,Sunovion
+2979222,NCT00064402,Industry,lead,Sunovion
+2979223,NCT00064389,Industry,lead,Sunovion
+2979323,NCT00063687,Industry,lead,Cardiome Pharma
+2979486,NCT00062556,Industry,lead,Kos Pharmaceuticals
+2979500,NCT00062582,Industry,lead,AstraZeneca
+2979733,NCT00060931,Industry,lead,GlaxoSmithKline
+2979734,NCT00060918,Industry,lead,GlaxoSmithKline
+2979979,NCT00059306,Other,lead,University of British Columbia
+2979980,NCT00059306,NIH,collaborator,National Institute of Neurological Disorders and Stroke (NINDS)
+2980637,NCT00053599,NIH,lead,National Institute on Aging (NIA)
+2980638,NCT00053599,Other,collaborator,Alzheimer's Disease Cooperative Study (ADCS)
+2981304,NCT00031837,Other,lead,Gary Morrow
+2981305,NCT00031837,NIH,collaborator,National Cancer Institute (NCI)
+2983377,NCT00051558,Industry,lead,Eli Lilly and Company
+2983397,NCT00051285,Industry,lead,Gilead Sciences
+2983777,NCT00049829,Industry,lead,Novartis Pharmaceuticals
+2983788,NCT00048932,Industry,lead,Bristol-Myers Squibb
+2983799,NCT00048581,Industry,lead,Bristol-Myers Squibb
+2983800,NCT00048568,Industry,lead,Bristol-Myers Squibb
+2983832,NCT00048425,Industry,lead,Abbott
+2983833,NCT00048425,Industry,collaborator,"Orion Corporation, Orion Pharma"
+2983929,NCT00047424,NIH,lead,"National Heart, Lung, and Blood Institute (NHLBI)"
+2983938,NCT00046748,Industry,lead,Novartis Pharmaceuticals
+2983994,NCT00046254,Industry,lead,Novartis Pharmaceuticals
+2983996,NCT00046228,Industry,lead,"Centocor, Inc."
+2983997,NCT00046228,Industry,collaborator,Eli Lilly and Company
+2984016,NCT00045955,Industry,lead,Sanofi
+2984132,NCT00043784,Industry,lead,Sanofi
+2984256,NCT00042068,Industry,lead,Boehringer Ingelheim
+2984273,NCT00041938,Other,lead,Columbia University
+2984274,NCT00041938,NIH,collaborator,National Institute of Neurological Disorders and Stroke (NINDS)
+2984418,NCT00039026,Industry,lead,AstraZeneca
+2984419,NCT00039013,Industry,lead,AstraZeneca
+2984427,NCT00038961,Industry,lead,GlaxoSmithKline
+2984428,NCT00038961,Industry,collaborator,Sanofi
+2984541,NCT00038077,Industry,lead,AstraZeneca
+2984682,NCT00036439,Industry,lead,"Centocor, Inc."
+2984723,NCT00035984,Industry,lead,AstraZeneca
+2984778,NCT00035451,Industry,lead,Forest Laboratories
+2984829,NCT00034840,Industry,lead,Boehringer Ingelheim
+2984830,NCT00034840,Industry,collaborator,GlaxoSmithKline
+2984831,NCT00034840,Industry,collaborator,Bayer
+2984953,NCT00032890,U.S. Fed,lead,VA Office of Research and Development
+2984954,NCT00032890,NIH,collaborator,National Center for Complementary and Integrative Health (NCCIH)
+2984955,NCT00032890,NIH,collaborator,National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)
+2984960,NCT00032799,Industry,lead,Biogen
+2984961,NCT00032799,Industry,collaborator,Elan Pharmaceuticals
+2984962,NCT00032786,Industry,lead,Biogen
+2984963,NCT00032786,Industry,collaborator,Elan Pharmaceuticals
+2985097,NCT00029822,Industry,lead,Sanofi
+2985230,NCT00027066,Other,lead,Columbia University
+2985231,NCT00027066,NIH,collaborator,National Institute of Neurological Disorders and Stroke (NINDS)
+2987384,NCT00007670,U.S. Fed,lead,VA Office of Research and Development
+2987385,NCT00007670,Industry,collaborator,Parke-Davis
+2987386,NCT00007670,Industry,collaborator,Glaxo Wellcome
+2987416,NCT00007683,U.S. Fed,lead,VA Office of Research and Development
+2987417,NCT00007683,Industry,collaborator,Sanofi-Synthelabo
+2987418,NCT00007683,Industry,collaborator,Bristol-Myers Squibb
+2987620,NCT00006305,Other,lead,University of Pittsburgh
+2987621,NCT00006305,NIH,collaborator,"National Heart, Lung, and Blood Institute (NHLBI)"
+2987622,NCT00006305,NIH,collaborator,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
+2988656,NCT00004817,NIH,lead,National Institute of Neurological Disorders and Stroke (NINDS)
+2988657,NCT00004817,Other,collaborator,Harborview Injury Prevention and Research Center
+2989542,NCT00000620,NIH,lead,"National Heart, Lung, and Blood Institute (NHLBI)"
+2989543,NCT00000620,NIH,collaborator,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
+2989544,NCT00000620,NIH,collaborator,National Institute on Aging (NIA)
+2989545,NCT00000620,NIH,collaborator,National Eye Institute (NEI)
+2989546,NCT00000620,U.S. Fed,collaborator,Centers for Disease Control and Prevention
+2989551,NCT00000614,NIH,lead,"National Heart, Lung, and Blood Institute (NHLBI)"
+2989559,NCT00000609,NIH,lead,"National Heart, Lung, and Blood Institute (NHLBI)"
+2989613,NCT00000569,Other,lead,University of Minnesota - Clinical and Translational Science Institute
+2989614,NCT00000569,NIH,collaborator,"National Heart, Lung, and Blood Institute (NHLBI)"
+2989627,NCT00000558,NIH,lead,"National Heart, Lung, and Blood Institute (NHLBI)"
+2989629,NCT00000556,NIH,lead,"National Heart, Lung, and Blood Institute (NHLBI)"
+2989648,NCT00000542,NIH,lead,"National Heart, Lung, and Blood Institute (NHLBI)"
+2989652,NCT00000539,NIH,lead,"National Heart, Lung, and Blood Institute (NHLBI)"
+2989665,NCT00000530,NIH,lead,"National Heart, Lung, and Blood Institute (NHLBI)"
+2989739,NCT00000479,Other,lead,Brigham and Women's Hospital
+2989740,NCT00000479,NIH,collaborator,National Cancer Institute (NCI)
+2989741,NCT00000479,NIH,collaborator,"National Heart, Lung, and Blood Institute (NHLBI)"
+2989742,NCT00000478,NIH,lead,"National Heart, Lung, and Blood Institute (NHLBI)"
+2989744,NCT00000476,NIH,lead,"National Heart, Lung, and Blood Institute (NHLBI)"
+2993245,NCT02906930,Industry,lead,Novo Nordisk A/S
+2994419,NCT02348723,Industry,lead,Boehringer Ingelheim
+2995199,NCT01772134,Industry,lead,GlaxoSmithKline
+2995534,NCT01313637,Industry,lead,GlaxoSmithKline
+2995576,NCT01243424,Industry,lead,Boehringer Ingelheim
+2995577,NCT01243424,Industry,collaborator,Eli Lilly and Company
+2999458,NCT02031640,Industry,lead,"Teva Branded Pharmaceutical Products, R&D Inc."
+3000349,NCT00202566,Other,lead,Institut de Recherches Internationales Servier
+3002935,NCT01706328,Industry,lead,GlaxoSmithKline
+3004093,NCT03009019,Industry,lead,Dr. Reddy's Laboratories Limited
+3004097,NCT03006276,Industry,lead,Dr. Reddy's Laboratories Limited
+3004899,NCT01121224,U.S. Fed,lead,VA Office of Research and Development
+3006718,NCT02546323,Industry,lead,AstraZeneca
+3006784,NCT02467452,Industry,lead,Chiesi Farmaceutici S.p.A.
+3006988,NCT02273050,Industry,lead,AstraZeneca
+3007123,NCT02104817,Industry,lead,AstraZeneca
+3007124,NCT02104817,Other,collaborator,The Cleveland Clinic
+3007125,NCT02104817,Industry,collaborator,"Quintiles, Inc."
+3007441,NCT01583374,Industry,lead,Celgene
+3020157,NCT02164864,Industry,lead,Boehringer Ingelheim
+3020439,NCT01994226,Other,lead,Keele University
+3020654,NCT01813422,Industry,lead,Amgen
+3020877,NCT01606761,Industry,lead,"Janssen Research & Development, LLC"
+3020878,NCT01606761,Industry,collaborator,GlaxoSmithKline
+3021482,NCT00435461,Industry,lead,GlaxoSmithKline
+3024599,NCT02738879,Industry,lead,Merck Sharp & Dohme Corp.
+3024673,NCT02706951,Industry,lead,AbbVie
+3029000,NCT02762578,Industry,lead,Novo Nordisk A/S
+3029599,NCT02357459,Industry,lead,"Flexion Therapeutics, Inc."
+3029906,NCT02006654,Industry,lead,H. Lundbeck A/S
+3029907,NCT02006654,Industry,collaborator,"Otsuka Pharmaceutical Co., Ltd."
+3030217,NCT01516879,Industry,lead,Amgen
+3030335,NCT01179048,Industry,lead,Novo Nordisk A/S
+3044618,NCT02706847,Industry,lead,AbbVie
+3044943,NCT02465515,Industry,lead,GlaxoSmithKline
+3044944,NCT02465515,Other,collaborator,Duke Clinical Research Institute
+3045657,NCT01475721,Industry,lead,GlaxoSmithKline
+3045658,NCT01475721,Industry,collaborator,Parexel
+3050259,NCT02065791,Industry,lead,"Janssen Research & Development, LLC"
+3050260,NCT02065791,Other,collaborator,"The George Institute for Global Health, Australia"
+3050480,NCT01897532,Industry,lead,Boehringer Ingelheim
+3050481,NCT01897532,Industry,collaborator,Eli Lilly and Company
+3055994,NCT00922480,Industry,lead,"Boryung Pharmaceutical Co., Ltd"
+3055995,NCT00922480,Other,collaborator,Seoul National University Hospital
+3055996,NCT00922480,Other,collaborator,The Catholic University of Korea
+3055997,NCT00922480,Other,collaborator,Kangbuk Samsung Hospital
+3055998,NCT00922480,Other,collaborator,Konkuk University Medical Center
+3055999,NCT00922480,Other,collaborator,Konyang University Hospital
+3056000,NCT00922480,Other,collaborator,Keimyung University
+3056001,NCT00922480,Other,collaborator,Korea University
+3056002,NCT00922480,Other,collaborator,Korea University Guro Hospital
+3056003,NCT00922480,Other,collaborator,Dongguk University International Hospital
+3056004,NCT00922480,Other,collaborator,Seoul National University Bundang Hospital
+3056005,NCT00922480,Other,collaborator,Samsung Medical Center
+3056006,NCT00922480,Other,collaborator,Asan Medical Center
+3056007,NCT00922480,Other,collaborator,Severance Hospital
+3056008,NCT00922480,Other,collaborator,Ajou University
+3056009,NCT00922480,Other,collaborator,Wonju Christian Hospital
+3056010,NCT00922480,Other,collaborator,Yeungnam University Hospital
+3056011,NCT00922480,Other,collaborator,Yonsei University
+3056012,NCT00922480,Other,collaborator,Inha University Hospital
+3056013,NCT00922480,Other,collaborator,Chonbuk National University Hospital
+3056014,NCT00922480,Other,collaborator,Cheil General Hospital and Women’s Healthcare Center
+3056015,NCT00922480,Other,collaborator,Chungnam National University
+3056016,NCT00922480,Other,collaborator,Chungbuk National University Hospital
+3056017,NCT00922480,Other,collaborator,Hanyang University
+3058941,NCT01663402,Industry,lead,Sanofi
+3058942,NCT01663402,Industry,collaborator,Regeneron Pharmaceuticals
+3059230,NCT01165138,Industry,lead,GlaxoSmithKline
+3060676,NCT02229396,Industry,lead,AstraZeneca
+3060928,NCT01018186,Industry,lead,GlaxoSmithKline
+3060867,NCT01323621,Industry,lead,GlaxoSmithKline
+3062399,NCT02849080,Industry,lead,Novo Nordisk A/S
+3062824,NCT02305381,Industry,lead,Novo Nordisk A/S
+3062866,NCT02229227,Industry,lead,GlaxoSmithKline
+3062867,NCT02229227,Industry,collaborator,PPD
+3062973,NCT01991795,Industry,lead,AstraZeneca
+3071059,NCT02791490,Industry,lead,Merck Sharp & Dohme Corp.
+3072547,NCT01336023,Industry,lead,Novo Nordisk A/S
+3076109,NCT02579850,Industry,lead,Chiesi Farmaceutici S.p.A.
+3076682,NCT02207244,Industry,lead,"Janssen Research & Development, LLC"
+3076926,NCT02006641,Industry,lead,H. Lundbeck A/S
+3076927,NCT02006641,Industry,collaborator,"Otsuka Pharmaceutical Co., Ltd."
+3077034,NCT01911364,Industry,lead,Chiesi Farmaceutici S.p.A.
+24612862,NCT00692913,INDUSTRY,lead,Organon and Co
+24474164,NCT00640991,OTHER,lead,Population Health Research Institute
+24475039,NCT00652106,INDUSTRY,lead,Allergan
+24475950,NCT00663897,OTHER,lead,Lotung Poh-Ai Hospital
+24475951,NCT00663897,OTHER,collaborator,Tomorrow Medical Foundation
+24615040,NCT00573443,INDUSTRY,lead,Avanir Pharmaceuticals
+24615041,NCT00573443,OTHER,collaborator,Syneos Health
+24615276,NCT00562588,INDUSTRY,lead,Boehringer Ingelheim
+24482933,NCT00747110,INDUSTRY,lead,Dr. Falk Pharma GmbH
+24546832,NCT02207621,INDUSTRY,lead,Aerie Pharmaceuticals
+24546838,NCT02207491,INDUSTRY,lead,Aerie Pharmaceuticals
+24617155,NCT00449787,OTHER,lead,Montefiore Medical Center
+24617849,NCT00414973,INDUSTRY,lead,Eli Lilly and Company
+24618269,NCT00393705,INDUSTRY,lead,Eli Lilly and Company
+24618368,NCT00387881,INDUSTRY,lead,GlaxoSmithKline
+24491549,NCT00856622,INDUSTRY,lead,Pfizer's Upjohn has merged with Mylan to form Viatris Inc.
+24620344,NCT00259610,OTHER,lead,University of Alabama at Birmingham
+24620345,NCT00259610,INDUSTRY,collaborator,Amgen
+24620346,NCT00259610,INDUSTRY,collaborator,Barr Laboratories
+24620347,NCT00259610,INDUSTRY,collaborator,Pfizer
+24503171,NCT00979589,OTHER,lead,Beijing Tiantan Hospital
+24503172,NCT00979589,OTHER,collaborator,"University of California, San Francisco"
+24510695,NCT01021696,OTHER,lead,University of Bergen
+24510696,NCT01021696,OTHER,collaborator,The Research Council of Norway
+24215465,NCT02565173,INDUSTRY,lead,Inotek Pharmaceuticals Corporation
+24525384,NCT01194882,INDUSTRY,lead,Sanofi
+24361078,NCT01683331,OTHER,lead,University of Michigan
+24361079,NCT01683331,OTHER,collaborator,Medical University of Vienna
+24651246,NCT01477983,OTHER,lead,"Kyoto University, Graduate School of Medicine"
+24363811,NCT01749904,INDUSTRY,lead,Bausch & Lomb Incorporated
+24363812,NCT01749930,INDUSTRY,lead,Bausch & Lomb Incorporated
+24364867,NCT01866163,INDUSTRY,lead,LEO Pharma
+24366484,NCT01973205,INDUSTRY,lead,Novartis
+24389262,NCT02870205,INDUSTRY,lead,Glenmark Specialty S.A.
+24537906,NCT02709538,INDUSTRY,lead,Glenmark Specialty S.A.
+24538687,NCT02631551,INDUSTRY,lead,Glenmark Specialty S.A.
+24378942,NCT02558374,INDUSTRY,lead,Aerie Pharmaceuticals
+24556809,NCT01451398,INDUSTRY,lead,Mannkind Corporation
+24557160,NCT01427751,INDUSTRY,lead,Allergan
+24405233,NCT00000173,NIH,lead,National Institute on Aging (NIA)
+24405234,NCT00000173,OTHER,collaborator,Alzheimer's Disease Cooperative Study (ADCS)
+24405331,NCT00000425,OTHER,lead,Stanford University
+24405332,NCT00000425,NIH,collaborator,National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)
+24405374,NCT00000480,NIH,lead,"National Heart, Lung, and Blood Institute (NHLBI)"
+24412730,NCT00035256,INDUSTRY,lead,Eli Lilly and Company
+24415941,NCT00067093,INDUSTRY,lead,Sanofi
+24418420,NCT00092079,INDUSTRY,lead,Merck Sharp & Dohme LLC
+24419806,NCT00110474,INDUSTRY,lead,Rottapharm
+24421376,NCT00126516,OTHER,lead,Nara Medical University
+24421505,NCT00128024,OTHER,lead,Kumamoto University
+24422617,NCT00134147,INDUSTRY,lead,Pfizer
+24422618,NCT00134147,INDUSTRY,collaborator,Sanofi
+24425410,NCT00150410,INDUSTRY,lead,Pfizer
+24425411,NCT00150410,INDUSTRY,collaborator,Sanofi
+24574985,NCT00247962,INDUSTRY,lead,Wyeth is now a wholly owned subsidiary of Pfizer
+24609739,NCT00810693,INDUSTRY,lead,Bayer
+24584374,NCT01248468,INDUSTRY,lead,Novartis
+24427976,NCT00174642,INDUSTRY,lead,Sanofi
+24429702,NCT00191425,INDUSTRY,lead,Eli Lilly and Company
+24000981,NCT02183688,INDUSTRY,lead,Boehringer Ingelheim
+24431748,NCT00210496,INDUSTRY,lead,Janssen-Ortho LLC
+24431749,NCT00210496,INDUSTRY,collaborator,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+24596261,NCT01342081,INDUSTRY,lead,"Santen Pharmaceutical Co., Ltd."
+24436928,NCT00263393,OTHER,lead,The George Institute
+24436929,NCT00263393,OTHER,collaborator,Byrraju Foundation
+24436930,NCT00263393,UNKNOWN,collaborator,"The Future Forum, UK"
+24440079,NCT00300118,INDUSTRY,lead,Dr. Falk Pharma GmbH
+24441272,NCT00314158,INDUSTRY,lead,Alcon Research
+24442979,NCT00329355,INDUSTRY,lead,GlaxoSmithKline
+24442985,NCT00329459,INDUSTRY,lead,GlaxoSmithKline
+24444561,NCT00348452,INDUSTRY,lead,"Bausch Health Americas, Inc."
+24446321,NCT00370565,INDUSTRY,lead,Pfizer
+24446322,NCT00370565,INDUSTRY,collaborator,Sanofi
+24446323,NCT00370565,INDUSTRY,collaborator,Nektar Therapeutics
+24602306,NCT00979628,OTHER,lead,"Guillermo Umpierrez, MD"
+24602307,NCT00979628,INDUSTRY,collaborator,Sanofi
+24602308,NCT00979628,OTHER,collaborator,Medical University of South Carolina
+24602309,NCT00979628,OTHER,collaborator,Texas A&M University
+24450531,NCT00424333,INDUSTRY,lead,Pfizer
+24450535,NCT00424437,INDUSTRY,lead,Pfizer
+24451315,NCT00433732,INDUSTRY,lead,POZEN
+24451341,NCT00434083,INDUSTRY,lead,POZEN
+24092383,NCT00389740,INDUSTRY,lead,Organon and Co
+24092400,NCT00092066,INDUSTRY,lead,Organon and Co
+24108596,NCT00542724,INDUSTRY,lead,Biodel
+24108598,NCT00542633,INDUSTRY,lead,Biodel
+24109220,NCT00097357,INDUSTRY,lead,Bristol-Myers Squibb
+24153939,NCT03049085,OTHER,lead,Medinet Heart Centre
