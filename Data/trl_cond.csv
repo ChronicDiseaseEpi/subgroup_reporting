@@ -112,9 +112,9 @@ NCT02739984,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
 NCT02863328,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT03015220,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT00007683,Heart Failure,C14.280.434,Heart Failure
-NCT00047424,Hypertension,C14.907.489,Hypertension
-NCT00047424,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
-NCT00047424,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
+NCT00047424,Hypertension,C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00047424,Diabetes Mellitus,C18.452.394.750.149,"Diabetes Mellitus, Type 2"
+NCT00047424,Atherosclerosis,C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT00048425,Heart Failure,C14.280.434,Heart Failure
 NCT00048568,"Arthritis, Rheumatoid",C05.550.114,Arthritis
 NCT00062556,Intermittent Claudication,C14.907.137.126.669,Intermittent Claudication
@@ -148,7 +148,7 @@ NCT00250445,Osteoarthritis,C05.550.114,Arthritis
 NCT00264901,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT00267969,Psoriasis,C17.800.859.675,Psoriasis
 NCT00268697,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
-NCT00286442,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00286442,Diabetes Mellitus,C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT00286455,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
 NCT00290030,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
 NCT00296218,Hypertension,C14.907.489,Hypertension
@@ -199,7 +199,7 @@ NCT00801944,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, 
 NCT00860262,Hypertension,C14.907.489,Hypertension
 NCT00891462,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
 NCT00902304,Hypertension,C14.907.489,Hypertension
-NCT00927394,Hypertension,C14.907.489,Hypertension
+NCT00927394,Hypertension,C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT00971165,Hypertension,C14.907.489,Hypertension
 NCT01066676,Osteoarthritis,C05.550.114,Arthritis
 NCT01072448,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
@@ -271,7 +271,7 @@ NCT00277472,Hypertension,C14.907.489,Hypertension
 NCT00280046,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT00280059,Epilepsy,C10.228.140.490,Epilepsy
 NCT00280540,Hypertension,C14.907.489,Hypertension
-NCT00286429,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00286429,Diabetes Mellitus,C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT00290264,Asthma,C08.381.495,"Lung Diseases, Obstructive"
 NCT00299546,"Arthritis, Rheumatoid",C05.550.114,Arthritis
 NCT00303459,"Hypertension, Pulmonary",C08.381.423,"Hypertension, Pulmonary"
@@ -296,7 +296,7 @@ NCT00557921,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
 NCT00562952,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
 NCT00562952,Heart Failure,C14.280.434,Heart Failure
 NCT00562952,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
-NCT00570739,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
+NCT00570739,Hypercholesterolemia,C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT00570739,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT00622284,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT00646542,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
@@ -371,7 +371,7 @@ NCT00116831,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
 NCT00127179,Prostatic Hyperplasia,C12.294.565.500,Prostatic Hyperplasia
 NCT00129545,Stroke,C14.907.253.855,Stroke
 NCT00129545,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
-NCT00135226,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00135226,Diabetes Mellitus,C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT00141778,Atrial Fibrillation,C14.280.067,"Arrhythmias, Cardiac"
 NCT00144339,"Pulmonary Disease, Chronic Obstructive",C08.381.495,"Lung Diseases, Obstructive"
 NCT00150410,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
@@ -1173,7 +1173,7 @@ NCT00138619,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, 
 NCT00168779,Hypertension,C14.907.489,Hypertension
 NCT00170989,Hypertension,C14.907.489,Hypertension
 NCT00171275,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
-NCT00174993,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00174993,Diabetes Mellitus,C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT00191282,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
 NCT00191282,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT00202566,Angina Pectoris,C14.280.647Y,"Myocardial Ischemia, chronic"
@@ -1325,7 +1325,7 @@ NCT00237237,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, 
 NCT00264537,"Arthritis, Rheumatoid",C05.550.114,Arthritis
 NCT00265083,"Spondylitis, Ankylosing",C05.550.114,Arthritis
 NCT00269893,Angina Pectoris,C14.280.647Y,"Myocardial Ischemia, chronic"
-NCT00286468,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00286468,Diabetes Mellitus,C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT00287716,Idiopathic Interstitial Pneumonias,C08.381.483.487,Idiopathic Interstitial Pneumonias
 NCT00311363,Restless Legs Syndrome,C10.803,Restless Legs Syndrome
 NCT00329355,Migraine Disorders,C10.228.140.546.399.750,Migraine Disorders
@@ -1479,7 +1479,7 @@ NCT00379249,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
 NCT00383240,Asthma,C08.381.495,"Lung Diseases, Obstructive"
 NCT00385138,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
 NCT00385138,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
-NCT00395512,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00395512,Diabetes Mellitus,C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT00396227,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT00406419,"Arthritis, Rheumatoid",C05.550.114,Arthritis
 NCT00414609,Myocardial Infarction,C14.280.647X,"Myocardial Ischemia, acute"
@@ -1843,7 +1843,7 @@ NCT00006305,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, 
 NCT00027066,Stroke,C14.907.253.855,Stroke
 NCT00046254,Osteoporosis,C05.116.198.579,Osteoporosis
 NCT00090298,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
-NCT00106847,Parapsoriasis,C17.800.859.575,Parapsoriasis
+NCT00106847,Psoriasis,C17.800.859.675,Psoriasis
 NCT00106847,Psoriasis,C17.800.859.675,Psoriasis
 NCT00109317,Psoriasis,C17.800.859.675,Psoriasis
 NCT00132717,Hypercholesterolemia,C18.452.584.500.500,Hyperlipidemias
@@ -2238,14 +2238,14 @@ NCT00303459,Hypertension,C14.907.489,Hypertension
 NCT00308347,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT00309244,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT00311402,Stroke,C14.907.253.855,Stroke
-NCT00313313,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00313313,Diabetes Mellitus,C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT00314158,Hypertension,C14.907.489,Hypertension
 NCT00316082,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
 NCT00322153,Alzheimer Disease,C10.228.140.380,Dementia
 NCT00325390,Acute Coronary Syndrome,C14.280.647X,"Myocardial Ischemia, acute"
 NCT00325403,Hypertension,C14.907.489,Hypertension
 NCT00325442,Hypertension,C14.907.489,Hypertension
-NCT00327015,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00327015,Diabetes Mellitus,C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT00327418,Stroke,C14.907.253.855,Stroke
 NCT00327418,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT00327691,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
@@ -2312,7 +2312,7 @@ NCT00551447,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
 NCT00555217,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT00562289,Migraine Disorders,C10.228.140.546.399.750,Migraine Disorders
 NCT00562588,Stroke,C14.907.253.855,Stroke
-NCT00570739,Prediabetic State,C18.452.394.750,Diabetes Mellitus
+NCT00570739,Prediabetic State,C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT00573443,Multiple Sclerosis,C10.314.350.500,Multiple Sclerosis
 NCT00575588,"Diabetes Mellitus, Type 2",C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT00596752,Peripheral Arterial Disease,C14.907.617,Peripheral Vascular Diseases
@@ -2367,7 +2367,7 @@ NCT00857649,Alzheimer Disease,C10.228.140.380,Dementia
 NCT00880620,Parkinson Disease,C10.574.812,Parkinson Disease
 NCT00887978,Hypertension,C14.907.489,Hypertension
 NCT00911937,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
-NCT00927394,Diabetes Mellitus,C18.452.394.750,Diabetes Mellitus
+NCT00927394,Diabetes Mellitus,C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT00928070,"Urinary Bladder, Overactive",C23.888.942.343.780,"Urinary Bladder, Overactive"
 NCT00947843,Coronary Artery Disease,C14.280.647Y,Myocardial Ischemia
 NCT00957684,Seizures,C10.228.140.490,Epilepsy
@@ -2405,7 +2405,7 @@ NCT01252953,Atherosclerosis,C14.907.137.126.307,Atherosclerosis
 NCT01261325,Seizures,C10.228.140.490,Epilepsy
 NCT01262677,Seizures,C10.228.140.490,Epilepsy
 NCT01263925,Peripheral Arterial Disease,C14.907.617,Peripheral Vascular Diseases
-NCT01272219,Prediabetic State,C18.452.394.750,Diabetes Mellitus
+NCT01272219,Prediabetic State,C18.452.394.750.149,"Diabetes Mellitus, Type 2"
 NCT01283594,Parkinson Disease,C10.574.812,Parkinson Disease
 NCT01284556,Seizures,C10.228.140.490,Epilepsy
 NCT01286935,Parkinson Disease,C10.574.812,Parkinson Disease
