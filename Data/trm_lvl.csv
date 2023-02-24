@@ -4555,7 +4555,7 @@ heart disease and/or cerebrovascular disorder
 4532,27316465,5,treatment naive at baseline,Steroids,D013256,NA,0,1254,previous,8,100000000,Steroids,NA
 4533,27322571,NA,"Age, y",Age Factors,D000367,NA,0,0,any,2,000000000,Age Factors,NA
 4534,27322571,NA,"Disease duration, y",Parkinson Disease,D010300,NA,0,0,duration,5,001000000,Parkinson Disease,NA
-4535,27322571,NA,Disease severity,"Arthritis, Rheumatoid",D001172,NA,0,0,severity,11,000100000,"Arthritis, Rheumatoid",NA
+4535,27322571,NA,Disease severity,Depression,D00386,NA,0,0,severity,11,000100000,"Arthritis, Rheumatoid",NA
 4536,27322571,NA,Disease stage,Parkinson Disease,D010300,NA,0,0,severity,11,000100000,Parkinson Disease,NA
 4537,27322571,NA,Gender,Gender Identity,D005783,NA,0,0,any,2,000000000,Gender Identity,NA
 4538,27335114,NA,AED inducer status and AED and number of prior AEDs,unclassifiable,NA,NA,0,0,previous severity,9,100100000,unclassifiable,167
