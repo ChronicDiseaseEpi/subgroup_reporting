@@ -20,14 +20,14 @@ cardiomettbe <-
   c("Acute Coronary Syndrome", "Angina Pectoris",  
     "Atherosclerosis",  
     "Atrial Fibrillation", "Coronary Artery Disease",  
-    "Diabetes Mellitus, Type 1", "Diabetes Mellitus, Type 2",  
+    "Diabetes Mellitus, Type 1", "Diabetes Mellitus, Type 2",  "Diabetes Mellitus", "Diabetic Nephropathies",
     "Heart Failure",  
     "Hypercholesterolemia", "Hypertension",  
     "Ischemic Attack, Transient",   
     "Myocardial Infarction",  
     "Peripheral Arterial Disease", "Prediabetic State",  
-    "Stroke", "Cerebral Infarction", "Brain Ischaemia", 
-    "Venous Thromboembolism", "Hyperlipidaemias", 
+    "Stroke", "Cerebral Infarction", "Brain Ischemia", 
+    "Venous Thromboembolism", "Hyperlipidemias", "Venous Thrombosis", "Thromboembolism","Pulmonary Embolism", 
     "Retinal Vein Occlusion") 
 resp <- c("Idiopathic Interstitial Pneumonias", "Pulmonary Disease, Chronic Obstructive", "Rhinitis") 
 gi <- c("Crohn Disease", "Esophagitis", "Gastroesophageal Reflux","Colitis, Ulcerative") 

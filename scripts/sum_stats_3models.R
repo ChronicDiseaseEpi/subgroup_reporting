@@ -3,7 +3,6 @@ library(tidyverse)
 library(stats) 
 library(ggplot2) 
 library(reshape2) 
-library(car) 
 library(broom) 
 library(mgcv) 
 library(descr) 
@@ -31,6 +30,9 @@ term_trial<- term %>%
   rename(nct_id = nct_ids) %>% 
   left_join(condition) %>% 
   left_join(order_id1 %>% select(-n)) 
+# common<- term_trial %>%
+#   distinct(nct_id, mesh_term) 
+  
 #pick the commonest condition for each trial with sub 
 trial_1con <- term_trial %>% 
   select(nct_id, condition_preferred,order_id) %>% 
@@ -131,13 +133,6 @@ num_sub<- term_trial %>%
   group_by(nct_id) %>% 
   summarise(n_sub = n_distinct(mesh_term)) 
 freq(num_sub$n_sub)
-#get comparisons for variables
-compar<- res_data2 %>% 
-  left_join(denom %>% select(nct_id, sub_yes)) %>% 
-  group_by(sub_yes) %>% 
-  median(fup_length, na.rm = TRUE)
-yes_sub <- compar %>% filter(sub_yes == 1)
-no_sub <- compar %>% filter(sub_yes == 0)
 #get common sub
 com_sub <- term_trial_1con %>%
   group_by(mesh_term, condition_commonest) %>% 
@@ -175,7 +170,13 @@ res_data2<- study %>%
          industry = as.character(if_else(agency_class == "Industry", 1L, 0L)), 
          fup_length = year_comp - year_start) %>% 
   rename(condition_commonest = condition_commonest_2235) 
-
+# #get comparisons for variables
+# compar<- res_data2 %>% 
+#   left_join(denom %>% select(nct_id, sub_yes)) %>% 
+#   group_by(sub_yes) %>% 
+#   median(fup_length, na.rm = TRUE)
+# yes_sub <- compar %>% filter(sub_yes == 1)
+# no_sub <- compar %>% filter(sub_yes == 0)
 #model for the presence of results reporting in 2235 trials---- 
 res_yesno<- glm(res_yes ~ year_start + fup_length + n_arms_c + log(enrollment, base = 10) + industry, data = res_data2,  
                 family = binomial) 

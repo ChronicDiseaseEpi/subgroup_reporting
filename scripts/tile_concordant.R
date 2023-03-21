@@ -109,23 +109,22 @@ tot_smry2 <- tot_smry2 %>%
 #   mutate(m2 = m/max(m)) %>%  
 #   ungroup() 
 plot1 <- ggplot(tot_smry2 %>%  
-                  filter(df == "res", !is.na(tree3sub), ! tree3sub == "C23", !tree3cond == "C23"),  
+                  filter(df == "res", !is.na(tree3sub), ! tree3sub == "C23", !tree3cond == "C23", !tree3cond == "C20"),  
                 aes(x = tree_subgroup, y = tree_condition, fill = m, label = mlbl)) + 
-  xlab("Subgroups") + 
-  ylab("Conditions") + 
+  xlab("Disease systems for subgroups") + 
+  ylab("Disease systems for index conditions") + 
   geom_tile(colour = NA)+ 
   geom_tile(colour = NA, fill = NA, data = tot_smry2 %>% filter(df == "blanks")) + 
   geom_text(colour = "white") + 
   theme_bw() +  
-  theme(text = element_text(size=10, color = "black"),  
+  theme(text = element_text(size=16, color = "black"),  
         axis.text.x = element_text(angle=45, hjust=1)) + 
   scale_fill_viridis_c("%", guide = FALSE) 
 plot1  
 
-#pdf("temp.pdf") 
-# plot1 
-# plot2 
-#dev.off() 
+tiff("tile.tiff", res = 600, compression = "lzw", units = "cm", width = 35, height = 25) 
+plot1 
+dev.off() 
 
 # #not run below yet, prob not necessary 
 # ##diag---- 
