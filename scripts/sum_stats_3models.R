@@ -5,7 +5,8 @@ library(ggplot2)
 library(reshape2) 
 library(broom) 
 library(mgcv) 
-library(descr) 
+library(descr)
+library(scales)
 #read data and get summary stats---- 
 #read 2235 trials in bmc as denominator 
 study<- read.csv("Data/studies.csv") 
@@ -120,14 +121,15 @@ df4<- term_trial_1con %>%
   arrange(condition_commonest, desc(freq_sub)) %>%  
   mutate(top5 = seq_along(mesh_term)) %>%  
   filter(top5 %in% c("1", "2", "3", "4", "5", "6")) %>% #some might have the same freq in the 5th order, just pick one here; here choose top 6 as mean to delete some unclassifiable in the middle 
+  left_join(stats_denom) %>%
   group_by(condition_commonest) %>%  
-  summarise(top5_sub = paste0(mesh_term," (", freq_sub, ")", collapse = "; ")) 
+  summarise(top5_sub = paste0(mesh_term," (", percent(freq_sub/num_withsub), ")", collapse = "; ")) #use percentage here instead based on reviewer's comment
 #var merge 
 df_stats<- merge(df2, df4, by = "condition_commonest") %>%  
   merge(df4) %>% 
-  left_join(stats_denom) %>% 
+  left_join(stats_denom) %>%
   arrange(desc(n_sub)) 
-#write.csv(df_stats, "summary_stats.csv")#add some more editing in excel 
+#write.csv(df_stats, "summary_stats_updated.csv")#add some more editing in excel 
 #get number of single, double sub in trials
 num_sub<- term_trial %>% 
   group_by(nct_id) %>% 
@@ -142,7 +144,7 @@ com_sub2 <- term_trial_1con %>%
   group_by(mesh_term) %>% 
   summarise(n_sub = n_distinct(nct_id)) %>% 
   mutate(propor = n_sub/524)
-  #model prepare---- 
+#model prepare---- 
 study <- study %>% 
   select(nct_id, start_date, number_of_arms, enrollment, completion_date)#after some checking, here should pick start_date rather than 1st received date 
 #select a lead sponsor for each trial 

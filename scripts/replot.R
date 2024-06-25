@@ -1,9 +1,10 @@
 library(tidyverse) 
-mydf <- read_csv("three_model_results.csv") 
+mydf <- read_csv("results/three_model_results.csv") 
 
 ## drop itnercepts 
 mydf <- mydf %>%  
-  filter(!term == "(Intercept)") 
+  filter(!term == "(Intercept)",
+         !model == "Number_of_subgroups") 
 
 
 tc <- c("(Intercept)", "Duration of follow up", "Number of arms > 2", "log(enrollment, base = 10)", "Industry1", "Start year") 
@@ -37,43 +38,46 @@ neuro <- c("Alzheimer Disease",
 ms <- c("Arthritis, Psoriatic",  
         "Arthritis, Rheumatoid",     
         "Gout", 
-        "Lupus Erythematosus, Systemic",  
-        "Lupus Nephritis",  "Osteoarthritis", "Osteoporosis",   
+        "Osteoarthritis", "Osteoporosis",   
         "Spondylarthropathies", "Spondylitis, Ankylosing") 
 
 mydf <- mydf %>%  
   mutate(term_type =   
            case_when( 
-             term %in% tc ~ " General", 
-             term %in% cardiomettbe ~ "Cardiometabolic and thromboembolic", 
+             term %in% tc ~ "Trial Characteristics", 
+             term %in% cardiomettbe ~ "Cardiometabolic & Thromboembolic", 
              # term %in% resp ~ "Respiratory", 
              #term %in% gu ~ "Genitorurinary", 
              # term %in% gi ~ "Gastrointenstinal", 
              term %in% neuro ~ "Neurological", 
              term %in% ms ~ "Musculoskeletal", 
-             TRUE ~ "Other" 
+             TRUE ~ "Other Diseases" 
            ), 
-         model_f = factor(model, levels = c("Subgroup_reporting", "Number_of_subgroups", "Results_reporting"),  
-                          labels = c("Any subgroup", "Total subgroups", "Any result"))) %>%  
-  mutate(term = case_when( 
-    term == "log(enrollment, base = 10)" ~ "Enrollment", 
-    term == "Industry1" ~ "Industry", 
-    TRUE ~ term)) 
-
-plot1 <- ggplot(mydf, aes(x = term, y = estimate, ymin = estimate - 1.96*std.error, ymax = estimate + 1.96*std.error, colour = model_f)) + 
+         model_f = factor(model, levels = c("Subgroup_reporting", "Results_reporting"),  
+                          labels = c("Any subgroup", "Any result")))  %>%
+  mutate(term = case_when(
+    term == "log(enrollment, base = 10)" ~ "Enrollment",
+    term == "Industry1" ~ "Industry",
+    TRUE ~ term))
+mydf$term_type <- factor(mydf$term_type, levels = c("Cardiometabolic & Thromboembolic", "Musculoskeletal", "Trial Characteristics", "Neurological", "Other Diseases"))
+plot <- ggplot(mydf, aes(x = term, y = estimate, ymin = estimate - 1.96*std.error, ymax = estimate + 1.96*std.error, colour = model_f)) + 
   geom_point(position = position_dodge(width = 0.5)) + 
   geom_linerange(position = position_dodge(width = 0.5)) + 
   coord_flip() + 
-  facet_wrap(~term_type, drop = TRUE, scales = "free_y") + 
+  facet_wrap(~ term_type, drop = TRUE, scales = "free_y") + 
   geom_hline(yintercept = 0, linetype = "dashed") + 
   scale_color_discrete("") + 
   theme_bw() + 
-  scale_y_continuous("OR (any subgroup and any result) and RR (total subgroups)", 
+  scale_y_continuous("Odds Ratio", 
                      breaks = log(c(0.25, 1, 4, 16)), 
                      labels =    (c(0.25, 1, 4, 16))) + 
-  scale_x_discrete("") 
-plot1 
+  scale_x_discrete("") +  
+  theme(strip.text = element_text(size = 9.15))  + 
+  theme(axis.text.y = element_text(size = 9.6))
+plot
 
-tiff("Forstplots.tiff", res = 600, compression = "lzw", units = "cm", width = 35, height = 20) 
-plot1 
+
+tiff("plot.tiff", res = 600, compression = "lzw", units = "cm", width = 35, height = 20) 
+plot
 dev.off() 
+
